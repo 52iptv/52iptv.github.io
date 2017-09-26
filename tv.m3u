@@ -17,9 +17,9 @@ http://119.39.49.86:6610/001/2/ch00000090990000001051/index.m3u8?&virtualDomain=
 http://119.39.49.86:6610/001/2/ch00000090990000001070/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="hunanguoji.png",group-title="芒果TV",湖南国际
 http://119.39.49.86:6610/001/2/ch00000090990000001044/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="hunanguoji.png",group-title="芒果TV",湖南时尚
+#EXTINF:0 tvg-logo="hunanshishang.png",group-title="芒果TV",湖南时尚
 http://119.39.49.86:6610/001/2/ch00000090990000001085/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="hunanguoji.png",group-title="芒果TV",湖南快乐购
+#EXTINF:0 tvg-logo="hunanklg.png",group-title="芒果TV",湖南快乐购
 http://119.39.49.86:6610/001/2/ch00000090990000001116/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="jingyingjishi.png",group-title="芒果TV",金鹰纪实
 http://119.39.49.86:6610/001/2/ch00000090990000001057/index.m3u8?&virtualDomain=001.live_hls.zte.com
