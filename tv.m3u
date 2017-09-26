@@ -3,7 +3,7 @@
 http://119.39.49.86:6610/001/2/ch00000090990000001079/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="hunanjingshi.png",group-title="芒果TV",湖南经视720P
 http://119.39.49.86:6610/001/2/ch00000090990000001080/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="hunanguoji.png",group-title="芒果TV",快乐垂钓1080P
+#EXTINF:0 tvg-logo="hunanklcd.png",group-title="芒果TV",快乐垂钓1080P
 http://119.39.49.86:6610/001/2/ch00000090990000001060/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="hunandushi.png",group-title="芒果TV",湖南都市
 http://119.39.49.86:6610/001/2/ch00000090990000001049/index.m3u8?&virtualDomain=001.live_hls.zte.com
