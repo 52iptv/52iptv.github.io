@@ -2,35 +2,37 @@
 #EXTINF:0 tvg-logo="CCTV-1a.png",group-title="央视频道",CCTV-1
 http://120.221.45.172:8089/PLTV/88888888/224/3221225873/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-2a.png",group-title="央视频道",CCTV-2
-http://125.88.39.22/live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8
+http://183.251.61.197/PLTV/88888888/224/3221225923/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-3a.png",group-title="央视频道",CCTV-3
-http://125.88.39.22/live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8
+http://183.252.176.10/PLTV/88888888/224/3221225924/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-4a.png",group-title="央视频道",CCTV-4
-http://61.166.153.32:1180/play/playback/90000001000000050000000000000199/live100001.m3u8
+http://218.207.213.135/PLTV/88888888/224/3221225802/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-5a.png",group-title="央视频道",CCTV-5
-http://125.88.39.22/live.aishang.ctlcdn.com/00000110240246_1/encoder/0/playlist.m3u8
+http://183.252.176.10/PLTV/88888888/224/3221225803/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-5b.png",group-title="央视频道",CCTV-5+
-http://125.88.39.22/live.aishang.ctlcdn.com/00000110240128_1/encoder/0/playlist.m3u8
+http://183.251.61.197/PLTV/88888888/224/3221225939/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-6a.png",group-title="央视频道",CCTV-6
-http://125.88.39.22/live.aishang.ctlcdn.com/00000110240247_1/encoder/0/playlist.m3u8
+http://183.251.61.197/PLTV/88888888/224/3221225926/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-7a.png",group-title="央视频道",CCTV-7
-http://125.88.39.22/live.aishang.ctlcdn.com/00000110240248_1/encoder/0/playlist.m3u8
+http://183.251.61.197/PLTV/88888888/224/3221225927/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-8a.png",group-title="央视频道",CCTV-8
-http://125.88.39.22/live.aishang.ctlcdn.com/00000110240249_1/encoder/0/playlist.m3u8
+http://183.251.61.197/PLTV/88888888/224/3221225928/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-9a.png",group-title="央视频道",CCTV-9
-http://125.88.39.22/live.aishang.ctlcdn.com/00000110240250_1/encoder/0/playlist.m3u8
+http://183.252.176.10/PLTV/88888888/224/3221225929/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-10a.png",group-title="央视频道",CCTV-10
-http://125.88.39.22/live.aishang.ctlcdn.com/00000110240251_1/encoder/0/playlist.m3u8
+http://183.251.61.197/PLTV/88888888/224/3221225931/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-11a.png",group-title="央视频道",CCTV-11
-http://r.gslb.lecloud.com/live/hls/201706223000000c499/desc.m3u8
+http://183.251.61.197/PLTV/88888888/224/3221225815/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-12a.png",group-title="央视频道",CCTV-12
-http://125.88.39.22/live.aishang.ctlcdn.com/00000110240252_1/encoder/0/playlist.m3u8
+http://183.251.61.197/PLTV/88888888/224/3221225932/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-13a.png",group-title="央视频道",CCTV-13
-http://125.88.39.22/live.aishang.ctlcdn.com/00000110240126_1/encoder/0/playlist.m3u8
+http://183.251.61.197/PLTV/88888888/224/3221225817/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-14a.png",group-title="央视频道",CCTV-14
-http://125.88.39.22/live.aishang.ctlcdn.com/00000110240253_1/encoder/0/playlist.m3u8
+http://183.251.61.197/PLTV/88888888/224/3221225933/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-15a.png",group-title="央视频道",CCTV-15
-http://125.88.39.22/live.aishang.ctlcdn.com/00000110240086_1/encoder/0/playlist.m3u8
+http://183.251.61.197/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:0 tvg-logo="cetv1.png",group-title="央视频道",中国教育频道
+http://125.88.39.22/live.aishang.ctlcdn.com/00000110240302_1/encoder/0/playlist.m3u8
 #EXTINF:0 tvg-logo="kankannewa.png",group-title="卫视频道",看看新闻
 http://140.207.241.2:8080/live/program/live/hdnba8/4000000/mnf.m3u8
 #EXTINF:0 tvg-logo="beijingshijianb.png",group-title="卫视频道",北京时间
