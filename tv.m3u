@@ -159,8 +159,8 @@ http://183.59.185.74:30001/PLTV/88888905/224/3221227238/100001000000000600000000
 http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9SE5HSk1QUDM2MCZjZG5leF9pZD1hbF9waG9uZV9saXZlMyZuZnQ9dHMz/JYJSMPP360.m3u8
 #EXTINF:0 tvg-logo="jingyingkatong.png",group-title="省市频道",金鹰卡通
 http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9SE5HSk1QUDM2MCZjZG5leF9pZD1hbF9waG9uZV9saXZlMyZuZnQ9dHMz/JYKTMPP360.m3u8
-#EXTINF:0 tvg-logo="hunanjingshi.png",group-title="省市频道",湖南经济
-http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9SE5KU01QUDM2MCZjZG5leF9pZD1hbF9waG9uZV9saXZlMyZuZnQ9dHMz/HNJSMPP360.m3u8
+#EXTINF:0 tvg-logo="hunanjingshi.png",group-title="省市频道",湖南经视
+http://119.39.49.86:6610/001/2/ch00000090990000001080/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="hunandushi.png",group-title="省市频道",湖南都市
 http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9SE5EU01QUDM2MCZjZG5leF9pZD1hbF9waG9uZV9saXZlMyZuZnQ9dHMa/HNDSMPP360.m3u8
 #EXTINF:0 tvg-logo="hunanyule.png",group-title="省市频道",湖南娱乐
