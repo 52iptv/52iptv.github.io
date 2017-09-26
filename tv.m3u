@@ -132,7 +132,7 @@ http://220.167.81.61/PLTV/88888896/224/3221227947/100001000000000600000000037343
 #EXTINF:0 tvg-logo="beijingwenyia.png",group-title="省市频道",北京文艺
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 #EXTINF:0 tvg-logo="beijingjishia.png",group-title="省市频道",北京纪实
-http://ivi.bupt.edu.cn/hls/btv11hd.m3u8 
+http://218.207.213.135/PLTV/88888888/224/3221225944/index.m3u8
 #EXTINF:0 tvg-logo="dazhongyingshia.png",大众影视
 http://59.46.32.167:8114/LNTVOTT/00000000000000020000000001601322?Fsv_otype=1&FvSeid=58babc2a7202e3b&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=758541&Fsv_chan_hls_se_idx=11&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Provider_id=LNTVOTT&Pcontent_id=00000000000000020000000001601322&Fsv_otype=1&FvUPLK&FvUPI=61.161.250.56&FvUPPT=8114&Provider_id=LNTVOTT&Pcontent_id=00000000000000020000000001601322&Fsv_MBt=0&Fsv_CBt=8520400&Fsv_otype=1&Fsv_filetype=1&FvUSd=0&FvSeid=57c4f053c62daadb&FvUPLdPro=2
 #EXTINF:0 tvg-logo="jiatingyingyuanb.png",家庭影院
@@ -144,9 +144,9 @@ http://59.46.32.167:8114/LNTVOTT/00000000000000020000000001601325?Fsv_otype=1&Fv
 #EXTINF:0 tvg-logo="qiusuojilu.png",group-title="省市频道",求索纪录
 http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000110&playtoken=31604AAZZAEAPZZ1&auth=no
 #EXTINF:0 tvg-logo="shanghaijilu.png",group-title="省市频道",上海纪实
-http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+http://183.251.61.197/PLTV/88888888/224/3221225946/index.m3u8
 #EXTINF:0 tvg-logo="jishipindao.png",group-title="省市频道",全纪实
-http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
+http://27.148.240.203/PLTV/88888888/224/3221226096/index.m3u8
 #EXTINF:0 tvg-logo="dushijuchang.png",group-title="省市频道",都市剧场
 http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
 #EXTINF:0 tvg-logo="huanxiaojuchang.png",group-title="省市频道",欢笑剧场
@@ -378,15 +378,21 @@ http://140.207.241.2:8080/live/program/live/hdnba6/4000000/mnf.m3u8
 #EXTINF:0 tvg-logo="yingchao7.png",group-title="体育频道",体育频道
 http://140.207.241.2:8080/live/program/live/hdnba7/4000000/mnf.m3u8
 #EXTINF:0 tvg-logo="fenghuangweishihd.png",group-title="港台频道",凤凰卫视
-http://111.13.42.8/PLTV/88888888/224/3221225948/index.m3u8
+http://183.251.61.197/PLTV/88888888/224/3221225900/index.m3u8
+#EXTINF:0 tvg-logo="fenghuangweishisd.png",group-title="港台频道",凤凰卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001039/index.m3u8?IASHttpSessionId=OTT1644820170331030353030676&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
 #EXTINF:0 tvg-logo="fenghuangzixunhd.png",group-title="港台频道",凤凰资讯
-http://111.13.42.8/PLTV/88888888/224/3221225949/index.m3u8
+http://183.252.176.10/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:0 tvg-logo="fenghuangzixunsd.png",group-title="港台频道",凤凰资讯
+http://119.39.133.90:6610/001/2/ch00000090990000001040/index.m3u8?IASHttpSessionId=OTT1644820170331030353030676&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
 #EXTINF:0 tvg-logo="fenghuangxianggang.png",group-title="港台频道",凤凰香港
 http://111.13.42.8/PLTV/88888888/224/3221225954/index.m3u8
 #EXTINF:0 tvg-logo="hkweishi.png",group-title="港台频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:0 tvg-logo="tvbfeicui.png",group-title="港台频道",TVB翡翠(限时）
 http://acm.gg/jade.m3u8
+#EXTINF:0 tvg-logo="tvbj2.png",group-title="港台频道",TVB-J2(限时）
+http://acm.gg/j2.m3u8
 #EXTINF:0 tvg-logo="tvbhudongxinwena.png",group-title="港台频道",TVB新闻(限时）
 http://txhls.cdn.zhanqi.tv/zqlive/1024_inews.m3u8
 #EXTINF:0 tvg-logo="tvb8a.png",group-title="港台频道",TVB8(限时）
@@ -433,7 +439,6 @@ http://27.254.63.162/stream/totnew.php?channel_id=c8233976dbba4a06a1017809074473
 http://27.254.63.162/stream/totnew.php?channel_id=1c2276a2f1884b269ce281c3334e8f85
 #EXTINF:0 tvg-logo="weishizhongwen.png",group-title="港台频道",卫视中文
 http://27.254.63.162/stream/totnew.php?channel_id=29a09591a6604ff3b798cd7ef809e4bd
-
 #EXTINF:0 tvg-logo="discovery.png",group-title="港台频道",探索频道
 http://www.onetv.pub/live/lxsh_hk.php?id=Discovery
 #EXTINF:0 tvg-logo="national.png",group-title="港台频道",国家地理
@@ -448,7 +453,6 @@ http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/index_1_av-p.m3u8
 http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/index_1_av-p.m3u8
 #EXTINF:0 tvg-logo="aomengaoqing.png",group-title="港台频道",澳视高清
 http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/media_w2145388172.m3u8
-
 #EXTINF:0 tvg-logo="aomenzixun.png",group-title="港台频道",澳视资讯
 http://live3.tdm.com.mo:1935/ch5/info_ch5.live/media_w1761605729.m3u8
 #EXTINF:0 tvg-logo="aomenMacau.png",group-title="港台频道",澳视卫星
