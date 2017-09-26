@@ -1,4 +1,30 @@
 #EXTM3U url-logos="https://52iptv.github.io/logos/"
+#EXTINF:0 tvg-logo="hunanweishi.png",group-title="芒果TV",湖南卫视720P
+http://119.39.49.86:6610/001/2/ch00000090990000001079/index.m3u8?&virtualDomain=001.live_hls.zte.com
+#EXTINF:0 tvg-logo="hunanjingshi.png",group-title="芒果TV",湖南经视720P
+http://119.39.49.86:6610/001/2/ch00000090990000001080/index.m3u8?&virtualDomain=001.live_hls.zte.com
+#EXTINF:0 tvg-logo="hunanguoji.png",group-title="芒果TV",快乐垂钓1080P
+http://119.39.49.86:6610/001/2/ch00000090990000001060/index.m3u8?&virtualDomain=001.live_hls.zte.com
+#EXTINF:0 tvg-logo="hunandushi.png",group-title="芒果TV",湖南都市
+http://119.39.49.86:6610/001/2/ch00000090990000001049/index.m3u8?&virtualDomain=001.live_hls.zte.com
+#EXTINF:0 tvg-logo="hunanyule.png",group-title="芒果TV",湖南娱乐
+http://119.39.49.86:6610/001/2/ch00000090990000001013/index.m3u8?&virtualDomain=001.live_hls.zte.com
+#EXTINF:0 tvg-logo="dianshiju.png",group-title="芒果TV",湖南电视剧
+http://119.39.49.86:6610/001/2/ch00000090990000001050/index.m3u8?&virtualDomain=001.live_hls.zte.com
+#EXTINF:0 tvg-logo="hunangonggong.png",group-title="芒果TV",湖南公共
+http://119.39.49.86:6610/001/2/ch00000090990000001051/index.m3u8?&virtualDomain=001.live_hls.zte.com
+#EXTINF:0 tvg-logo="xiaoxiangdianying.png",group-title="芒果TV",湖南电影
+http://119.39.49.86:6610/001/2/ch00000090990000001070/index.m3u8?&virtualDomain=001.live_hls.zte.com
+#EXTINF:0 tvg-logo="hunanguoji.png",group-title="芒果TV",湖南国际
+http://119.39.49.86:6610/001/2/ch00000090990000001044/index.m3u8?&virtualDomain=001.live_hls.zte.com
+#EXTINF:0 tvg-logo="hunanguoji.png",group-title="芒果TV",湖南时尚
+http://119.39.49.86:6610/001/2/ch00000090990000001085/index.m3u8?&virtualDomain=001.live_hls.zte.com
+#EXTINF:0 tvg-logo="hunanguoji.png",group-title="芒果TV",湖南快乐购
+http://119.39.49.86:6610/001/2/ch00000090990000001116/index.m3u8?&virtualDomain=001.live_hls.zte.com
+#EXTINF:0 tvg-logo="jingyingjishi.png",group-title="芒果TV",金鹰纪实
+http://119.39.49.86:6610/001/2/ch00000090990000001057/index.m3u8?&virtualDomain=001.live_hls.zte.com
+#EXTINF:0 tvg-logo="jingyingkatong.png",group-title="芒果TV",金鹰卡通
+http://119.39.49.86:6610/001/2/ch00000090990000001058/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="CCTV-1a.png",group-title="央视频道",CCTV-1
 http://120.221.45.172:8089/PLTV/88888888/224/3221225873/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-2a.png",group-title="央视频道",CCTV-2
