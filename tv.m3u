@@ -379,12 +379,12 @@ http://140.207.241.2:8080/live/program/live/hdnba6/4000000/mnf.m3u8
 http://140.207.241.2:8080/live/program/live/hdnba7/4000000/mnf.m3u8
 #EXTINF:0 tvg-logo="fenghuangweishihd.png",group-title="港台频道",凤凰卫视
 http://183.251.61.197/PLTV/88888888/224/3221225900/index.m3u8
-#EXTINF:0 tvg-logo="fenghuangweishisd.png",group-title="港台频道",凤凰卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001039/index.m3u8?IASHttpSessionId=OTT1644820170331030353030676&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="fenghuangweishihd.png",group-title="港台频道",凤凰卫视
+http://119.39.49.86:6610/001/2/ch00000090990000001039/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="fenghuangzixunhd.png",group-title="港台频道",凤凰资讯
 http://183.252.176.10/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:0 tvg-logo="fenghuangzixunsd.png",group-title="港台频道",凤凰资讯
-http://119.39.133.90:6610/001/2/ch00000090990000001040/index.m3u8?IASHttpSessionId=OTT1644820170331030353030676&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="fenghuangzixunhd.png",group-title="港台频道",凤凰资讯
+http://119.39.49.86:6610/001/2/ch00000090990000001040/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="fenghuangxianggang.png",group-title="港台频道",凤凰香港
 http://111.13.42.8/PLTV/88888888/224/3221225954/index.m3u8
 #EXTINF:0 tvg-logo="hkweishi.png",group-title="港台频道",香港卫视
