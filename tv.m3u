@@ -39,7 +39,7 @@ http://play5.kandian.360.cn/live_news_1500/main_output_m1/index.m3u8
 http://183.252.176.10/PLTV/88888888/224/3221225945/index.m3u8
 #EXTINF:0 tvg-logo="jiangsuweishi.png",group-title="卫视频道",江苏卫视
 http://218.207.213.141/PLTV/88888888/224/3221225847/index.m3u8
-#EXTINF:0 tvg-logo="beijingweishi.png",group-title="卫视频道",北京卫视
+#EXTINF:0 tvg-logo="beijingweishia.png",group-title="卫视频道",北京卫视
 http://183.251.61.197/PLTV/88888888/224/3221225937/index.m3u8
 #EXTINF:0 tvg-logo="hunanweishi.png",group-title="卫视频道",湖南卫视
 http://183.251.61.197/PLTV/88888888/224/3221225935/index.m3u8
@@ -407,6 +407,7 @@ http://27.254.63.162/stream/totnew.php?channel_id=c8233976dbba4a06a1017809074473
 http://27.254.63.162/stream/totnew.php?channel_id=1c2276a2f1884b269ce281c3334e8f85
 #EXTINF:0 tvg-logo="weishizhongwen.png",group-title="港台频道",卫视中文
 http://27.254.63.162/stream/totnew.php?channel_id=29a09591a6604ff3b798cd7ef809e4bd
+
 #EXTINF:0 tvg-logo="discovery.png",group-title="港台频道",探索频道
 http://www.onetv.pub/live/lxsh_hk.php?id=Discovery
 #EXTINF:0 tvg-logo="national.png",group-title="港台频道",国家地理
@@ -421,6 +422,7 @@ http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/index_1_av-p.m3u8
 http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/index_1_av-p.m3u8
 #EXTINF:0 tvg-logo="aomengaoqing.png",group-title="港台频道",澳视高清
 http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/media_w2145388172.m3u8
+
 #EXTINF:0 tvg-logo="aomenzixun.png",group-title="港台频道",澳视资讯
 http://live3.tdm.com.mo:1935/ch5/info_ch5.live/media_w1761605729.m3u8
 #EXTINF:0 tvg-logo="aomenMacau.png",group-title="港台频道",澳视卫星
@@ -460,7 +462,8 @@ https://58ada6ee80845.streamlock.net/ios/-goldentvdrama-0832/playlist.m3u8
 #EXTINF:0 tvg-logo="jingtianzixun.png",group-title="港台频道",靖天資訊
 https://58ada6ee80845.streamlock.net/ios/-goldentvinfo-0832/playlist.m3u8
 #EXTINF:0 tvg-logo="jingtianriben.png",group-title="港台频道",靖天日本
-https://58ada6ee80845.streamlock.net/ios/-goldentvjapan-0832/playlist.m3u8#EXTINF:0 tvg-logo="jingtiankatong.png",group-title="港台频道",靖天卡通
+https://58ada6ee80845.streamlock.net/ios/-goldentvjapan-0832/playlist.m3u8
+#EXTINF:0 tvg-logo="jingtiankatong.png",group-title="港台频道",靖天卡通
 https://58ada6ee80845.streamlock.net/ios/-goldentvcartoon-0832/playlist.m3u8
 #EXTINF:0 tvg-logo="jingyangxiju.png",group-title="港台频道",靖洋戲劇
 https://58ada6ee80845.streamlock.net/ios/-jydrama-0832/playlist.m3u8
