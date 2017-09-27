@@ -394,7 +394,7 @@ http://acm.gg/jade.m3u8
 #EXTINF:0 tvg-logo="tvbj2.png",group-title="港台频道",TVB-J2(限时）
 http://acm.gg/j2.m3u8
 #EXTINF:0 tvg-logo="tvbhudongxinwena.png",group-title="港台频道",TVB新闻(限时）
-http://txhls.cdn.zhanqi.tv/zqlive/1024_inews.m3u8
+http://api_p.tll888.com/v/inews.php
 #EXTINF:0 tvg-logo="tvb8a.png",group-title="港台频道",TVB8(限时）
 http://tvb8-i.akamaihd.net/hls/live/224490/C8Live/C8Live-1.m3u8
 #EXTINF:0 tvg-logo="tvbyule.png",group-title="港台频道",TVB娱乐
