@@ -26,7 +26,7 @@ http://119.39.49.86:6610/001/2/ch00000090990000001057/index.m3u8?&virtualDomain=
 #EXTINF:0 tvg-logo="jingyingkatong.png",group-title="芒果TV",金鹰卡通
 http://119.39.49.86:6610/001/2/ch00000090990000001058/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="CCTV-1a.png",group-title="央视频道",CCTV-1
-http://120.221.45.172:8089/PLTV/88888888/224/3221225873/index.m3u8
+http://123.nnzhibo.com/x1/f/hbyd.php?id=cctv1hd&jm=nndsy
 #EXTINF:0 tvg-logo="CCTV-2a.png",group-title="央视频道",CCTV-2
 http://183.251.61.197/PLTV/88888888/224/3221225923/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-3a.png",group-title="央视频道",CCTV-3
