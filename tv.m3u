@@ -388,7 +388,9 @@ http://111.13.42.8/PLTV/88888888/224/3221225686/index.m3u8
 http://183.252.176.10/PLTV/88888888/224/3221225901/index.m3u8
 #EXTINF:0 tvg-logo="fenghuangzixunhd.png",group-title="港台频道",凤凰资讯-芒果
 http://119.39.49.86:6610/001/2/ch00000090990000001040/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="fenghuangxianggang.png",group-title="港台频道",凤凰香港
+#EXTINF:0 tvg-logo="fenghuangxianggang.png",group-title="港台频道",凤凰香港-1080P
+http://111.13.42.8/PLTV/88888888/224/3221225684/index.m3u8
+#EXTINF:0 tvg-logo="fenghuangxianggang.png",group-title="港台频道",凤凰香港-720P
 http://111.13.42.8/PLTV/88888888/224/3221225954/index.m3u8
 #EXTINF:0 tvg-logo="hkweishi.png",group-title="港台频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
