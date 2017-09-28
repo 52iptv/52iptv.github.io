@@ -325,8 +325,7 @@ http://183.59.185.70:30001/PLTV/88888905/224/3221228304/100001000000000600000000
 http://220.167.81.61/PLTV/88888893/224/3221227219/10000100000000060000000001366244_0.smil
 #EXTINF:0 tvg-logo="CCTV-5a.png",group-title="体育频道",CCTV-5
 http://27.148.240.198/PLTV/88888888/224/3221226066/index.m3u8
-#EXTINF:0 tvg-logo="fenghuangweishihd.png",group-title="港台频道",凤凰卫视-1080P
-http://111.13.42.8/PLTV/88888888/224/3221225685/index.m3u8#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="体育频道",CCTV-5
+#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="体育频道",CCTV-5
 http://111.13.42.8/PLTV/88888888/224/3221225937/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-5b.png",group-title="体育频道",CCTV-5+
 http://111.13.42.8/PLTV/88888888/224/3221225938/index.m3u8
