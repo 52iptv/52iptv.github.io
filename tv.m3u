@@ -25,35 +25,35 @@ http://119.39.49.86:6610/001/2/ch00000090990000001116/index.m3u8?&virtualDomain=
 http://119.39.49.86:6610/001/2/ch00000090990000001057/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="jingyingkatong.png",group-title="芒果TV",金鹰卡通
 http://119.39.49.86:6610/001/2/ch00000090990000001058/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="CCTV-1a.png",group-title="央视频道",CCTV-1
-http://120.221.45.172:8089/PLTV/88888888/224/3221225873/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-2a.png",group-title="央视频道",CCTV-2
+#EXTINF:0 tvg-logo="CCTV-1a.png",group-title="央视频道",CCTV-1HD
+http://111.13.42.8/PLTV/88888888/224/3221225851/index.m3u8
+#EXTINF:0 tvg-logo="CCTV-2a.png",group-title="央视频道",CCTV-2HD
 http://183.251.61.197/PLTV/88888888/224/3221225923/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-3a.png",group-title="央视频道",CCTV-3
-http://183.252.176.10/PLTV/88888888/224/3221225924/index.m3u8
+#EXTINF:0 tvg-logo="CCTV-3a.png",group-title="央视频道",CCTV-3HD-720P
+http://111.13.42.8/PLTV/88888888/224/3221225963/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-4a.png",group-title="央视频道",CCTV-4
 http://218.207.213.135/PLTV/88888888/224/3221225802/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="央视频道",CCTV-5
-http://183.252.176.10/PLTV/88888888/224/3221225803/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-5b.png",group-title="央视频道",CCTV-5+
-http://183.251.61.197/PLTV/88888888/224/3221225939/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-6a.png",group-title="央视频道",CCTV-6
-http://183.251.61.197/PLTV/88888888/224/3221225926/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-7a.png",group-title="央视频道",CCTV-7
+#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="央视频道",CCTV-5HD
+http://111.13.42.8/PLTV/88888888/224/3221225937/index.m3u8
+#EXTINF:0 tvg-logo="CCTV-5b.png",group-title="央视频道",CCTV-5+HD
+http://111.13.42.8/PLTV/88888888/224/3221226064/index.m3u8
+#EXTINF:0 tvg-logo="CCTV-6a.png",group-title="央视频道",CCTV-6HD-720P
+http://111.13.42.8/PLTV/88888888/224/3221226043/index.m3u8
+#EXTINF:0 tvg-logo="CCTV-7a.png",group-title="央视频道",CCTV-7HD
 http://183.251.61.197/PLTV/88888888/224/3221225927/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-8a.png",group-title="央视频道",CCTV-8
+#EXTINF:0 tvg-logo="CCTV-8a.png",group-title="央视频道",CCTV-8HD
 http://183.251.61.197/PLTV/88888888/224/3221225928/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-9a.png",group-title="央视频道",CCTV-9
+#EXTINF:0 tvg-logo="CCTV-9a.png",group-title="央视频道",CCTV-9HD
 http://183.252.176.10/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-10a.png",group-title="央视频道",CCTV-10
+#EXTINF:0 tvg-logo="CCTV-10a.png",group-title="央视频道",CCTV-10HD
 http://183.251.61.197/PLTV/88888888/224/3221225931/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-11a.png",group-title="央视频道",CCTV-11
 http://183.251.61.197/PLTV/88888888/224/3221225815/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-12a.png",group-title="央视频道",CCTV-12
+#EXTINF:0 tvg-logo="CCTV-12a.png",group-title="央视频道",CCTV-12HD
 http://183.251.61.197/PLTV/88888888/224/3221225932/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-13a.png",group-title="央视频道",CCTV-13
 http://183.251.61.197/PLTV/88888888/224/3221225817/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-14a.png",group-title="央视频道",CCTV-14
+#EXTINF:0 tvg-logo="CCTV-14a.png",group-title="央视频道",CCTV-14HD
 http://183.251.61.197/PLTV/88888888/224/3221225933/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-15a.png",group-title="央视频道",CCTV-15
 http://183.251.61.197/PLTV/88888888/224/3221225818/index.m3u8
@@ -325,7 +325,8 @@ http://183.59.185.70:30001/PLTV/88888905/224/3221228304/100001000000000600000000
 http://220.167.81.61/PLTV/88888893/224/3221227219/10000100000000060000000001366244_0.smil
 #EXTINF:0 tvg-logo="CCTV-5a.png",group-title="体育频道",CCTV-5
 http://27.148.240.198/PLTV/88888888/224/3221226066/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="体育频道",CCTV-5
+#EXTINF:0 tvg-logo="fenghuangweishihd.png",group-title="港台频道",凤凰卫视-1080P
+http://111.13.42.8/PLTV/88888888/224/3221225685/index.m3u8#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="体育频道",CCTV-5
 http://111.13.42.8/PLTV/88888888/224/3221225937/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-5b.png",group-title="体育频道",CCTV-5+
 http://111.13.42.8/PLTV/88888888/224/3221225938/index.m3u8
@@ -354,8 +355,7 @@ http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se
 #EXTINF:0 tvg-logo="youxian203.png",香港有线203
 http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=14&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:0 tvg-logo="WWE.png",group-title="体育频道",WWE
-http://hls.quanmin.tv/live/2115620138/playlist.m3u8
-#EXTINF:0 tvg-logo="FOX-SPORT2.png",group-title="体育频道",FOX-SPORT2
+http://hls.quanmin.tv/live/2115620138/playlist.m3u8#EXTINF:0 tvg-logo="FOX-SPORT2.png",group-title="体育频道",FOX-SPORT2
 http://27.254.63.162/stream/totnew.php?channel_id=1fd48f2cd616439ca4162478e572d681
 #EXTINF:0 tvg-logo="FOX-SPORT3.png",group-title="体育频道",FOX-SPORT3
 http://27.254.63.162/stream/totnew.php?channel_id=443ea6ef1768462aaffdff38ce2a4355
@@ -377,13 +377,17 @@ http://140.207.241.2:8080/live/program/live/hdnba5/4000000/mnf.m3u8
 http://140.207.241.2:8080/live/program/live/hdnba6/4000000/mnf.m3u8
 #EXTINF:0 tvg-logo="yingchao7.png",group-title="体育频道",体育频道
 http://140.207.241.2:8080/live/program/live/hdnba7/4000000/mnf.m3u8
-#EXTINF:0 tvg-logo="fenghuangweishihd.png",group-title="港台频道",凤凰卫视
-http://183.251.61.197/PLTV/88888888/224/3221225900/index.m3u8
-#EXTINF:0 tvg-logo="fenghuangweishihd.png",group-title="港台频道",凤凰卫视
+#EXTINF:0 tvg-logo="fenghuangweishihd.png",group-title="港台频道",凤凰卫视-1080P
+http://111.13.42.8/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:0 tvg-logo="fenghuangweishihd.png",group-title="港台频道",凤凰卫视-720P
+http://183.252.176.10/PLTV/88888888/224/3221225900/index.m3u8
+#EXTINF:0 tvg-logo="fenghuangweishihd.png",group-title="港台频道",凤凰卫视-芒果
 http://119.39.49.86:6610/001/2/ch00000090990000001039/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="fenghuangzixunhd.png",group-title="港台频道",凤凰资讯
+#EXTINF:0 tvg-logo="fenghuangzixunhd.png",group-title="港台频道",凤凰资讯-1080P
+http://111.13.42.8/PLTV/88888888/224/3221225686/index.m3u8
+#EXTINF:0 tvg-logo="fenghuangzixunhd.png",group-title="港台频道",凤凰资讯-720P
 http://183.252.176.10/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:0 tvg-logo="fenghuangzixunhd.png",group-title="港台频道",凤凰资讯
+#EXTINF:0 tvg-logo="fenghuangzixunhd.png",group-title="港台频道",凤凰资讯-芒果
 http://119.39.49.86:6610/001/2/ch00000090990000001040/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="fenghuangxianggang.png",group-title="港台频道",凤凰香港
 http://111.13.42.8/PLTV/88888888/224/3221225954/index.m3u8
