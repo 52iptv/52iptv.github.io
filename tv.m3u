@@ -7,11 +7,11 @@ http://221.179.217.94/PLTV/88888888/224/3221225686/index.m3u8
 http://221.179.217.94/PLTV/88888888/224/3221225954/index.m3u8
 #EXTINF:0 tvg-logo="hunanweishi.png",group-title="移动网络IPTV",湖南卫视
 http://221.179.217.94/PLTV/88888888/224/3221225885/index.m3u8
-#EXTINF:0 tvg-logo="zhejiangweishi.png.png",group-title="移动网络IPTV",浙江卫视
+#EXTINF:0 tvg-logo="zhejiangweishi.png",group-title="移动网络IPTV",浙江卫视
 http://221.179.217.94/PLTV/88888888/224/3221225903/index.m3u8
 #EXTINF:0 tvg-logo="beijingweishia.png",group-title="移动网络IPTV",北京卫视
 http://221.179.217.94/PLTV/88888888/224/3221225874/index.m3u8
-#EXTINF:0 tvg-logo="dongfangweishi.png.png",group-title="移动网络IPTV",东方卫视
+#EXTINF:0 tvg-logo="dongfangweishi.png",group-title="移动网络IPTV",东方卫视
 http://221.179.217.94/PLTV/88888888/224/3221225875/index.m3u8
 #EXTINF:0 tvg-logo="jiangsuweishi.png",group-title="移动网络IPTV",江苏卫视
 http://221.179.217.94/PLTV/88888888/224/3221225887/index.m3u8
