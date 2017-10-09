@@ -1,161 +1,163 @@
 #EXTM3U url-logos="https://52iptv.github.io/logos/"
-#EXTINF:0 tvg-logo="CCTV-1a.png",group-title="超清_网速要求高",CCTV1_1080P-8M
+#EXTINF:0 tvg-logo="CCTV-1a.png",group-title="超清央视卫视",CCTV1_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225922/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-1a.png",group-title="超清_网速要求高",CCTV1_1080P-4M
+#EXTINF:0 tvg-logo="CCTV-1a.png",group-title="超清央视卫视",CCTV1_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225829/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-2a.png",group-title="超清_网速要求高",CCTV2_1080P-8M
+#EXTINF:0 tvg-logo="CCTV-2a.png",group-title="超清央视卫视",CCTV2_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225923/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-2a.png",group-title="超清_网速要求高",CCTV2_1080P-4M
+#EXTINF:0 tvg-logo="CCTV-2a.png",group-title="超清央视卫视",CCTV2_1080P-4M
 http://183.58.12.204:30001/PLTV/88888905/224/3221227582/2.m3u8
-#EXTINF:0 tvg-logo="CCTV-3a.png",group-title="超清_网速要求高",CCTV3_1080P-8M
+#EXTINF:0 tvg-logo="CCTV-3a.png",group-title="超清央视卫视",CCTV3_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225924/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-3a.png",group-title="超清_网速要求高",CCTV3_1080P-4M
+#EXTINF:0 tvg-logo="CCTV-3a.png",group-title="超清央视卫视",CCTV3_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225801/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-4a.png",group-title="超清_网速要求高",CCTV4_720P-2M
+#EXTINF:0 tvg-logo="CCTV-4a.png",group-title="超清央视卫视",CCTV4_720P-2M
 http://api_p.tll888.com/v/iptv.php?id=cctv4hd
-#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="超清_网速要求高",CCTV5_1080P-8M
+#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="超清央视卫视",CCTV5_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225925/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="超清_网速要求高",CCTV5_1080P-4M
+#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="超清央视卫视",CCTV5_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225803/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-5b.png",group-title="超清_网速要求高",CCTV5+_1080P-8M
+#EXTINF:0 tvg-logo="CCTV-5b.png",group-title="超清央视卫视",CCTV5+_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225939/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-5b.png",group-title="超清_网速要求高",CCTV5+_1080P-4M
+#EXTINF:0 tvg-logo="CCTV-5b.png",group-title="超清央视卫视",CCTV5+_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225821/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-6a.png",group-title="超清_网速要求高",CCTV6_1080P-8M
+#EXTINF:0 tvg-logo="CCTV-6a.png",group-title="超清央视卫视",CCTV6_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225926/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-6a.png",group-title="超清_网速要求高",CCTV6_1080P-4M
+#EXTINF:0 tvg-logo="CCTV-6a.png",group-title="超清央视卫视",CCTV6_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225804/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-7a.png",group-title="超清_网速要求高",CCTV7_1080P-8M
+#EXTINF:0 tvg-logo="CCTV-7a.png",group-title="超清央视卫视",CCTV7_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225927/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-7a.png",group-title="超清_网速要求高",CCTV7_720P-2M
+#EXTINF:0 tvg-logo="CCTV-7a.png",group-title="超清央视卫视",CCTV7_720P-2M
 http://api_p.tll888.com/v/iptv.php?id=cctv7hd
-#EXTINF:0 tvg-logo="CCTV-8a.png",group-title="超清_网速要求高",CCTV8_1080P-8M
+#EXTINF:0 tvg-logo="CCTV-8a.png",group-title="超清央视卫视",CCTV8_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225928/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-8a.png",group-title="超清_网速要求高",CCTV8_1080P-4M
+#EXTINF:0 tvg-logo="CCTV-8a.png",group-title="超清央视卫视",CCTV8_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225806/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-9a.png",group-title="超清_网速要求高",CCTV9_1080P-8M
+#EXTINF:0 tvg-logo="CCTV-9a.png",group-title="超清央视卫视",CCTV9_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-9a.png",group-title="超清_网速要求高",CCTV9_720P-2M
+#EXTINF:0 tvg-logo="CCTV-9a.png",group-title="超清央视卫视",CCTV9_720P-2M
 http://api_p.tll888.com/v/iptv.php?id=cctv9hd
-#EXTINF:0 tvg-logo="CCTV-10a.png",group-title="超清_网速要求高",CCTV10_1080P-8M
+#EXTINF:0 tvg-logo="CCTV-10a.png",group-title="超清央视卫视",CCTV10_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-10a.png",group-title="超清_网速要求高",CCTV10_1080P-4M
+#EXTINF:0 tvg-logo="CCTV-10a.png",group-title="超清央视卫视",CCTV10_1080P-4M
 http://183.58.12.203:30001/PLTV/88888905/224/3221227626/2.m3u8
-#EXTINF:0 tvg-logo="CCTV-11a.png",group-title="超清_网速要求高",CCTV11戏曲
+#EXTINF:0 tvg-logo="CCTV-11a.png",group-title="超清央视卫视",CCTV11戏曲
 http://117.169.120.217:8080/PLTV/88888888/224/3221225640/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-12a.png",group-title="超清_网速要求高",CCTV12_1080P-8M
+#EXTINF:0 tvg-logo="CCTV-12a.png",group-title="超清央视卫视",CCTV12_1080P-8M
 http://183.251.61.207/PLTV/88888888/224/3221225932/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-12a.png",group-title="超清_网速要求高",CCTV12_1080P-8M
+#EXTINF:0 tvg-logo="CCTV-12a.png",group-title="超清央视卫视",CCTV12_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-13a.png",group-title="超清_网速要求高",CCTV13_1080P-8M
+#EXTINF:0 tvg-logo="CCTV-13a.png",group-title="超清央视卫视",CCTV13_1080P-8M
 http://183.252.176.44/PLTV/88888888/224/3221225911/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-14a.png",group-title="超清_网速要求高",CCTV14_1080P-8M
+#EXTINF:0 tvg-logo="CCTV-14a.png",group-title="超清央视卫视",CCTV14_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225933/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-14a.png",group-title="超清_网速要求高",CCTV14_1080P-4M
+#EXTINF:0 tvg-logo="CCTV-14a.png",group-title="超清央视卫视",CCTV14_1080P-4M
 http://125.88.91.20:30001/PLTV/88888905/224/3221227637/2.m3u8
-#EXTINF:0 tvg-logo="CCTV-15a.png",group-title="超清_网速要求高",CCTV15音乐
+#EXTINF:0 tvg-logo="CCTV-15a.png",group-title="超清央视卫视",CCTV15音乐
 http://117.169.120.217:8080/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:0 tvg-logo="hunanweishi.png",group-title="超清_网速要求高",湖南卫视_1080P-8M
+#EXTINF:0 tvg-logo="hunanweishi.png",group-title="超清央视卫视",湖南卫视_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225935/index.m3u8
-#EXTINF:0 tvg-logo="hunanweishi.png",group-title="超清_网速要求高",湖南卫视_1080P-4M
+#EXTINF:0 tvg-logo="hunanweishi.png",group-title="超清央视卫视",湖南卫视_1080P-4M
 http://183.58.12.204:30001/PLTV/88888905/224/3221227483/2.m3u8
-#EXTINF:0 tvg-logo="hunanweishi.png",group-title="超清_网速要求高",湖南卫视_720P-3M
+#EXTINF:0 tvg-logo="hunanweishi.png",group-title="超清央视卫视",湖南卫视_720P-3M
 http://183.58.12.204:30001/PLTV/88888905/224/3221227483/1.m3u8
-#EXTINF:0 tvg-logo="zhejiangweishi.png",group-title="超清_网速要求高",浙江卫视_1080P-8M
+#EXTINF:0 tvg-logo="zhejiangweishi.png",group-title="超清央视卫视",浙江卫视_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225934/index.m3u8
-#EXTINF:0 tvg-logo="zhejiangweishi.png",group-title="超清_网速要求高",浙江卫视_1080P-4M
+#EXTINF:0 tvg-logo="zhejiangweishi.png",group-title="超清央视卫视",浙江卫视_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225825/index.m3u8
-#EXTINF:0 tvg-logo="beijingweishia.png",group-title="超清_网速要求高",北京卫视_1080P-4M
+#EXTINF:0 tvg-logo="beijingweishia.png",group-title="超清央视卫视",北京卫视_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225826/index.m3u8
-#EXTINF:0 tvg-logo="beijingweishia.png",group-title="超清_网速要求高",北京卫视_1080P-2M
+#EXTINF:0 tvg-logo="beijingweishia.png",group-title="超清央视卫视",北京卫视_1080P-2M
 http://221.179.217.94/PLTV/88888888/224/3221225874/index.m3u8
-#EXTINF:0 tvg-logo="dongfangweishi.png",group-title="超清_网速要求高",东方卫视_1080P-8M
+#EXTINF:0 tvg-logo="dongfangweishi.png",group-title="超清央视卫视",东方卫视_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225936/index.m3u8
-#EXTINF:0 tvg-logo="dongfangweishi.png",group-title="超清_网速要求高",东方卫视_1080P-2M
+#EXTINF:0 tvg-logo="dongfangweishi.png",group-title="超清央视卫视",东方卫视_1080P-2M
 http://221.179.217.94/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:0 tvg-logo="jiangsuweishi.png",group-title="超清_网速要求高",江苏卫视_1080P-8M
+#EXTINF:0 tvg-logo="jiangsuweishi.png",group-title="超清央视卫视",江苏卫视_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225930/index.m3u8
-#EXTINF:0 tvg-logo="jiangsuweishi.png",group-title="超清_网速要求高",江苏卫视_1080P-4M
+#EXTINF:0 tvg-logo="jiangsuweishi.png",group-title="超清央视卫视",江苏卫视_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225847/index.m3u8
-#EXTINF:0 tvg-logo="hubeiweishi.png",group-title="超清_网速要求高",湖北卫视_1080P-8M
+#EXTINF:0 tvg-logo="hubeiweishi.png",group-title="超清央视卫视",湖北卫视_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225948/index.m3u8
-#EXTINF:0 tvg-logo="hubeiweishi.png",group-title="超清_网速要求高",湖北卫视_1080P-4M
+#EXTINF:0 tvg-logo="hubeiweishi.png",group-title="超清央视卫视",湖北卫视_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225840/index.m3u8
-#EXTINF:0 tvg-logo="guangdongweishi.png",group-title="超清_网速要求高",广东卫视_1080P-8M
+#EXTINF:0 tvg-logo="guangdongweishi.png",group-title="超清央视卫视",广东卫视_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225942/index.m3u8
-#EXTINF:0 tvg-logo="guangdongweishi.png",group-title="超清_网速要求高",广东卫视_1080P-4M
+#EXTINF:0 tvg-logo="guangdongweishi.png",group-title="超清央视卫视",广东卫视_1080P-4M
 http://221.179.217.94/PLTV/88888888/224/3221225878/index.m3u8
-#EXTINF:0 tvg-logo="shandongweishi.png",group-title="超清_网速要求高",山东卫视_1080P-8M
+#EXTINF:0 tvg-logo="shandongweishi.png",group-title="超清央视卫视",山东卫视_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225943/index.m3u8
-#EXTINF:0 tvg-logo="shandongweishi.png",group-title="超清_网速要求高",山东卫视_1080P-4M
+#EXTINF:0 tvg-logo="shandongweishi.png",group-title="超清央视卫视",山东卫视_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225843/index.m3u8
-#EXTINF:0 tvg-logo="shenzhengweishi.png",group-title="超清_网速要求高",深圳卫视_1080P-4M
+#EXTINF:0 tvg-logo="shenzhengweishi.png",group-title="超清央视卫视",深圳卫视_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225848/index.m3u8
-#EXTINF:0 tvg-logo="shenzhengweishi.png",group-title="超清_网速要求高",深圳卫视_1080P-4M
+#EXTINF:0 tvg-logo="shenzhengweishi.png",group-title="超清央视卫视",深圳卫视_1080P-4M
 http://221.179.217.94/PLTV/88888888/224/3221225897/index.m3u8
-#EXTINF:0 tvg-logo="jiangxiweishi.png",group-title="超清_网速要求高",江西卫视_1080P-4M
+#EXTINF:0 tvg-logo="jiangxiweishi.png",group-title="超清央视卫视",江西卫视_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225868/index.m3u8
-#EXTINF:0 tvg-logo="jiangxiweishi.png",group-title="超清_网速要求高",江西卫视_1080P-4M
+#EXTINF:0 tvg-logo="jiangxiweishi.png",group-title="超清央视卫视",江西卫视_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225834/index.m3u8
-#EXTINF:0 tvg-logo="tianjingweishi.png",group-title="超清_网速要求高",天津卫视_1080P-8M
+#EXTINF:0 tvg-logo="tianjingweishi.png",group-title="超清央视卫视",天津卫视_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225941/index.m3u8
-#EXTINF:0 tvg-logo="tianjingweishi.png",group-title="超清_网速要求高",天津卫视_1080P-4M
+#EXTINF:0 tvg-logo="tianjingweishi.png",group-title="超清央视卫视",天津卫视_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225830/index.m3u8
-#EXTINF:0 tvg-logo="heilongjiangweishi.png",group-title="超清_网速要求高",黑龙江卫视_1080P-8M
+#EXTINF:0 tvg-logo="heilongjiangweishi.png",group-title="超清央视卫视",黑龙江卫视_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225940/index.m3u8
-#EXTINF:0 tvg-logo="liaoningweishi.png",group-title="超清_网速要求高",辽宁卫视_1080P-8M
+#EXTINF:0 tvg-logo="liaoningweishi.png",group-title="超清央视卫视",辽宁卫视_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225947/index.m3u8
-#EXTINF:0 tvg-logo="chongqingweishi.png",group-title="超清_网速要求高",重庆卫视_1080P-8M
+#EXTINF:0 tvg-logo="chongqingweishi.png",group-title="超清央视卫视",重庆卫视_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225949/index.m3u8
-#EXTINF:0 tvg-logo="beijingjishia.png",group-title="超清_网速要求高",BTV纪实_1080P-8M
+#EXTINF:0 tvg-logo="guizhouweishi.png",group-title="超清央视卫视",贵州卫视_1080P-4M
+http://27.148.240.201/PLTV/88888888/224/3221226147/1.m3u8
+#EXTINF:0 tvg-logo="beijingjishia.png",group-title="超清央视卫视",BTV纪实_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225944/index.m3u8
-#EXTINF:0 tvg-logo="shanghaijilu.png",group-title="超清_网速要求高",上海纪实_1080P-8M
+#EXTINF:0 tvg-logo="shanghaijilu.png",group-title="超清央视卫视",上海纪实_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225946/index.m3u8
-#EXTINF:0 tvg-logo="wuxingtiyu.png",group-title="超清_网速要求高",五星体育_1080P-4M
+#EXTINF:0 tvg-logo="wuxingtiyu.png",group-title="超清央视卫视",五星体育_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225905/index.m3u8
-#EXTINF:0 tvg-logo="jisuqiche.png",group-title="超清_网速要求高",极速汽车_1080P-4M
+#EXTINF:0 tvg-logo="jisuqiche.png",group-title="超清央视卫视",极速汽车_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225913/index.m3u8
-#EXTINF:0 tvg-logo="fenghuangweishihd.png",group-title="超清_网速要求高",凤凰卫视中文台-720P-2M
+#EXTINF:0 tvg-logo="fenghuangweishihd.png",group-title="超清央视卫视",凤凰卫视中文台-720P-2M
 http://218.207.213.135/PLTV/88888888/224/3221225900/index.m3u8
-#EXTINF:0 tvg-logo="fenghuangzixunhd.png",group-title="超清_网速要求高",凤凰卫视资讯台-720P-2M
+#EXTINF:0 tvg-logo="fenghuangzixunhd.png",group-title="超清央视卫视",凤凰卫视资讯台-720P-2M
 http://183.252.176.40//PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:0 tvg-logo="fenghuangxianggang.png",group-title="超清_网速要求高",凤凰卫视香港台
+#EXTINF:0 tvg-logo="fenghuangxianggang.png",group-title="超清央视卫视",凤凰卫视香港台
 http://221.179.217.94/PLTV/88888888/224/3221225954/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-dyjc.png",group-title="超清_网速要求高",CCTV第一剧场
+#EXTINF:0 tvg-logo="CCTV-dyjc.png",group-title="超清央视卫视",CCTV第一剧场
 http://221.179.217.94/PLTV/88888888/224/3221226076/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-dszn.png",group-title="超清_网速要求高",CCTV电视指南
+#EXTINF:0 tvg-logo="CCTV-dszn.png",group-title="超清央视卫视",CCTV电视指南
 http://221.179.217.94/PLTV/88888888/224/3221225945/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-fyjc.png",group-title="超清_网速要求高",CCTV风云剧场
+#EXTINF:0 tvg-logo="CCTV-fyjc.png",group-title="超清央视卫视",CCTV风云剧场
 http://221.179.217.94/PLTV/88888888/224/3221226077/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-fyyy.png",group-title="超清_网速要求高",CCTV风云音乐
+#EXTINF:0 tvg-logo="CCTV-fyyy.png",group-title="超清央视卫视",CCTV风云音乐
 http://221.179.217.94/PLTV/88888888/224/3221226078/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-fyzq.png",group-title="超清_网速要求高",CCTV风云足球
+#EXTINF:0 tvg-logo="CCTV-fyzq.png",group-title="超清央视卫视",CCTV风云足球
 http://221.179.217.94/PLTV/88888888/224/3221226079/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-gef.png",group-title="超清_网速要求高",CCTV高尔夫网球
+#EXTINF:0 tvg-logo="CCTV-gef.png",group-title="超清央视卫视",CCTV高尔夫网球
 http://221.179.217.94/PLTV/88888888/224/3221226080/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-hjjc.png",group-title="超清_网速要求高",CCTV怀旧剧场
+#EXTINF:0 tvg-logo="CCTV-hjjc.png",group-title="超清央视卫视",CCTV怀旧剧场
 http://221.179.217.94/PLTV/88888888/224/3221226081/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-sjdl.png",group-title="超清_网速要求高",CCTV世界地理
+#EXTINF:0 tvg-logo="CCTV-sjdl.png",group-title="超清央视卫视",CCTV世界地理
 http://221.179.217.94/PLTV/88888888/224/3221226075/index.m3u8
-#EXTINF:0 tvg-logo="NewTV-dhwg.png",group-title="超清_网速要求高",NewTV动画王国
+#EXTINF:0 tvg-logo="NewTV-dhwg.png",group-title="超清央视卫视",NewTV动画王国
 http://183.252.176.40//PLTV/88888888/224/3221225878/index.m3u8
-#EXTINF:0 tvg-logo="NewTV-dzdy.png",group-title="超清_网速要求高",NewTV动作电影
+#EXTINF:0 tvg-logo="NewTV-dzdy.png",group-title="超清央视卫视",NewTV动作电影
 http://183.252.176.40//PLTV/88888888/224/3221225879/index.m3u8
-#EXTINF:0 tvg-logo="NewTV-jtjc.png",group-title="超清_网速要求高",NewTV家庭剧场
+#EXTINF:0 tvg-logo="NewTV-jtjc.png",group-title="超清央视卫视",NewTV家庭剧场
 http://183.252.176.40//PLTV/88888888/224/3221225882/index.m3u8
-#EXTINF:0 tvg-logo="NewTV-jpzy.png",group-title="超清_网速要求高",NewTV金牌综艺
+#EXTINF:0 tvg-logo="NewTV-jpzy.png",group-title="超清央视卫视",NewTV金牌综艺
 http://183.252.176.40//PLTV/88888888/224/3221225884/index.m3u8
-#EXTINF:0 tvg-logo="NewTV-jsxy.png",group-title="超清_网速要求高",NewTV惊悚悬疑
+#EXTINF:0 tvg-logo="NewTV-jsxy.png",group-title="超清央视卫视",NewTV惊悚悬疑
 http://183.252.176.40//PLTV/88888888/224/3221225885/index.m3u8
-#EXTINF:0 tvg-logo="NewTV-jpdj.png",group-title="超清_网速要求高",NewTV精品大剧
+#EXTINF:0 tvg-logo="NewTV-jpdj.png",group-title="超清央视卫视",NewTV精品大剧
 http://183.252.176.40//PLTV/88888888/224/3221225889/index.m3u8
-#EXTINF:0 tvg-logo="NewTV-jpdy.png",group-title="超清_网速要求高",NewTV精品电影
+#EXTINF:0 tvg-logo="NewTV-jpdy.png",group-title="超清央视卫视",NewTV精品电影
 http://183.252.176.40//PLTV/88888888/224/3221225891/index.m3u8
-#EXTINF:0 tvg-logo="NewTV-jpjl.png",group-title="超清_网速要求高",NewTV精品纪录
+#EXTINF:0 tvg-logo="NewTV-jpjl.png",group-title="超清央视卫视",NewTV精品纪录
 http://183.252.176.40//PLTV/88888888/224/3221225888/index.m3u8
-#EXTINF:0 tvg-logo="NewTV-jpty.png",group-title="超清_网速要求高",NewTV精品体育
+#EXTINF:0 tvg-logo="NewTV-jpty.png",group-title="超清央视卫视",NewTV精品体育
 http://183.252.176.40//PLTV/88888888/224/3221225886/index.m3u8
-#EXTINF:0 tvg-logo="NewTV-mxdp.png",group-title="超清_网速要求高",NewTV明星大片
+#EXTINF:0 tvg-logo="NewTV-mxdp.png",group-title="超清央视卫视",NewTV明星大片
 http://183.252.176.40//PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:0 tvg-logo="fenghuangweishihd.png",group-title="移动/联通源",凤凰卫视中文台
 http://221.179.217.94/PLTV/88888888/224/3221225685/index.m3u8
@@ -782,16 +784,6 @@ http://gcdn.3rd-evo.com/titv-live/_definst_/smil:titv/titv.smil/chunklist_b30000
 http://cdn-src2.waaarp.wscdns.com/live-transcode/_definst_/smil:daai/tv01.smil/chunklist_w21023455_b800000.m3u8
 #EXTINF:0 tvg-logo="skynews.png",group-title="国外频道",天空新闻
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:0 tvg-logo="sbshd.png",group-title="国外频道",韩国频道
-http://itv.3gtech.cn/api/sbs/sbshd
-#EXTINF:0 tvg-logo="sbsplus.png",group-title="国外频道",韩国频道
-http://itv.3gtech.cn/api/sbs/sbsplus
-#EXTINF:0 tvg-logo="sbscnbc.png",group-title="国外频道",韩国频道
-http://itv.3gtech.cn/api/sbs/sbscnbc
-#EXTINF:0 tvg-logo="sbsmtv.png",group-title="国外频道",韩国频道
-http://itv.3gtech.cn/api/sbs/sbsmtv
-#EXTINF:0 tvg-logo="sbsfune.png",group-title="国外频道",韩国频道
-http://itv.3gtech.cn/api/sbs/sbsfune
 #EXTINF:0 tvg-logo="fashiontv.png",group-title="国外频道",法国时装
 http://origina.streaming.sk/liveedge/tvfashion/chunklist_w1323605783.m3u8
 
