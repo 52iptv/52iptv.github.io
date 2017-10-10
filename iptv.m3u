@@ -55,67 +55,67 @@ http://183.252.176.40//PLTV/88888888/224/3221225933/index.m3u8
 http://125.88.91.20:30001/PLTV/88888905/224/3221227637/2.m3u8
 #EXTINF:0 tvg-logo="CCTV-15a.png",group-title="超清央视卫视4M",CCTV-15
 http://117.169.120.217:8080/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:0 tvg-logo="hunanweishi.png",group-title="超清央视卫视4M",湖南卫视_1080P-8M
+#EXTINF:0 tvg-logo="hunanweishi.png",group-title="媲美有线央视卫视",湖南卫视
 http://183.252.176.40//PLTV/88888888/224/3221225935/index.m3u8
-#EXTINF:0 tvg-logo="hunanweishi.png",group-title="超清央视卫视4M",湖南卫视_1080P-4M
+#EXTINF:0 tvg-logo="hunanweishi.png",group-title="超清央视卫视4M",湖南卫视
 http://183.58.12.204:30001/PLTV/88888905/224/3221227483/2.m3u8
-#EXTINF:0 tvg-logo="hunanweishi.png",group-title="超清央视卫视4M",湖南卫视_720P-3M
+#EXTINF:0 tvg-logo="hunanweishi.png",group-title="超清央视卫视4M",湖南卫视_720P
 http://183.58.12.204:30001/PLTV/88888905/224/3221227483/1.m3u8
-#EXTINF:0 tvg-logo="zhejiangweishi.png",group-title="超清央视卫视4M",浙江卫视_1080P-8M
+#EXTINF:0 tvg-logo="zhejiangweishi.png",group-title="媲美有线央视卫视",浙江卫视
 http://183.252.176.40//PLTV/88888888/224/3221225934/index.m3u8
-#EXTINF:0 tvg-logo="zhejiangweishi.png",group-title="超清央视卫视4M",浙江卫视_1080P-4M
+#EXTINF:0 tvg-logo="zhejiangweishi.png",group-title="超清央视卫视4M",浙江卫视
 http://183.252.176.40//PLTV/88888888/224/3221225825/index.m3u8
-#EXTINF:0 tvg-logo="beijingweishia.png",group-title="超清央视卫视4M",北京卫视_1080P-4M
+#EXTINF:0 tvg-logo="beijingweishia.png",group-title="超清央视卫视4M",北京卫视
 http://183.252.176.40//PLTV/88888888/224/3221225826/index.m3u8
-#EXTINF:0 tvg-logo="beijingweishia.png",group-title="超清央视卫视4M",北京卫视_1080P-2M
+#EXTINF:0 tvg-logo="beijingweishia.png",group-title="超清央视卫视4M",北京卫视
 http://221.179.217.94/PLTV/88888888/224/3221225874/index.m3u8
-#EXTINF:0 tvg-logo="dongfangweishi.png",group-title="超清央视卫视4M",东方卫视_1080P-8M
+#EXTINF:0 tvg-logo="dongfangweishi.png",group-title="媲美有线央视卫视",东方卫视
 http://183.252.176.40//PLTV/88888888/224/3221225936/index.m3u8
-#EXTINF:0 tvg-logo="dongfangweishi.png",group-title="超清央视卫视4M",东方卫视_1080P-2M
+#EXTINF:0 tvg-logo="dongfangweishi.png",group-title="超清央视卫视4M",东方卫视
 http://221.179.217.94/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:0 tvg-logo="jiangsuweishi.png",group-title="超清央视卫视4M",江苏卫视_1080P-8M
+#EXTINF:0 tvg-logo="jiangsuweishi.png",group-title="媲美有线央视卫视",江苏卫视
 http://183.252.176.40//PLTV/88888888/224/3221225930/index.m3u8
-#EXTINF:0 tvg-logo="jiangsuweishi.png",group-title="超清央视卫视4M",江苏卫视_1080P-4M
+#EXTINF:0 tvg-logo="jiangsuweishi.png",group-title="超清央视卫视4M",江苏卫视
 http://183.252.176.40//PLTV/88888888/224/3221225847/index.m3u8
-#EXTINF:0 tvg-logo="hubeiweishi.png",group-title="超清央视卫视4M",湖北卫视_1080P-8M
+#EXTINF:0 tvg-logo="hubeiweishi.png",group-title="媲美有线央视卫视",湖北卫视
 http://183.252.176.40//PLTV/88888888/224/3221225948/index.m3u8
-#EXTINF:0 tvg-logo="hubeiweishi.png",group-title="超清央视卫视4M",湖北卫视_1080P-4M
+#EXTINF:0 tvg-logo="hubeiweishi.png",group-title="超清央视卫视4M",湖北卫视
 http://183.252.176.40//PLTV/88888888/224/3221225840/index.m3u8
-#EXTINF:0 tvg-logo="guangdongweishi.png",group-title="超清央视卫视4M",广东卫视_1080P-8M
+#EXTINF:0 tvg-logo="guangdongweishi.png",group-title="媲美有线央视卫视",广东卫视
 http://183.252.176.40//PLTV/88888888/224/3221225942/index.m3u8
-#EXTINF:0 tvg-logo="guangdongweishi.png",group-title="超清央视卫视4M",广东卫视_1080P-4M
+#EXTINF:0 tvg-logo="guangdongweishi.png",group-title="超清央视卫视4M",广东卫视
 http://221.179.217.94/PLTV/88888888/224/3221225878/index.m3u8
-#EXTINF:0 tvg-logo="shandongweishi.png",group-title="超清央视卫视4M",山东卫视_1080P-8M
+#EXTINF:0 tvg-logo="shandongweishi.png",group-title="媲美有线央视卫视",山东卫视
 http://183.252.176.40//PLTV/88888888/224/3221225943/index.m3u8
-#EXTINF:0 tvg-logo="shandongweishi.png",group-title="超清央视卫视4M",山东卫视_1080P-4M
+#EXTINF:0 tvg-logo="shandongweishi.png",group-title="超清央视卫视4M",山东卫视
 http://183.252.176.40//PLTV/88888888/224/3221225843/index.m3u8
-#EXTINF:0 tvg-logo="shenzhengweishi.png",group-title="超清央视卫视4M",深圳卫视_1080P-4M
+#EXTINF:0 tvg-logo="shenzhengweishi.png",group-title="超清央视卫视4M",深圳卫视
 http://183.252.176.40//PLTV/88888888/224/3221225848/index.m3u8
-#EXTINF:0 tvg-logo="shenzhengweishi.png",group-title="超清央视卫视4M",深圳卫视_1080P-4M
+#EXTINF:0 tvg-logo="shenzhengweishi.png",group-title="超清央视卫视4M",深圳卫视
 http://221.179.217.94/PLTV/88888888/224/3221225897/index.m3u8
-#EXTINF:0 tvg-logo="jiangxiweishi.png",group-title="超清央视卫视4M",江西卫视_1080P-4M
+#EXTINF:0 tvg-logo="jiangxiweishi.png",group-title="媲美有线央视卫视",江西卫视
 http://183.252.176.40//PLTV/88888888/224/3221225868/index.m3u8
-#EXTINF:0 tvg-logo="jiangxiweishi.png",group-title="超清央视卫视4M",江西卫视_1080P-4M
+#EXTINF:0 tvg-logo="jiangxiweishi.png",group-title="超清央视卫视4M",江西卫视
 http://183.252.176.40//PLTV/88888888/224/3221225834/index.m3u8
-#EXTINF:0 tvg-logo="tianjingweishi.png",group-title="超清央视卫视4M",天津卫视_1080P-8M
+#EXTINF:0 tvg-logo="tianjingweishi.png",group-title="媲美有线央视卫视",天津卫视
 http://183.252.176.40//PLTV/88888888/224/3221225941/index.m3u8
-#EXTINF:0 tvg-logo="tianjingweishi.png",group-title="超清央视卫视4M",天津卫视_1080P-4M
+#EXTINF:0 tvg-logo="tianjingweishi.png",group-title="超清央视卫视4M",天津卫视
 http://183.252.176.40//PLTV/88888888/224/3221225830/index.m3u8
-#EXTINF:0 tvg-logo="heilongjiangweishi.png",group-title="超清央视卫视4M",黑龙江卫视_1080P-8M
+#EXTINF:0 tvg-logo="heilongjiangweishi.png",group-title="媲美有线央视卫视",黑龙江卫视
 http://183.252.176.40//PLTV/88888888/224/3221225940/index.m3u8
-#EXTINF:0 tvg-logo="liaoningweishi.png",group-title="超清央视卫视4M",辽宁卫视_1080P-8M
+#EXTINF:0 tvg-logo="liaoningweishi.png",group-title="媲美有线央视卫视",辽宁卫视
 http://183.252.176.40//PLTV/88888888/224/3221225947/index.m3u8
-#EXTINF:0 tvg-logo="chongqingweishi.png",group-title="超清央视卫视4M",重庆卫视_1080P-8M
+#EXTINF:0 tvg-logo="chongqingweishi.png",group-title="媲美有线央视卫视",重庆卫视
 http://183.252.176.40//PLTV/88888888/224/3221225949/index.m3u8
-#EXTINF:0 tvg-logo="guizhouweishi.png",group-title="超清央视卫视4M",贵州卫视_1080P-4M
+#EXTINF:0 tvg-logo="guizhouweishi.png",group-title="超清央视卫视4M",贵州卫视
 http://27.148.240.201/PLTV/88888888/224/3221226147/1.m3u8
-#EXTINF:0 tvg-logo="beijingjishia.png",group-title="超清央视卫视4M",BTV纪实_1080P-8M
+#EXTINF:0 tvg-logo="beijingjishia.png",group-title="媲美有线央视卫视",BTV纪实
 http://183.252.176.40//PLTV/88888888/224/3221225944/index.m3u8
-#EXTINF:0 tvg-logo="shanghaijilu.png",group-title="超清央视卫视4M",上海纪实_1080P-8M
+#EXTINF:0 tvg-logo="shanghaijilu.png",group-title="媲美有线央视卫视",上海纪实
 http://183.252.176.40//PLTV/88888888/224/3221225946/index.m3u8
-#EXTINF:0 tvg-logo="wuxingtiyu.png",group-title="超清央视卫视4M",五星体育_1080P-4M
+#EXTINF:0 tvg-logo="wuxingtiyu.png",group-title="媲美有线央视卫视",五星体育
 http://183.252.176.40//PLTV/88888888/224/3221225905/index.m3u8
-#EXTINF:0 tvg-logo="jisuqiche.png",group-title="超清央视卫视4M",极速汽车_1080P-4M
+#EXTINF:0 tvg-logo="jisuqiche.png",group-title="媲美有线央视卫视",极速汽车
 http://183.252.176.40//PLTV/88888888/224/3221225913/index.m3u8
 #EXTINF:0 tvg-logo="fenghuangweishihd.png",group-title="超清央视卫视4M",凤凰卫视中文台-720P-2M
 http://218.207.213.135/PLTV/88888888/224/3221225900/index.m3u8
@@ -634,14 +634,10 @@ http://140.207.241.2:8080/live/program/live/hdnba7/4000000/mnf.m3u8
 http://111.13.42.8/PLTV/88888888/224/3221225685/index.m3u8
 #EXTINF:0 tvg-logo="fenghuangweishihd.png",group-title="港台境外",凤凰卫视中文台720P
 http://183.252.176.10/PLTV/88888888/224/3221225900/index.m3u8
-#EXTINF:0 tvg-logo="fenghuangweishihd.png",group-title="港台境外",凤凰卫视中文台-芒果
-http://119.39.49.86:6610/001/2/ch00000090990000001039/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="fenghuangzixunhd.png",group-title="港台境外",凤凰卫视资讯台1080P
 http://111.13.42.8/PLTV/88888888/224/3221225686/index.m3u8
 #EXTINF:0 tvg-logo="fenghuangzixunhd.png",group-title="港台境外",凤凰卫视资讯台720P
 http://183.252.176.10/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:0 tvg-logo="fenghuangzixunhd.png",group-title="港台境外",凤凰卫视资讯台-芒果
-http://119.39.49.86:6610/001/2/ch00000090990000001040/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="fenghuangxianggang.png",group-title="港台境外",凤凰卫视香港台1080P
 http://111.13.42.8/PLTV/88888888/224/3221225684/index.m3u8
 #EXTINF:0 tvg-logo="fenghuangxianggang.png",group-title="港台境外",凤凰卫视香港台720P
