@@ -459,14 +459,22 @@ http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9SE5HSk1QUDM2MCZjZG5leF9pZD1hbF9wa
 http://ts1.ijntv.cn/xwhd/playlist.m3u8?_upt=d315b9611499413011
 #EXTINF:0 tvg-logo="jinanyingshi.png",group-title="地方频道",济南影视(山东）
 http://ts1.ijntv.cn/yshd/hd/live.m3u8?_upt=b396623d1503391395
+#EXTINF:0 tvg-logo="zhuhaiyitao.png",group-title="地方频道",珠海一套(广东）
+http://hlslive.n21.cc/uHiS6o7/1500/live.m3u8
+#EXTINF:0 tvg-logo="zhuhaiertao.png",group-title="地方频道",珠海二套(广东）
+http://hlslive.n21.cc/tm0Or7U/1500/live.m3u8
 #EXTINF:0 tvg-logo="shijingshanxinwena.png",group-title="地方频道",石景山新闻(北京）
 http://live.sjsgdzx.com/channel5/sd/live.m3u8
 #EXTINF:0 tvg-logo="deyangxinwenc.png",group-title="地方频道",德阳新闻(四川）
 http://scdytv.com:1935/live/xwpd_livevideo/palylist.m3u8
 #EXTINF:0 tvg-logo="deyanggonggongc.png",group-title="地方频道",德阳公共(四川）
 http://scdytv.com:1935/live/ggpd_livevideo/palylist.m3u8
+#EXTINF:0 tvg-logo="yichangzonghea.png",group-title="地方频道",宜昌综合(湖北）
+http://itv.3gtech.cn/hls/hbtv/yczh.m3u8
 #EXTINF:0 tvg-logo="yichanglvyou.png",group-title="地方频道",宜昌旅游(湖北）
-http://playaliyun.3xgd.com/sxgd/lyswgq.m3u8
+http://itv.3gtech.cn/hls/hbtv/ycly.m3u8
+#EXTINF:0 tvg-logo="yichanggonggong.png",group-title="地方频道",宜昌公共(湖北）
+http://itv.3gtech.cn/hls/hbtv/ycgg.m3u8
 #EXTINF:0 tvg-logo="chengduxinwen.png",group-title="地方频道",成都新闻(四川）
 http://220.167.81.61/PLTV/88888895/224/3221227389/10000100000000060000000002835314_0.smil
 #EXTINF:0 tvg-logo="dalianzonghe.png",group-title="地方频道",大连综合(辽宁）
@@ -521,6 +529,8 @@ http://livetv.2500city.com/live/sbs2hd/index.m3u8
 http://livetv.2500city.com/live/sbs3hd/index.m3u8
 #EXTINF:0 tvg-logo="suzhouzixuna.png",group-title="地方频道",苏州资讯(江苏）
 http://livetv.2500city.com/live/sbs5hd/index.m3u8
+#EXTINF:0 tvg-logo="huairouyitao.png",group-title="地方频道",怀柔一套(北京）
+http://live.huairtv.com:1935/dvrLive/_definst_/hrtvmb/playlist.m3u8
 #EXTINF:0 tvg-logo="wuhandianshiju.png",group-title="地方频道",武汉电视剧(湖北）
 http://cg01.hrtn.net:9090/live/whtv2hd_4000.m3u8
 #EXTINF:0 tvg-logo="huangdaoxinwen.png",group-title="地方频道",黄岛新闻(山东）
