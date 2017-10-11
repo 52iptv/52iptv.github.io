@@ -455,40 +455,68 @@ http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9SE5HR01QUDM2MCZjZG5leF9pZD1hbF9wa
 http://r.gslb.lecloud.com/live/hls/201706223000000cq99/desc.m3u8
 #EXTINF:0 tvg-logo="hunanguoji.png",group-title="省市频道",湖南国际
 http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9SE5HSk1QUDM2MCZjZG5leF9pZD1hbF9waG9uZV9saXZlMyZuZnQ9dHMz/HNGJMPP360.m3u8
+#EXTINF:0 tvg-logo="zhengfa.png",group-title="地方频道",长沙政法频道(湖南）
+http://122.225.102.3:80/csftv/1__redirect__4221.m3u8
+#EXTINF:0 tvg-logo="changdexinwen.png",group-title="地方频道",常德新闻(湖南）
+http://www.cdgdj.com:1935/live/xinwen/playlist.m3u8
+#EXTINF:0 tvg-logo="changdegonggong.png",group-title="地方频道",常德公共(湖南）
+http://www.cdgdj.com:1935/live/gonggong/playlist.m3u8
 #EXTINF:0 tvg-logo="jinanxinwen.png",group-title="地方频道",济南新闻(山东）
 http://ts1.ijntv.cn/xwhd/playlist.m3u8?_upt=d315b9611499413011
 #EXTINF:0 tvg-logo="jinanyingshi.png",group-title="地方频道",济南影视(山东）
 http://ts1.ijntv.cn/yshd/hd/live.m3u8?_upt=b396623d1503391395
+#EXTINF:0 tvg-logo="dezhouxinwen.png",group-title="地方频道",德州新闻(山东）
+http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
+#EXTINF:0 tvg-logo="huangdaoxinwen.png",group-title="地方频道",黄岛新闻(山东）
+http://live.qwmedia.cn/hdratv/hdratv-xw.m3u8
 #EXTINF:0 tvg-logo="zhuhaiyitao.png",group-title="地方频道",珠海一套(广东）
 http://hlslive.n21.cc/uHiS6o7/1500/live.m3u8
 #EXTINF:0 tvg-logo="zhuhaiertao.png",group-title="地方频道",珠海二套(广东）
 http://hlslive.n21.cc/tm0Or7U/1500/live.m3u8
 #EXTINF:0 tvg-logo="shijingshanxinwena.png",group-title="地方频道",石景山新闻(北京）
 http://live.sjsgdzx.com/channel5/sd/live.m3u8
+#EXTINF:0 tvg-logo="huairouyitao.png",group-title="地方频道",怀柔一套(北京）
+http://live.huairtv.com:1935/dvrLive/_definst_/hrtvmb/playlist.m3u8
+#EXTINF:0 tvg-logo="chengduxinwen.png",group-title="地方频道",成都新闻(四川）
+http://220.167.81.61/PLTV/88888895/224/3221227389/10000100000000060000000002835314_0.smil
+#EXTINF:0 tvg-logo="meishangaoqingb.png",group-title="地方频道",眉山高清(四川）
+http://stream.mstv.cc/gqpd/sd/live.m3u8
+#EXTINF:0 tvg-logo="suiningxinwen.png",group-title="地方频道",遂宁新闻(四川）
+http://mid.sngdxsn.com/channels/tvie/ch1/m3u8:1500k/live
+#EXTINF:0 tvg-logo="suininggonggong.png",group-title="地方频道",遂宁公共(四川）
+http://mid.sngdxsn.com/channels/tvie/test/m3u8:1500k/live
 #EXTINF:0 tvg-logo="deyangxinwenc.png",group-title="地方频道",德阳新闻(四川）
 http://scdytv.com:1935/live/xwpd_livevideo/palylist.m3u8
 #EXTINF:0 tvg-logo="deyanggonggongc.png",group-title="地方频道",德阳公共(四川）
 http://scdytv.com:1935/live/ggpd_livevideo/palylist.m3u8
+#EXTINF:0 tvg-logo="wuhandianshiju.png",group-title="地方频道",武汉电视剧(湖北）
+http://cg01.hrtn.net:9090/live/whtv2hd_4000.m3u8
 #EXTINF:0 tvg-logo="yichangzonghea.png",group-title="地方频道",宜昌综合(湖北）
 http://itv.3gtech.cn/hls/hbtv/yczh.m3u8
 #EXTINF:0 tvg-logo="yichanglvyou.png",group-title="地方频道",宜昌旅游(湖北）
 http://itv.3gtech.cn/hls/hbtv/ycly.m3u8
 #EXTINF:0 tvg-logo="yichanggonggong.png",group-title="地方频道",宜昌公共(湖北）
 http://itv.3gtech.cn/hls/hbtv/ycgg.m3u8
-#EXTINF:0 tvg-logo="chengduxinwen.png",group-title="地方频道",成都新闻(四川）
-http://220.167.81.61/PLTV/88888895/224/3221227389/10000100000000060000000002835314_0.smil
+#EXTINF:0 tvg-logo="changyangzonghea.png",group-title="地方频道",长阳综合(湖北）
+http://changyang.live.cjyun.org/video/s10114-cy1t/index.m3u8
 #EXTINF:0 tvg-logo="dalianzonghe.png",group-title="地方频道",大连综合(辽宁）
 http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&programid=4200000112&playtoken=31604AAZZAEAPZZ1&auth=no
 #EXTINF:0 tvg-logo="xiangshanzongheb.png",group-title="地方频道",象山综合(浙江）
 http://v.xstv.net/hls-live/live/_definst_/liveevent/2222.m3u8
-#EXTINF:0 tvg-logo="changyangzonghea.png",group-title="地方频道",长阳综合(湖北）
-http://changyang.live.cjyun.org/video/s10114-cy1t/index.m3u8
-#EXTINF:0 tvg-logo="changdexinwen.png",group-title="地方频道",常德新闻(湖南）
-http://www.cdgdj.com:1935/live/xinwen/playlist.m3u8
-#EXTINF:0 tvg-logo="changdegonggong.png",group-title="地方频道",常德公共(湖南）
-http://www.cdgdj.com:1935/live/gonggong/playlist.m3u8
-#EXTINF:0 tvg-logo="zhengfa.png",group-title="地方频道",政法频道(湖南）
-http://122.225.102.3:80/csftv/1__redirect__4221.m3u8
+#EXTINF:0 tvg-logo="wenzhouxinwen.png",group-title="地方频道",温州新闻(浙江）
+http://hls.dhtv.cn:8080/live/v1_15.m3u8
+#EXTINF:0 tvg-logo="ruianzongheb.png",group-title="地方频道",瑞安综合(浙江）
+http://live.mudu.tv/watch/4xu94b.m3u8
+#EXTINF:0 tvg-logo="xuzhou1.png",group-title="地方频道",徐州新闻(江苏）
+http://183.207.249.13/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:0 tvg-logo="xuzhou4.png",group-title="地方频道",徐州公共(江苏）
+http://183.207.249.13/PLTV/3/224/3221225951/index.m3u8
+#EXTINF:0 tvg-logo="suzhoujingjia.png",group-title="地方频道",苏州经济(江苏）
+http://livetv.2500city.com/live/sbs2hd/index.m3u8
+#EXTINF:0 tvg-logo="suzhoushenghuoa.png",group-title="地方频道",苏州生活(江苏）
+http://livetv.2500city.com/live/sbs3hd/index.m3u8
+#EXTINF:0 tvg-logo="suzhouzixuna.png",group-title="地方频道",苏州资讯(江苏）
+http://livetv.2500city.com/live/sbs5hd/index.m3u8
 #EXTINF:0 tvg-logo="jingjiangxinwen.png",group-title="地方频道",靖江新闻(江苏）
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:0 tvg-logo="yonganzonghe.png",group-title="地方频道",永安综合(福建）
@@ -505,42 +533,14 @@ http://fjyx.chinashadt.com:1935/zhibo/cssh.stream/chunklist_w2057396249.m3u8
 http://220.161.247.82:8199/live/nd1.m3u8
 #EXTINF:0 tvg-logo="ningde2.png",group-title="地方频道",宁德公共(福建）
 http://220.161.247.82:8199/live/nd2.m3u8
-#EXTINF:0 tvg-logo="meishangaoqingb.png",group-title="地方频道",眉山高清(四川）
-http://stream.mstv.cc/gqpd/sd/live.m3u8
-#EXTINF:0 tvg-logo="suiningxinwen.png",group-title="地方频道",遂宁新闻(四川）
-http://mid.sngdxsn.com/channels/tvie/ch1/m3u8:1500k/live
-#EXTINF:0 tvg-logo="suininggonggong.png",group-title="地方频道",遂宁公共(四川）
-http://mid.sngdxsn.com/channels/tvie/test/m3u8:1500k/live
 #EXTINF:0 tvg-logo="zhangpuzonghe.png",group-title="地方频道",漳浦综合(福建）
 http://220.161.87.62:8800/hls/0/index.m3u8
-#EXTINF:0 tvg-logo="dezhouxinwen.png",group-title="地方频道",德州新闻(山东）
-http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
-#EXTINF:0 tvg-logo="wenzhouxinwen.png",group-title="地方频道",温州新闻(浙江）
-http://hls.dhtv.cn:8080/live/v1_15.m3u8
-#EXTINF:0 tvg-logo="ruianzongheb.png",group-title="地方频道",瑞安综合(浙江）
-http://live.mudu.tv/watch/4xu94b.m3u8
-#EXTINF:0 tvg-logo="xuzhou1.png",group-title="地方频道",徐州新闻(江苏）
-http://183.207.249.13/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:0 tvg-logo="xuzhou4.png",group-title="地方频道",徐州公共(江苏）
-http://183.207.249.13/PLTV/3/224/3221225951/index.m3u8
-#EXTINF:0 tvg-logo="suzhoujingjia.png",group-title="地方频道",苏州经济(江苏）
-http://livetv.2500city.com/live/sbs2hd/index.m3u8
-#EXTINF:0 tvg-logo="suzhoushenghuoa.png",group-title="地方频道",苏州生活(江苏）
-http://livetv.2500city.com/live/sbs3hd/index.m3u8
-#EXTINF:0 tvg-logo="suzhouzixuna.png",group-title="地方频道",苏州资讯(江苏）
-http://livetv.2500city.com/live/sbs5hd/index.m3u8
-#EXTINF:0 tvg-logo="huairouyitao.png",group-title="地方频道",怀柔一套(北京）
-http://live.huairtv.com:1935/dvrLive/_definst_/hrtvmb/playlist.m3u8
-#EXTINF:0 tvg-logo="wuhandianshiju.png",group-title="地方频道",武汉电视剧(湖北）
-http://cg01.hrtn.net:9090/live/whtv2hd_4000.m3u8
-#EXTINF:0 tvg-logo="huangdaoxinwen.png",group-title="地方频道",黄岛新闻(山东）
-http://live.qwmedia.cn/hdratv/hdratv-xw.m3u8
+#EXTINF:0 tvg-logo="qiaoxiangpingdao.png",group-title="地方频道",侨乡频道(福建）
+http://stream.jinjiang.tv/1/sd/live.m3u8
 #EXTINF:0 tvg-logo="wafangzonghe.png",group-title="地方频道",瓦房综合(辽宁）
 http://pili-live-hls.livewafangd.sobeycache.com/livewafangd/dszb003.m3u8
 #EXTINF:0 tvg-logo="wafangshenghuo.png",group-title="地方频道",瓦房生活(辽宁）
 http://pili-live-hls.livewafangd.sobeycache.com/livewafangd/dszb002.m3u8
-#EXTINF:0 tvg-logo="qiaoxiangpingdao.png",group-title="地方频道",侨乡频道(福建）
-http://stream.jinjiang.tv/1/sd/live.m3u8
 #EXTINF:0 tvg-logo="jilupian",group-title="特色影视",高清纪录
 http://itv.3gtech.cn/api/letv/lb_jilu_720p
 #EXTINF:0 tvg-logo="leshizonghe",group-title="特色影视",乐视综合
