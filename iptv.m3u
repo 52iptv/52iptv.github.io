@@ -647,17 +647,11 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:0 tvg-logo="tvbfeicui.png",group-title="港台境外",TVB翡翠-源1
 http://acm.gg/jade.m3u8
 #EXTINF:0 tvg-logo="tvbfeicui.png",group-title="港台境外",TVB翡翠-源2
-http://api_p.tll888.com/v/jade.php
-#EXTINF:0 tvg-logo="tvbfeicui.png",group-title="港台境外",TVB翡翠-源3
 http://alpull.inke.cn/live/jade.m3u8
-#EXTINF:0 tvg-logo="tvbj2.png",group-title="港台境外",TVB-J2-源1
+#EXTINF:0 tvg-logo="tvbj2.png",group-title="港台境外",TVB-J2
 http://acm.gg/j2.m3u8
-#EXTINF:0 tvg-logo="tvbj2.png",group-title="港台境外",TVB-J2-源2
-http://alpull.inke.cn/live/pearli.m3u8
-#EXTINF:0 tvg-logo="tvbhudongxinwena.png",group-title="港台境外",TVB新闻-源1
-http://acm.gg/inews.m3u8
-#EXTINF:0 tvg-logo="tvbhudongxinwena.png",group-title="港台境外",TVB新闻-源2
-http://txhls.cdn.zhanqi.tv/zqlive/8187_bwFuK.m3u8
+#EXTINF:0 tvg-logo="tvbhudongxinwena.png",group-title="港台境外",TVB新闻
+http://txhls.cdn.zhanqi.tv/zqlive/6098_MfSoS.m3u8
 #EXTINF:0 tvg-logo="tvb8a.png",group-title="港台境外",TVB8
 http://tvb8-i.akamaihd.net/hls/live/224490/C8Live/C8Live-1.m3u8
 #EXTINF:0 tvg-logo="tvbyule.png",group-title="港台境外",TVB娱乐新闻台
