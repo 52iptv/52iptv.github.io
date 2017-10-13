@@ -12,7 +12,7 @@ http://183.252.176.40//PLTV/88888888/224/3221225924/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-3a.png",group-title="超清央视卫视4M",CCTV-3
 http://183.252.176.40//PLTV/88888888/224/3221225801/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-4a.png",group-title="超清央视卫视4M",CCTV-4
-http://api_p.tll888.com/v/iptv.php?id=cctv4hd
+http://txtslivesh.cctv4g.com/cctv4hd/cctv4hd.m3u8
 #EXTINF:0 tvg-logo="CCTV-5a.png",group-title="媲美有线央视卫视",CCTV-5
 http://183.252.176.40//PLTV/88888888/224/3221225925/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-5a.png",group-title="超清央视卫视4M",CCTV-5
@@ -195,6 +195,8 @@ http://183.251.61.207/PLTV/88888888/224/3221225923/index.m3u8
 http://221.179.217.94/PLTV/88888888/224/3221225935/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-3a.png",group-title="移动/联通源",CCTV-3
 http://183.251.61.207/PLTV/88888888/224/3221225924/index.m3u8
+#EXTINF:0 tvg-logo="CCTV-4a.png",group-title="移动/联通源",CCTV-4
+http://txtslivesh.cctv4g.com/cctv4hd/cctv4hd.m3u8
 #EXTINF:0 tvg-logo="CCTV-5a.png",group-title="移动/联通源",CCTV-5
 http://183.251.61.207/PLTV/88888888/224/3221225925/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-5b.png",group-title="移动/联通源",CCTV-5+
