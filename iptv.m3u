@@ -255,6 +255,28 @@ http://221.179.217.94/PLTV/88888888/224/3221225924/index.m3u8
 http://221.179.217.94/PLTV/88888888/224/3221225922/index.m3u8
 #EXTINF:0 tvg-logo="NewTV-mxdp.png",group-title="移动/联通源",NewTV明星大片
 http://221.179.217.94/PLTV/88888888/224/3221225929/index.m3u8
+#EXTINF:0 tvg-logo="shenzhendushi.png",group-title="深圳电视台",深圳都市
+http://yao.hls.cutv.com/cutvlive/ZwxzUXr/hls/jZxx4Ugr_sd.m3u8
+#EXTINF:0 tvg-logo="shenzhenyule.png",group-title="深圳电视台",深圳娱乐
+http://yao.hls.cutv.com/cutvlive/1q4iPng/hls/j1x44Pgg_sd.m3u8
+#EXTINF:0 tvg-logo="shenzhengonggong.png",group-title="深圳电视台",深圳公共
+http://yao.hls.cutv.com/cutvlive/2q76Sw2/hls/j2x74Sg2_sd.m3u8
+#EXTINF:0 tvg-logo="shenzhendianshiju.png",group-title="深圳电视台",深圳电视剧
+http://yao.hls.cutv.com/cutvlive/4azbkoY/hls/j4xz4kgY_sd.m3u8
+#EXTINF:0 tvg-logo="shenzhencaijing.png",group-title="深圳电视台",深圳财经生活
+http://yao.hls.cutv.com/cutvlive/3vlcoxP/hls/j3xl4ogP_sd.m3u8
+#EXTINF:0 tvg-logo="shenzhenshaoer.png",group-title="深圳电视台",深圳少儿
+http://yao.hls.cutv.com/cutvlive/1SIQj6s/hls/j1xI4jgs_sd.m3u8
+#EXTINF:0 tvg-logo="shenzhendv.png",group-title="深圳电视台",深圳DV生活
+http://yao.hls.cutv.com/cutvlive/xO1xQFv/hls/jxx14Qgv_sd.m3u8
+#EXTINF:0 tvg-logo="shenzhentiyu.png",group-title="深圳电视台",深圳体育健康
+http://yao.hls.cutv.com/cutvlive/ZwxzUXr/hls/jZxx4Ugr_sd.m3u8
+#EXTINF:0 tvg-logo="shenzhenyidongtv.png",group-title="深圳电视台",深圳移动电视
+http://yao.hls.cutv.com/cutvlive/wDF6KJ3/hls/jwxF4Kg3_sd.m3u8
+#EXTINF:0 tvg-logo="shenzhenyidongtv.png",group-title="深圳电视台",深圳宝安
+http://yao.hls.cutv.com/cutvlive/IQzSzg9/hls/jIxz4zg9_sd.m3u8
+#EXTINF:0 tvg-logo="shenzhenyidongtv.png",group-title="深圳电视台",深圳宜和购物
+http://yao.hls.cutv.com/cutvlive/BJ5u5k2/hls/jBx545g2_sd.m3u8
 #EXTINF:0 tvg-logo="hunanweishi.png",group-title="芒果TV",湖南卫视
 http://119.39.49.86:6610/001/2/ch00000090990000001079/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="hunanjingshi.png",group-title="芒果TV",湖南经视
@@ -788,6 +810,12 @@ http://cdn-src2.waaarp.wscdns.com/live-transcode/_definst_/smil:daai/tv01.smil/c
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:0 tvg-logo="fashiontv.png",group-title="港台境外",法国时装
 http://origina.streaming.sk/liveedge/tvfashion/chunklist_w1323605783.m3u8
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171018期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=76E348F54813EBC4FD9282EE7C9DD452&file=/internettv/c1/2017/10/18/76E348F54813EBC4FD9282EE7C9DD452.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171017期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=61AFD3529FC0C108A24E48BACDB1C274&file=/internettv/c1/2017/10/17/61AFD3529FC0C108A24E48BACDB1C274.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171016期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0F119ACED15F5E6B944FB3E133199E45&file=/internettv/c1/2017/10/16/0F119ACED15F5E6B944FB3E133199E45.ts
 #EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171015期
 http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=23738009116EB048B1C6AF2D4DAE7035&file=/internettv/c1/2017/10/15/23738009116EB048B1C6AF2D4DAE7035.ts
 #EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171014期
