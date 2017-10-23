@@ -810,6 +810,14 @@ http://cdn-src2.waaarp.wscdns.com/live-transcode/_definst_/smil:daai/tv01.smil/c
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:0 tvg-logo="fashiontv.png",group-title="港台境外",法国时装
 http://origina.streaming.sk/liveedge/tvfashion/chunklist_w1323605783.m3u8
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171022期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=C81D9354731E25896DA7D0984B9AEE42&file=/internettv/c1/2017/10/22/C81D9354731E25896DA7D0984B9AEE42.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171021期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=BC5C7148C0E61FE940025E7E694C756C&file=/internettv/c1/2017/10/21/BC5C7148C0E61FE940025E7E694C756C.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171020期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=61DA3CB856AEA37C077C2319401E4851&file=/internettv/c1/2017/10/20/61DA3CB856AEA37C077C2319401E4851.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171019期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=553405A8FDFCD596F4B66FEFA2C5034E&file=/internettv/c1/2017/10/19/553405A8FDFCD596F4B66FEFA2C5034E.ts
 #EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171018期
 http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=76E348F54813EBC4FD9282EE7C9DD452&file=/internettv/c1/2017/10/18/76E348F54813EBC4FD9282EE7C9DD452.ts
 #EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171017期
