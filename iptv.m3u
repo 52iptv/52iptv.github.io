@@ -255,8 +255,8 @@ http://221.179.217.94/PLTV/88888888/224/3221225924/index.m3u8
 http://221.179.217.94/PLTV/88888888/224/3221225922/index.m3u8
 #EXTINF:0 tvg-logo="NewTV-mxdp.png",group-title="移动/联通源",NewTV明星大片
 http://221.179.217.94/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:0 tvg-logo="shenzhendushi.png",group-title="深圳电视台",深圳都市
-http://yao.hls.cutv.com/cutvlive/ZwxzUXr/hls/jZxx4Ugr_sd.m3u8
+#EXTINF:0 tvg-logo="shenzhendushi.png",group-title="深圳电视台",深圳都市HD
+http://ts10.sztv.com.cn/4b5ab8b5a6ac46cda484d433ada978c1/h264_2000k_ts/index.m3u8?type=flv2hls_m3u8
 #EXTINF:0 tvg-logo="shenzhenyule.png",group-title="深圳电视台",深圳娱乐
 http://yao.hls.cutv.com/cutvlive/1q4iPng/hls/j1x44Pgg_sd.m3u8
 #EXTINF:0 tvg-logo="shenzhengonggong.png",group-title="深圳电视台",深圳公共
