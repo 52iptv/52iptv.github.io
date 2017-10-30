@@ -253,31 +253,31 @@ http://221.179.217.94/PLTV/88888888/224/3221225924/index.m3u8
 http://221.179.217.94/PLTV/88888888/224/3221225922/index.m3u8
 #EXTINF:0 tvg-logo="NewTV-mxdp.png",group-title="移动/联通源",NewTV明星大片
 http://221.179.217.94/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:0 tvg-logo="hunanweishi.png",group-title="芒果TV",湖南卫视
-http://119.39.49.86:6610/001/2/ch00000090990000001079/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="hunanjingshi.png",group-title="芒果TV",湖南经视
-http://119.39.49.86:6610/001/2/ch00000090990000001080/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="hunanklcd.png",group-title="芒果TV",快乐垂钓
-http://119.39.49.86:6610/001/2/ch00000090990000001060/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="hunandushi.png",group-title="芒果TV",湖南都市
-http://119.39.49.86:6610/001/2/ch00000090990000001049/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="hunanyule.png",group-title="芒果TV",湖南娱乐
-http://119.39.49.86:6610/001/2/ch00000090990000001013/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="dianshiju.png",group-title="芒果TV",湖南电视剧
-http://119.39.49.86:6610/001/2/ch00000090990000001050/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="hunangonggong.png",group-title="芒果TV",湖南公共
+#EXTINF:0 tvg-logo="hunanweishi.png",group-title="湖南本地频道",湖南卫视
+http://api_p.tll888.com/v/iptv.php?id=hnwshd
+#EXTINF:0 tvg-logo="hunanjingshi.png",group-title="湖南本地频道",湖南经视
+http://175.6.15.12:8080/nn_live/nn_x64/aWQ9SE5KU01QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMTg3NTI3YjA2OGZhNjFjNjA3NDYwY2RhYTMxOTYxZmVkJm50dGw9MyZuY21zaWQ9MTEwMjQwMDQmbmdzPTU5ZjY4MjgwMDAwYTgyZGExZDAzYzUxMjRkMWEyNGYzJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxODA4MmY2NTkwNjA3MGI3NWMyYTI2ZjI4YTQwODMwYWRmNmE3ZDExMzA1YzM,/HNJSMPP360.m3u8
+#EXTINF:0 tvg-logo="hunanklcd.png",group-title="湖南本地频道",快乐垂钓
+http://175.6.15.39:8080/nn_live/nn_x64/aWQ9S0xDRE1QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMWE2OGNjOTE4NGY0MTA5OTIxMzgxN2M5NDg5YmE1YTI2Jm50dGw9MyZuY21zaWQ9MTEwMjQwMTYmbmdzPTU5ZjY4M2U2MDAwMjc2MDQwNDIyNzBjNGU5ZTNlZWFmJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxZTY4M2Y2NTkwNjA3NDZiZjE5Y2Y2ZDQ1Mzc1OWNlMWRhYjIxOTJlNjk3YWU,/KLCDMPP360.m3u8
+#EXTINF:0 tvg-logo="hunandushi.png",group-title="湖南本地频道",湖南都市
+http://175.6.15.12:8080/nn_live/nn_x64/aWQ9SE5EU01QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMWJhN2IxYzg5OTZlYWIzNmNhOTdjODE3M2E3ZTJlMjI3Jm50dGw9MyZuY21zaWQ9MTEwMjQwMDQmbmdzPTU5ZjY4MzNlMDAwOTYxZGQ4MGM3ZjFjOWMzZmQ3Y2NkJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxM2U4M2Y2NTkwNjA3NWJhZDExZTk5N2VkZmRiYTJiODU4NGQ4NjdlYTljMDM,/HNDSMPP360.m3u8
+#EXTINF:0 tvg-logo="hunanyule.png",group-title="湖南本地频道",湖南娱乐
+http://175.6.15.34:8080/nn_live/nn_x64/aWQ9SE5ZTE1QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMTA3YWIwMDhhMzhlMDJlNWM3MWVmZWExMWU5MTAwMTU3Jm50dGw9MyZuY21zaWQ9MTEwMjQwMTEmbmdzPTU5ZjY4MzBlMDAwMDAzNTNhODY3ZTAzMGM0YjFmMjExJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxMGU4M2Y2NTkwNjA3YmExYWRmNGVlMTQ0NDM2MzljYzYzNmVmYzBiNDI1OGE,/HNYLMPP360.m3u8
+#EXTINF:0 tvg-logo="dianshiju.png",group-title="湖南本地频道",湖南电视剧
+http://175.6.15.35:8080/nn_live/nn_x64/aWQ9SE5EU0pNUFAzNjAmdXJsX2MxPTIwMDAmbm5fYWs9MDE0MjQzZWE3NmQzMDliYTA2YmU0YzE0YjhjNDcxZGFiNiZudHRsPTMmbmNtc2lkPTExMDI0MDEyJm5ncz01OWY2ODM2YzAwMDJmNDM4MWNiNjI2NTg0MjE5YzdjYSZubmQ9emdkeC5ndWFuZ2Rvbmcuc2hlbnpoZW4mbmZ0PXRzJmRmbG93PTEmbm5fdXNlcl9pZD0wJm5kaT0xMCZuZHY9MjAxNTA2MDQuMSZuZHQ9cGFkJm5hbD0wMTZjODNmNjU5MDYwN2IxOTYxYTcyMjVjYzAxZmUzZGUxYTg4MTNhN2YxN2Qz/HNDSJMPP360.m3u8
+#EXTINF:0 tvg-logo="hunangonggong.png",group-title="湖南本地频道",湖南公共
 http://119.39.49.86:6610/001/2/ch00000090990000001051/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="xiaoxiangdianying.png",group-title="芒果TV",湖南电影
+#EXTINF:0 tvg-logo="xiaoxiangdianying.png",group-title="湖南本地频道",湖南电影
 http://119.39.49.86:6610/001/2/ch00000090990000001070/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="hunanguoji.png",group-title="芒果TV",湖南国际
-http://119.39.49.86:6610/001/2/ch00000090990000001044/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="hunanshishang.png",group-title="芒果TV",湖南时尚
+#EXTINF:0 tvg-logo="hunanguoji.png",group-title="湖南本地频道",湖南国际
+http://175.6.15.39:8080/nn_live/nn_x64/aWQ9SE5HSk1QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMTQ4Y2E3YzdiMzczNzNlYWRkMjIzMTUxNDNiNmEwZDQxJm50dGw9MyZuY21zaWQ9MTEwMjQwMTYmbmdzPTU5ZjY4MzkxMDAwMTM0M2Q1NGE4MDZmNGQ5NGFhNTAzJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxOTE4M2Y2NTkwNjA3NjBhMTQzNzU4ZTVhMTZlMDA4YzhhZjdjOGQ5NzYzMDI,/HNGJMPP360.m3u8
+#EXTINF:0 tvg-logo="hunanshishang.png",group-title="湖南本地频道",湖南时尚
 http://119.39.49.86:6610/001/2/ch00000090990000001085/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="hunanklg.png",group-title="芒果TV",湖南快乐购
+#EXTINF:0 tvg-logo="hunanklg.png",group-title="湖南本地频道",湖南快乐购
 http://119.39.49.86:6610/001/2/ch00000090990000001116/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="jingyingjishi.png",group-title="芒果TV",金鹰纪实
-http://119.39.49.86:6610/001/2/ch00000090990000001057/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="jingyingkatong.png",group-title="芒果TV",金鹰卡通
+#EXTINF:0 tvg-logo="jingyingjishi.png",group-title="湖南本地频道",金鹰纪实
+http://175.6.15.34:8080/nn_live/nn_x64/aWQ9SllKU01QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMWNjNTI0NWVhY2ZiOWJjZjIyMzNkZDAyNDAxZjZjMzkyJm50dGw9MyZuY21zaWQ9MTEwMjQwMTEmbmdzPTU5ZjY4M2JlMDAwYTkzNmNhNmQyNDY4OWRmOWU3ZWYwJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxYmU4M2Y2NTkwNjA3ZTU5MGI0MGNiNWM2YjBmYTQ2OWQyMjM0ODA1Nzc2OTY,/JYJSMPP360.m3u8
+#EXTINF:0 tvg-logo="jingyingkatong.png",group-title="湖南本地频道",金鹰卡通
 http://119.39.49.86:6610/001/2/ch00000090990000001058/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="CCTV-1a.png",group-title="央视频道",CCTV-1HD
 http://111.13.42.8/PLTV/88888888/224/3221225851/index.m3u8
