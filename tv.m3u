@@ -12,7 +12,7 @@ http://183.252.176.40//PLTV/88888888/224/3221225924/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-3a.png",group-title="超清央视卫视",CCTV3_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225801/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-4a.png",group-title="超清央视卫视",CCTV4_720P-2M
-http://txtslivesh.cctv4g.com/cctv4hd/cctv4hd.m3u8
+http://api_p.tll888.com/v/iptv.php?id=cctv4hd
 #EXTINF:0 tvg-logo="CCTV-5a.png",group-title="超清央视卫视",CCTV5_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225925/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-5a.png",group-title="超清央视卫视",CCTV5_1080P-4M
@@ -286,7 +286,7 @@ http://183.251.61.197/PLTV/88888888/224/3221225923/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-3a.png",group-title="央视频道",CCTV-3HD-720P
 http://111.13.42.8/PLTV/88888888/224/3221225963/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-4a.png",group-title="央视频道",CCTV-4
-http://218.207.213.135/PLTV/88888888/224/3221225802/index.m3u8
+http://api_p.tll888.com/v/iptv.php?id=cctv4hd
 #EXTINF:0 tvg-logo="CCTV-5a.png",group-title="央视频道",CCTV-5HD
 http://111.13.42.8/PLTV/88888888/224/3221225937/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-5b.png",group-title="央视频道",CCTV-5+HD
@@ -312,7 +312,7 @@ http://183.251.61.197/PLTV/88888888/224/3221225933/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-15a.png",group-title="央视频道",CCTV-15
 http://183.251.61.197/PLTV/88888888/224/3221225818/index.m3u8
 #EXTINF:0 tvg-logo="kankannewa.png",group-title="卫视频道",看看新闻
-http://hls.live.kksmg.com/live/live24h/playlist.m3u8
+http://hls1.live.kksmg.com/live/live24h/playlist.m3u8
 #EXTINF:0 tvg-logo="beijingshijianb.png",group-title="卫视频道",北京时间
 http://play5.kandian.360.cn/live_news_1500/main_output_m1/index.m3u8
 #EXTINF:0 tvg-logo="anhuiweishi.png",group-title="卫视频道",安徽卫视
@@ -618,7 +618,8 @@ http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se
 #EXTINF:0 tvg-logo="youxian203.png",香港有线203
 http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=14&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:0 tvg-logo="WWE.png",group-title="体育频道",WWE
-http://hls.quanmin.tv/live/2115620138/playlist.m3u8#EXTINF:0 tvg-logo="FOX-SPORT2.png",group-title="体育频道",FOX-SPORT2
+http://hls.quanmin.tv/live/2115620138/playlist.m3u8
+#EXTINF:0 tvg-logo="FOX-SPORT2.png",group-title="体育频道",FOX-SPORT2
 http://27.254.63.162/stream/totnew.php?channel_id=1fd48f2cd616439ca4162478e572d681
 #EXTINF:0 tvg-logo="FOX-SPORT3.png",group-title="体育频道",FOX-SPORT3
 http://27.254.63.162/stream/totnew.php?channel_id=443ea6ef1768462aaffdff38ce2a4355
