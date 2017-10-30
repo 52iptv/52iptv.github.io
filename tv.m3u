@@ -274,7 +274,7 @@ http://175.6.15.39:8080/nn_live/nn_x64/aWQ9SE5HSk1QUDM2MCZ1cmxfYzE9MjAwMCZubl9ha
 #EXTINF:0 tvg-logo="hunanshishang.png",group-title="湖南本地频道",湖南时尚
 http://119.39.49.86:6610/001/2/ch00000090990000001085/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="hunanklg.png",group-title="湖南本地频道",湖南快乐购
-http://119.39.49.86:6610/001/2/ch00000090990000001116/index.m3u8?&virtualDomain=001.live_hls.zte.com
+http://175.6.15.9:8080/nn_live/nn_x64/aWQ9S0xHTVBQMzYwJnVybF9jMT0yMDAwJm5uX2FrPTAxNDFmZmU0MTZiODE4ZjkzZjRkNThmZjIzNTI5YTAyMzkmbnR0bD0zJm5jbXNpZD0xMTAyNDAwMiZuZ3M9NTlmNjg1ODcwMDA2MjFjZGI3ZGQxNDBlMmE0NDU2MzAmbm5kPXpnZHguZ3Vhbmdkb25nLnNoZW56aGVuJm5mdD10cyZkZmxvdz0xJm5uX3VzZXJfaWQ9MCZuZGk9MTAmbmR2PTIwMTUwNjA0LjEmbmR0PXBhZCZuYWw9MDE4Nzg1ZjY1OTA2MDdmODU2MTkyNjliOWVlZmZlMjg0NDlmNTRkMDFlNzc3Zg,,/KLGMPP360.m3u8
 #EXTINF:0 tvg-logo="jingyingjishi.png",group-title="湖南本地频道",金鹰纪实
 http://175.6.15.34:8080/nn_live/nn_x64/aWQ9SllKU01QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMWNjNTI0NWVhY2ZiOWJjZjIyMzNkZDAyNDAxZjZjMzkyJm50dGw9MyZuY21zaWQ9MTEwMjQwMTEmbmdzPTU5ZjY4M2JlMDAwYTkzNmNhNmQyNDY4OWRmOWU3ZWYwJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxYmU4M2Y2NTkwNjA3ZTU5MGI0MGNiNWM2YjBmYTQ2OWQyMjM0ODA1Nzc2OTY,/JYJSMPP360.m3u8
 #EXTINF:0 tvg-logo="jingyingkatong.png",group-title="湖南本地频道",金鹰卡通
@@ -456,7 +456,7 @@ http://r.gslb.lecloud.com/live/hls/201706223000000cq99/desc.m3u8
 #EXTINF:0 tvg-logo="hunanguoji.png",group-title="省市频道",湖南国际
 http://phoneliveal.mgtv.com/nn_live/nn_x64/aWQ9SE5HSk1QUDM2MCZjZG5leF9pZD1hbF9waG9uZV9saXZlMyZuZnQ9dHMz/HNGJMPP360.m3u8
 #EXTINF:0 tvg-logo="zhengfa.png",group-title="地方频道",长沙政法频道(湖南）
-http://122.225.102.3:80/csftv/1__redirect__4221.m3u8
+http://175.6.15.39:8080/nn_live/nn_x64/aWQ9Q1NaRk1QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMTlkYzE2ZjAwZjQ0NWE1Mzk4MmFjOGE2ZDVhMGJhY2E2Jm50dGw9MyZuY21zaWQ9MTEwMjQwMTYmbmdzPTU5ZjY4NWM0MDAwOWFhMWEwNDY2M2ZlMDM1MWViMzJlJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxYzQ4NWY2NTkwNjA3MjU4MDMyOTQxYTRhMzRjMWM4NTA2ZjhiOWQ4OTA4NTY,/CSZFMPP360.m3u8
 #EXTINF:0 tvg-logo="changdexinwen.png",group-title="地方频道",常德新闻(湖南）
 http://www.cdgdj.com:1935/live/xinwen/playlist.m3u8
 #EXTINF:0 tvg-logo="changdegonggong.png",group-title="地方频道",常德公共(湖南）
