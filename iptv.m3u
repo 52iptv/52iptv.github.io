@@ -255,7 +255,7 @@ http://221.179.217.94/PLTV/88888888/224/3221225924/index.m3u8
 http://221.179.217.94/PLTV/88888888/224/3221225922/index.m3u8
 #EXTINF:0 tvg-logo="NewTV-mxdp.png",group-title="移动/联通源",NewTV明星大片
 http://221.179.217.94/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:0 tvg-logo="shenzhengweishi.png",group-title="深圳电信专用",深圳卫视高清
+#EXTINF:0 tvg-logo="shenzhenweishi.png",group-title="深圳电信专用",深圳卫视高清
 rtsp://183.59.160.61/PLTV/88888895/224/3221226706/00000100000000060000000000334083_0.smil
 #EXTINF:0 tvg-logo="shenzhendushi.png",group-title="深圳电信专用",深圳都市高清
 rtsp://183.59.160.61/PLTV/88888895/224/3221228036/10000100000000060000000007005128_0.smil
@@ -295,7 +295,7 @@ rtsp://183.59.160.61/PLTV/88888895/224/3221227849/100001000000000600000000056843
 rtsp://183.59.160.61/PLTV/88888895/224/3221227902/10000100000000060000000005684301_0.smil
 #EXTINF:0 tvg-logo="CCTV-14a.png",group-title="深圳电信专用",CCTV-14蓝光
 rtsp://183.59.160.61/PLTV/88888895/224/3221227846/10000100000000060000000005684300_0.smil
-#EXTINF:0 tvg-logo="shenzhengweishi.png",group-title="深圳电信专用",深圳卫视蓝光
+#EXTINF:0 tvg-logo="shenzhenweishi.png",group-title="深圳电信专用",深圳卫视蓝光
 rtsp://183.59.160.61/PLTV/88888895/224/3221227475/10000100000000060000000003893558_0.smil
 #EXTINF:0 tvg-logo="shenzhentiyu.png",group-title="深圳电信专用",深圳体育蓝光
 rtsp://183.59.160.61/PLTV/88888895/224/3221227465/10000100000000060000000003893559_0.smil
