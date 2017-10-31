@@ -255,28 +255,358 @@ http://221.179.217.94/PLTV/88888888/224/3221225924/index.m3u8
 http://221.179.217.94/PLTV/88888888/224/3221225922/index.m3u8
 #EXTINF:0 tvg-logo="NewTV-mxdp.png",group-title="移动/联通源",NewTV明星大片
 http://221.179.217.94/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:0 tvg-logo="shenzhendushi.png",group-title="深圳电视台",深圳都市HD
+#EXTINF:0 tvg-logo="shenzhengweishi.png",group-title="深圳电信专用",深圳卫视高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221226706/00000100000000060000000000334083_0.smil
+#EXTINF:0 tvg-logo="shenzhendushi.png",group-title="深圳电信专用",深圳都市高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221228036/10000100000000060000000007005128_0.smil
+#EXTINF:0 tvg-logo="shenzhendushi.png",group-title="深圳电信专用",深圳都市高清-720P
 http://ts10.sztv.com.cn/4b5ab8b5a6ac46cda484d433ada978c1/h264_2000k_ts/index.m3u8?type=flv2hls_m3u8
-#EXTINF:0 tvg-logo="shenzhenyule.png",group-title="深圳电视台",深圳娱乐
-http://yao.hls.cutv.com/cutvlive/1q4iPng/hls/j1x44Pgg_sd.m3u8
-#EXTINF:0 tvg-logo="shenzhengonggong.png",group-title="深圳电视台",深圳公共
-http://yao.hls.cutv.com/cutvlive/2q76Sw2/hls/j2x74Sg2_sd.m3u8
-#EXTINF:0 tvg-logo="shenzhendianshiju.png",group-title="深圳电视台",深圳电视剧
-http://yao.hls.cutv.com/cutvlive/4azbkoY/hls/j4xz4kgY_sd.m3u8
-#EXTINF:0 tvg-logo="shenzhencaijing.png",group-title="深圳电视台",深圳财经生活
-http://yao.hls.cutv.com/cutvlive/3vlcoxP/hls/j3xl4ogP_sd.m3u8
-#EXTINF:0 tvg-logo="shenzhenshaoer.png",group-title="深圳电视台",深圳少儿
-http://yao.hls.cutv.com/cutvlive/1SIQj6s/hls/j1xI4jgs_sd.m3u8
-#EXTINF:0 tvg-logo="shenzhendv.png",group-title="深圳电视台",深圳DV生活
-http://yao.hls.cutv.com/cutvlive/xO1xQFv/hls/jxx14Qgv_sd.m3u8
-#EXTINF:0 tvg-logo="shenzhentiyu.png",group-title="深圳电视台",深圳体育健康
-http://yao.hls.cutv.com/cutvlive/ZwxzUXr/hls/jZxx4Ugr_sd.m3u8
-#EXTINF:0 tvg-logo="shenzhenyidongtv.png",group-title="深圳电视台",深圳移动电视
-http://yao.hls.cutv.com/cutvlive/wDF6KJ3/hls/jwxF4Kg3_sd.m3u8
-#EXTINF:0 tvg-logo="shenzhenyidongtv.png",group-title="深圳电视台",深圳宝安
-http://yao.hls.cutv.com/cutvlive/IQzSzg9/hls/jIxz4zg9_sd.m3u8
-#EXTINF:0 tvg-logo="shenzhenyidongtv.png",group-title="深圳电视台",深圳宜和购物
-http://yao.hls.cutv.com/cutvlive/BJ5u5k2/hls/jBx545g2_sd.m3u8
+#EXTINF:0 tvg-logo="shenzhendianshiju.png",group-title="深圳电信专用",深圳电视剧高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227996/10000100000000060000000007005127_0.smil
+#EXTINF:0 tvg-logo="shenzhengonggong.png",group-title="深圳电信专用",深圳公共高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221228058/10000100000000060000000007005126_0.smil
+#EXTINF:0 tvg-logo="shenzhentiyu.png",group-title="深圳电信专用",深圳体育健康高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227276/10000100000000060000000001191187_0.smil
+#EXTINF:0 tvg-logo="shenzhenyule.png",group-title="深圳电信专用",深圳娱乐
+rtsp://183.59.160.61/PLTV/88888895/224/3221226803/00000100000000060000000000338618_0.smil
+#EXTINF:0 tvg-logo="shenzhencaijing.png",group-title="深圳电信专用",深圳财经生活
+rtsp://183.59.160.61/PLTV/88888895/224/3221226771/00000100000000060000000000338617_0.smil
+#EXTINF:0 tvg-logo="shenzhenshaoer.png",group-title="深圳电信专用",深圳少儿
+rtsp://183.59.160.61/PLTV/88888895/224/3221226806/00000100000000060000000000338630_0.smil
+#EXTINF:0 tvg-logo="shenzhendv.png",group-title="深圳电信专用",深圳DV生活
+rtsp://183.59.160.61/PLTV/88888895/224/3221226774/00000100000000060000000000338632_0.smil
+#EXTINF:0 tvg-logo="shenzhenbaoan.png",group-title="深圳电信专用",深圳宝安
+rtsp://183.59.160.61/PLTV/88888895/224/3221228158/10000100000000060000000007893235_0.smil
+#EXTINF:0 tvg-logo="shenzhenyihegouwu.png",group-title="深圳电信专用",深圳宜和购物
+rtsp://183.59.160.61/PLTV/88888895/224/3221226809/00000100000000060000000000338633_0.smil
+#EXTINF:0 tvg-logo="CCTV-1a.png",group-title="深圳电信专用",CCTV-1蓝光
+rtsp://183.59.160.61/PLTV/88888895/224/3221227462/10000100000000060000000003893556_0.smil
+#EXTINF:0 tvg-logo="CCTV-4a.png",group-title="深圳电信专用",CCTV-4蓝光
+rtsp://183.59.160.61/PLTV/88888895/224/3221227874/10000100000000060000000005684245_0.smil
+#EXTINF:0 tvg-logo="CCTV-5b.png",group-title="深圳电信专用",CCTV-5＋蓝光
+rtsp://183.59.160.61/PLTV/88888895/224/3221227485/10000100000000060000000003893557_0.smil
+#EXTINF:0 tvg-logo="CCTV-7a.png",group-title="深圳电信专用",CCTV-7蓝光
+rtsp://183.59.160.61/PLTV/88888895/224/3221227899/10000100000000060000000005684244_0.smil
+#EXTINF:0 tvg-logo="CCTV-9a.png",group-title="深圳电信专用",CCTV-9蓝光
+rtsp://183.59.160.61/PLTV/88888895/224/3221227877/10000100000000060000000005684303_0.smil
+#EXTINF:0 tvg-logo="CCTV-10a.png",group-title="深圳电信专用",CCTV-10蓝光
+rtsp://183.59.160.61/PLTV/88888895/224/3221227849/10000100000000060000000005684302_0.smil
+#EXTINF:0 tvg-logo="CCTV-12a.png",group-title="深圳电信专用",CCTV-12蓝光
+rtsp://183.59.160.61/PLTV/88888895/224/3221227902/10000100000000060000000005684301_0.smil
+#EXTINF:0 tvg-logo="CCTV-14a.png",group-title="深圳电信专用",CCTV-14蓝光
+rtsp://183.59.160.61/PLTV/88888895/224/3221227846/10000100000000060000000005684300_0.smil
+#EXTINF:0 tvg-logo="shenzhengweishi.png",group-title="深圳电信专用",深圳卫视蓝光
+rtsp://183.59.160.61/PLTV/88888895/224/3221227475/10000100000000060000000003893558_0.smil
+#EXTINF:0 tvg-logo="shenzhentiyu.png",group-title="深圳电信专用",深圳体育蓝光
+rtsp://183.59.160.61/PLTV/88888895/224/3221227465/10000100000000060000000003893559_0.smil
+#EXTINF:0 tvg-logo="hunanweishi.png",group-title="深圳电信专用",湖南卫视蓝光
+rtsp://183.59.160.61/PLTV/88888895/224/3221227488/10000100000000060000000003893560_0.smil
+#EXTINF:0 tvg-logo="jiangsuweishi.png",group-title="深圳电信专用",江苏卫视蓝光
+rtsp://183.59.160.61/PLTV/88888895/224/3221227478/10000100000000060000000003893561_0.smil
+#EXTINF:0 tvg-logo="zhejiangweishi.png",group-title="深圳电信专用",浙江卫视蓝光
+rtsp://183.59.160.61/PLTV/88888895/224/3221227468/10000100000000060000000003893562_0.smil
+#EXTINF:0 tvg-logo="beijingweishia.png",group-title="深圳电信专用",北京卫视蓝光
+rtsp://183.59.160.61/PLTV/88888895/224/3221227491/10000100000000060000000003893563_0.smil
+#EXTINF:0 tvg-logo="guangdongweishi.png",group-title="深圳电信专用",广东卫视蓝光
+rtsp://183.59.160.61/PLTV/88888895/224/3221227481/10000100000000060000000003893564_0.smil
+#EXTINF:0 tvg-logo="shandongweishi.png",group-title="深圳电信专用",山东卫视蓝光
+rtsp://183.59.160.61/PLTV/88888895/224/3221227471/10000100000000060000000003893565_0.smil
+#EXTINF:0 tvg-logo="shandongweishi.png",group-title="深圳电信专用",4K极清体验
+rtsp://183.59.160.61/PLTV/88888895/224/3221227843/10000100000000060000000005628577_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-1高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221226759/00000100000000060000000000336963_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-5＋高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221226794/00000100000000060000000000336973_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-2高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227589/10000100000000060000000004456632_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-4高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227759/10000100000000060000000004960976_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-7高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227764/10000100000000060000000004854042_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-9高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227732/10000100000000060000000004854043_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-10高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227165/10000100000000060000000000984085_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-12高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227220/10000100000000060000000000984087_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-14高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227778/10000100000000060000000004854045_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",湖南卫视高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221226712/00000100000000060000000000336989_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",东方卫视高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221228926/10000100000000060000000008277342_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",浙江卫视高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221226797/00000100000000060000000000336991_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",北京卫视高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221226709/00000100000000060000000000336974_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",江苏卫视高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221226762/00000100000000060000000000336990_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",安徽卫视高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227156/10000100000000060000000000966355_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",湖北卫视高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227199/10000100000000060000000000966360_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",山东卫视高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227401/10000100000000060000000003854622_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",黑龙江卫视高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221226715/00000100000000060000000000337001_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",天津卫视高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227354/10000100000000060000000003547160_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",重庆卫视高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227767/10000100000000060000000004854046_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",辽宁卫视高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227229/10000100000000060000000000984096_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",河北卫视高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221228399/10000100000000060000000007980550_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",四川卫视高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221228310/10000100000000060000000007980551_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",广东卫视高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221226765/00000100000000060000000000337015_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",江西卫视高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221228931/10000100000000060000000008277431_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",贵州卫视高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221228936/10000100000000060000000008277432_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",北京纪实高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227168/10000100000000060000000000984088_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",上海纪实高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221228396/10000100000000060000000007980549_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",湖南金鹰纪实高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221228188/10000100000000060000000007980548_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",中国教育电视1台高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221228941/10000100000000060000000008277378_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",中国3D试验频道
+rtsp://183.59.160.61/PLTV/88888895/224/3221226894/00000100000000060000000000471118_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",广场舞-IPTV高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227762/10000100000000060000000005034007_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",导视-IPTV高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227808/10000100000000060000000005034008_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",熊猫高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227226/10000100000000060000000000984093_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",旅游高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227171/10000100000000060000000000984091_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",收藏高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227223/10000100000000060000000000984090_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",IPTV5＋体育高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221227173/10000100000000060000000000984083_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",IPTV3＋
+rtsp://183.59.160.61/PLTV/88888895/224/3221227061/10000100000000060000000000689781_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",IPTV5＋
+rtsp://183.59.160.61/PLTV/88888895/224/3221227003/10000100000000060000000000689780_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",IPTV6＋
+rtsp://183.59.160.61/PLTV/88888895/224/3221227047/10000100000000060000000000689779_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",IPTV8＋
+rtsp://183.59.160.61/PLTV/88888895/224/3221227058/10000100000000060000000000689778_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",IPTV谍战剧场
+rtsp://183.59.160.61/PLTV/88888895/224/3221227144/10000100000000060000000000965525_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",IPTV相声小品
+rtsp://183.59.160.61/PLTV/88888895/224/3221227164/10000100000000060000000000965516_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",IPTV野外
+rtsp://183.59.160.61/PLTV/88888895/224/3221227141/10000100000000060000000000965509_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",IPTV法治
+rtsp://183.59.160.61/PLTV/88888895/224/3221227161/10000100000000060000000000964057_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",魅力时尚
+rtsp://183.59.160.61/PLTV/88888895/224/3221227147/10000100000000060000000000965535_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",经典电影
+rtsp://183.59.160.61/PLTV/88888895/224/3221227150/10000100000000060000000000965545_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",热播剧场
+rtsp://183.59.160.61/PLTV/88888895/224/3221227167/10000100000000060000000000965546_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",少儿动画
+rtsp://183.59.160.61/PLTV/88888895/224/3221227153/10000100000000060000000000965650_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",女性时尚
+rtsp://183.59.160.61/PLTV/88888895/224/3221228225/10000100000000060000000007632979_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",央视文化精品
+rtsp://183.59.160.61/PLTV/88888895/224/3221228228/10000100000000060000000007632978_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",梨园
+rtsp://183.59.160.61/PLTV/88888895/224/3221228116/10000100000000060000000007632977_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",文物宝库
+rtsp://183.59.160.61/PLTV/88888895/224/3221228250/10000100000000060000000007632976_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",国学
+rtsp://183.59.160.61/PLTV/88888895/224/3221228119/10000100000000060000000007632975_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",武术世界
+rtsp://183.59.160.61/PLTV/88888895/224/3221228253/10000100000000060000000007632974_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",汽摩
+rtsp://183.59.160.61/PLTV/88888895/224/3221228256/10000100000000060000000007632973_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",彩民在线
+rtsp://183.59.160.61/PLTV/88888895/224/3221228234/10000100000000060000000007632972_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",现代女性
+rtsp://183.59.160.61/PLTV/88888895/224/3221228259/10000100000000060000000007632971_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",英语辅导
+rtsp://183.59.160.61/PLTV/88888895/224/3221228240/10000100000000060000000007632970_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",摄影
+rtsp://183.59.160.61/PLTV/88888895/224/3221228128/10000100000000060000000007632969_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",茶
+rtsp://183.59.160.61/PLTV/88888895/224/3221228357/10000100000000060000000007978301_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",新科动漫
+rtsp://183.59.160.61/PLTV/88888895/224/3221227211/10000100000000060000000000984078_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",早期教育
+rtsp://183.59.160.61/PLTV/88888895/224/3221227170/10000100000000060000000000984080_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",书画
+rtsp://183.59.160.61/PLTV/88888895/224/3221227217/10000100000000060000000000984084_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",先锋乒羽
+rtsp://183.59.160.61/PLTV/88888895/224/3221228354/10000100000000060000000007971681_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",卫生健康
+rtsp://183.59.160.61/PLTV/88888895/224/3221227176/10000100000000060000000000984086_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",靓妆
+rtsp://183.59.160.61/PLTV/88888895/224/3221227162/10000100000000060000000000984082_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",快乐垂钓
+rtsp://183.59.160.61/PLTV/88888895/224/3221227159/10000100000000060000000000984079_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",DOXTV
+rtsp://183.59.160.61/PLTV/88888895/224/3221227504/10000100000000060000000004195422_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",世界地理
+rtsp://183.59.160.61/PLTV/88888895/224/3221228262/10000100000000060000000007632968_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",国防军事
+rtsp://183.59.160.61/PLTV/88888895/224/3221228243/10000100000000060000000007632967_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",老故事
+rtsp://183.59.160.61/PLTV/88888895/224/3221228265/10000100000000060000000007632966_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",环球奇观
+rtsp://183.59.160.61/PLTV/88888895/224/3221228131/10000100000000060000000007632965_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",风云音乐
+rtsp://183.59.160.61/PLTV/88888895/224/3221228246/10000100000000060000000007632964_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",风云足球
+rtsp://183.59.160.61/PLTV/88888895/224/3221228134/10000100000000060000000007632518_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",高尔夫网球
+rtsp://183.59.160.61/PLTV/88888895/224/3221228249/10000100000000060000000007632488_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",第一剧场
+rtsp://183.59.160.61/PLTV/88888895/224/3221228137/10000100000000060000000007632456_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",怀旧剧场
+rtsp://183.59.160.61/PLTV/88888895/224/3221228252/10000100000000060000000007632447_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",风云剧场
+rtsp://183.59.160.61/PLTV/88888895/224/3221228140/10000100000000060000000007632439_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-1
+rtsp://183.59.160.61/PLTV/88888895/224/3221226767/00000100000000060000000000268440_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-2
+rtsp://183.59.160.61/PLTV/88888895/224/3221226788/00000100000000060000000000315939_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",央视精品1
+rtsp://183.59.160.61/PLTV/88888895/224/3221226920/00000100000000060000000000422941_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-4
+rtsp://183.59.160.61/PLTV/88888895/224/3221226812/00000100000000060000000000339394_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",央视精品2
+rtsp://183.59.160.61/PLTV/88888895/224/3221226876/00000100000000060000000000422939_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",央视精品3
+rtsp://183.59.160.61/PLTV/88888895/224/3221226879/00000100000000060000000000422947_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-7
+rtsp://183.59.160.61/PLTV/88888895/224/3221226777/00000100000000060000000000339393_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",央视精品4
+rtsp://183.59.160.61/PLTV/88888895/224/3221226850/00000100000000060000000000422940_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-9
+rtsp://183.59.160.61/PLTV/88888895/224/3221227035/10000100000000060000000000657630_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-10
+rtsp://183.59.160.61/PLTV/88888895/224/3221226780/00000100000000060000000000339411_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-11
+rtsp://183.59.160.61/PLTV/88888895/224/3221226815/00000100000000060000000000339412_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-12
+rtsp://183.59.160.61/PLTV/88888895/224/3221226733/00000100000000060000000000339413_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-13
+rtsp://183.59.160.61/PLTV/88888895/224/3221226783/00000100000000060000000000339414_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-14
+rtsp://183.59.160.61/PLTV/88888895/224/3221226818/00000100000000060000000000339415_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-15
+rtsp://183.59.160.61/PLTV/88888895/224/3221226736/00000100000000060000000000339416_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",CCTV-NEWS
+rtsp://183.59.160.61/PLTV/88888895/224/3221226786/00000100000000060000000000339417_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",广东卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226703/00000100000000060000000000315940_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",南方卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226739/00000100000000060000000000339782_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",湖南卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226789/00000100000000060000000000339780_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",北京卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226745/00000100000000060000000000339791_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",江苏卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226810/00000100000000060000000000341917_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",东方卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226830/00000100000000060000000000339790_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",浙江卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226795/00000100000000060000000000339786_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",山东卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221227400/10000100000000060000000003854639_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",四川卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226792/00000100000000060000000000339783_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",山东教育
+rtsp://183.59.160.61/PLTV/88888895/224/3221226801/00000100000000060000000000340217_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",湖北卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226821/00000100000000060000000000339781_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",重庆卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226757/00000100000000060000000000340219_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",陕西卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226839/00000100000000060000000000340218_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",安徽卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226742/00000100000000060000000000339785_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",天津卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226804/00000100000000060000000000340220_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",吉林卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226824/00000100000000060000000000339784_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",山西卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226917/00000100000000060000000000422407_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",内蒙古卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226841/00000100000000060000000000422406_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",辽宁卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226870/00000100000000060000000000422405_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",江西卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226914/00000100000000060000000000422404_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",贵州卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226867/00000100000000060000000000422403_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",新疆卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226838/00000100000000060000000000422402_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",河北卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226864/00000100000000060000000000422401_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",云南卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226911/00000100000000060000000000422400_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",旅游卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226835/00000100000000060000000000422399_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",广西卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226861/00000100000000060000000000422398_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",黑龙江卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226908/00000100000000060000000000422397_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",西藏卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226832/00000100000000060000000000422396_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",河南卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226858/00000100000000060000000000422395_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",青海卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226905/00000100000000060000000000422394_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",宁夏卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226829/00000100000000060000000000422393_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",甘肃卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221226855/00000100000000060000000000422392_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",卡酷动画
+rtsp://183.59.160.61/PLTV/88888895/224/3221226833/00000100000000060000000000340211_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",嘉佳卡通
+rtsp://183.59.160.61/PLTV/88888895/224/3221226748/00000100000000060000000000340209_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",金鹰卡通
+rtsp://183.59.160.61/PLTV/88888895/224/3221226836/00000100000000060000000000340215_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",中国教育1
+rtsp://183.59.160.61/PLTV/88888895/224/3221226826/00000100000000060000000000422391_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",中国教育2
+rtsp://183.59.160.61/PLTV/88888895/224/3221226902/00000100000000060000000000422389_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",空中课堂
+rtsp://183.59.160.61/PLTV/88888895/224/3221226899/00000100000000060000000000422386_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",优漫卡通
+rtsp://183.59.160.61/PLTV/88888895/224/3221227060/10000100000000060000000000737743_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",财富天下
+rtsp://183.59.160.61/PLTV/88888895/224/3221227063/10000100000000060000000000737757_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",兵团卫视
+rtsp://183.59.160.61/PLTV/88888895/224/3221227115/10000100000000060000000000737754_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",珠江频道
+rtsp://183.59.160.61/PLTV/88888895/224/3221227202/10000100000000060000000000966366_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",广东体育
+rtsp://183.59.160.61/PLTV/88888895/224/3221227235/10000100000000060000000000985297_0.smil 
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",深圳气象
+rtsp://183.59.160.61/PLTV/88888895/224/3221227359/10000100000000060000000003547162_0.smil
+#EXTINF:0 tvg-logo="shenzheniptv.png",group-title="深圳电信专用",炫动卡通
+rtsp://183.59.160.61/PLTV/88888895/224/3221226888/00000100000000060000000000427396_0.smil
+#EXTINF:0 tvg-logo="shandongweishi.png",group-title="深圳电信专用",芒果TV
+rtsp://183.59.160.61/PLTV/88888895/224/3221228113/10000100000000060000000007608752_0.smil
+#EXTINF:0 tvg-logo="shandongweishi.png",group-title="深圳电信专用",汕头1新闻综合
+rtsp://183.59.160.61/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil
+#EXTINF:0 tvg-logo="shandongweishi.png",group-title="深圳电信专用",汕头2经济生活
+rtsp://183.59.160.61/PLTV/88888895/224/3221227428/10000100000000060000000003869069_0.smil
+#EXTINF:0 tvg-logo="shandongweishi.png",group-title="深圳电信专用",汕头3影视文艺
+rtsp://183.59.160.61/PLTV/88888895/224/3221227415/10000100000000060000000003869079_0.smil
+#EXTINF:0 tvg-logo="shandongweishi.png",group-title="深圳电信专用",惠州1新闻综合
+rtsp://183.59.160.61/PLTV/88888895/224/3221227516/10000100000000060000000004313748_0.smil
+#EXTINF:0 tvg-logo="shandongweishi.png",group-title="深圳电信专用",惠州2公共生活
+rtsp://183.59.160.61/PLTV/88888895/224/3221227539/10000100000000060000000004313730_0.smil 
+#EXTINF:0 tvg-logo="shandongweishi.png",group-title="深圳电信专用",芒果TV高清
+rtsp://183.59.160.61/PLTV/88888895/224/3221228173/10000100000000060000000008160108_0.smil
 #EXTINF:0 tvg-logo="hunanweishi.png",group-title="湖南本地频道",湖南卫视
 http://api_p.tll888.com/v/iptv.php?id=hnwshd
 #EXTINF:0 tvg-logo="hunanjingshi.png",group-title="湖南本地频道",湖南经视
