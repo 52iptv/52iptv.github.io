@@ -1213,4 +1213,35 @@ http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=5378BC53086F2BFCC5D1DC81B5B776E
 http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=58F3FBD61D5971F4F37AC60D00EED07E&file=/internettv/c1/2017/10/02/58F3FBD61D5971F4F37AC60D00EED07E.ts
 #EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171001期
 http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=DD04512827BF8D5641079C8CE12017E5&file=/internettv/c1/2017/10/01/DD04512827BF8D5641079C8CE12017E5.ts
-
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",极盗车神
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=1936E46551E121FCA9D7E86599FF586B&file=/internettv/c1/2017/10/23/1936E46551E121FCA9D7E86599FF586B.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",神偷奶爸3
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=19E651CD648161CF5698EEAB23522032&file=/internettv/c1/2017/10/07/19E651CD648161CF5698EEAB23522032.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",三生三世十里桃花
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=4460C3F6114AD4E4321C16D609F0846B&file=/internettv/c1/2017/09/01/4460C3F6114AD4E4321C16D609F0846B.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",建军大业
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0E81974AC5EB82EB96C5D99E69EFEB1F&file=/internettv/c1/2017/10/01/0E81974AC5EB82EB96C5D99E69EFEB1F.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",明月几时有
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=6A739470D33AB142B240EE723F9AAE69&file=/internettv/c1/2017/09/15/6A739470D33AB142B240EE723F9AAE69.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",破·局
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=42DCBF815D8A35165A248E7AE81567B4&file=/internettv/c1/2017/09/29/42DCBF815D8A35165A248E7AE81567B4.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",记忆大师
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=FB329558FB12FD9A72ECC93466798A9F&file=/internettv/c1/2017/07/24/FB329558FB12FD9A72ECC93466798A9F.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",速度与激情8
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=21110E2C0D7C2BFA5CEBD6A69E8C73BA&file=/internettv/c1/2017/08/08/21110E2C0D7C2BFA5CEBD6A69E8C73BA.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",加勒比海盗5-死无对证
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=38A47B078578BF4F03931EDF61D22E26&file=/internettv/c1/2017/09/06/38A47B078578BF4F03931EDF61D22E26.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",绝世高手
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=3357712FA1189A2CB949E8265C1CF8B4&file=/internettv/c1/2017/08/08/3357712FA1189A2CB949E8265C1CF8B4.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",超凡蜘蛛侠2
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=F7F30ACAC2D080CE4744BE09171548E5&file=/internettv/c1/2017/07/13/F7F30ACAC2D080CE4744BE09171548E5.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",疯狂动物城
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=DBC04661DF806EDFFB686040EEBA7EDC&file=/internettv/c1/2017/07/14/DBC04661DF806EDFFB686040EEBA7EDC.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="综艺点播",让世界听见20171029
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=550A4EEC9940AAD7C1C156D21D39E936&file=/internettv/c1/2017/10/29/550A4EEC9940AAD7C1C156D21D39E936.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="综艺点播",亲爱的客栈20171028
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0134355C73B0952EA75CDE5B7821E6D6&file=/internettv/c1/2017/10/29/0134355C73B0952EA75CDE5B7821E6D6.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="综艺点播",快乐大本营20171028
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=B3346A1485E764E382A665204E257C06&file=/internettv/c1/2017/10/28/B3346A1485E764E382A665204E257C06.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="综艺点播",天天向上20171027
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=542DD73CACD6AF43D5790F805D016E5A&file=/internettv/c1/2017/10/27/542DD73CACD6AF43D5790F805D016E5A.ts
