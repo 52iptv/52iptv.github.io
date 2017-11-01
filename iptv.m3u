@@ -1043,7 +1043,7 @@ http://acm.gg/tvbkf.m3u8
 http://www.onetv.pub/live/lxsh_hk.php?id=TVBXH
 #EXTINF:0 tvg-logo="tianyingpindao.png",group-title="港台境外",天映频道/翡翠台
 http://acm.gg/bili.m3u8?id=4139853
-#EXTINF:0 tvg-logo="taishizonghe.png",group-title="港台境外",台视
+#EXTINF:0 tvg-logo="taishi.png",group-title="港台境外",台视
 rtmp://wv4.tp33.net/sat/tv071
 #EXTINF:0 tvg-logo="taishizonghe.png",group-title="港台境外",台视HD
 p2p://107.167.13.70:6003/59492562000f2569148b336861641225&link=hxyaishi
