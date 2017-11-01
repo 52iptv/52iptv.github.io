@@ -610,29 +610,39 @@ rtsp://183.59.160.61/PLTV/88888895/224/3221228173/100001000000000600000000081601
 #EXTINF:0 tvg-logo="hunanweishi.png",group-title="湖南本地频道",湖南卫视
 http://api_p.tll888.com/v/iptv.php?id=hnwshd
 #EXTINF:0 tvg-logo="hunanjingshi.png",group-title="湖南本地频道",湖南经视
-http://175.6.15.12:8080/nn_live/nn_x64/aWQ9SE5KU01QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMTg3NTI3YjA2OGZhNjFjNjA3NDYwY2RhYTMxOTYxZmVkJm50dGw9MyZuY21zaWQ9MTEwMjQwMDQmbmdzPTU5ZjY4MjgwMDAwYTgyZGExZDAzYzUxMjRkMWEyNGYzJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxODA4MmY2NTkwNjA3MGI3NWMyYTI2ZjI4YTQwODMwYWRmNmE3ZDExMzA1YzM,/HNJSMPP360.m3u8
+http://175.6.15.36:8080/nn_live.m3u8?id=HNJSMPP360
 #EXTINF:0 tvg-logo="hunanklcd.png",group-title="湖南本地频道",快乐垂钓
-http://175.6.15.39:8080/nn_live/nn_x64/aWQ9S0xDRE1QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMWE2OGNjOTE4NGY0MTA5OTIxMzgxN2M5NDg5YmE1YTI2Jm50dGw9MyZuY21zaWQ9MTEwMjQwMTYmbmdzPTU5ZjY4M2U2MDAwMjc2MDQwNDIyNzBjNGU5ZTNlZWFmJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxZTY4M2Y2NTkwNjA3NDZiZjE5Y2Y2ZDQ1Mzc1OWNlMWRhYjIxOTJlNjk3YWU,/KLCDMPP360.m3u8
+http://175.6.15.36:8080/nn_live.m3u8?id=KLCDMPP360
 #EXTINF:0 tvg-logo="hunandushi.png",group-title="湖南本地频道",湖南都市
-http://175.6.15.12:8080/nn_live/nn_x64/aWQ9SE5EU01QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMWJhN2IxYzg5OTZlYWIzNmNhOTdjODE3M2E3ZTJlMjI3Jm50dGw9MyZuY21zaWQ9MTEwMjQwMDQmbmdzPTU5ZjY4MzNlMDAwOTYxZGQ4MGM3ZjFjOWMzZmQ3Y2NkJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxM2U4M2Y2NTkwNjA3NWJhZDExZTk5N2VkZmRiYTJiODU4NGQ4NjdlYTljMDM,/HNDSMPP360.m3u8
+http://175.6.15.36:8080/nn_live.m3u8?id=HNDSMPP360
 #EXTINF:0 tvg-logo="hunanyule.png",group-title="湖南本地频道",湖南娱乐
-http://175.6.15.34:8080/nn_live/nn_x64/aWQ9SE5ZTE1QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMTA3YWIwMDhhMzhlMDJlNWM3MWVmZWExMWU5MTAwMTU3Jm50dGw9MyZuY21zaWQ9MTEwMjQwMTEmbmdzPTU5ZjY4MzBlMDAwMDAzNTNhODY3ZTAzMGM0YjFmMjExJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxMGU4M2Y2NTkwNjA3YmExYWRmNGVlMTQ0NDM2MzljYzYzNmVmYzBiNDI1OGE,/HNYLMPP360.m3u8
+http://175.6.15.36:8080/nn_live.m3u8?id=HNYLMPP360
 #EXTINF:0 tvg-logo="dianshiju.png",group-title="湖南本地频道",湖南电视剧
-http://175.6.15.35:8080/nn_live/nn_x64/aWQ9SE5EU0pNUFAzNjAmdXJsX2MxPTIwMDAmbm5fYWs9MDE0MjQzZWE3NmQzMDliYTA2YmU0YzE0YjhjNDcxZGFiNiZudHRsPTMmbmNtc2lkPTExMDI0MDEyJm5ncz01OWY2ODM2YzAwMDJmNDM4MWNiNjI2NTg0MjE5YzdjYSZubmQ9emdkeC5ndWFuZ2Rvbmcuc2hlbnpoZW4mbmZ0PXRzJmRmbG93PTEmbm5fdXNlcl9pZD0wJm5kaT0xMCZuZHY9MjAxNTA2MDQuMSZuZHQ9cGFkJm5hbD0wMTZjODNmNjU5MDYwN2IxOTYxYTcyMjVjYzAxZmUzZGUxYTg4MTNhN2YxN2Qz/HNDSJMPP360.m3u8
+http://175.6.15.36:8080/nn_live.m3u8?id=HNDSJMPP360
 #EXTINF:0 tvg-logo="hunangonggong.png",group-title="湖南本地频道",湖南公共
-http://119.39.49.86:6610/001/2/ch00000090990000001051/index.m3u8?&virtualDomain=001.live_hls.zte.com
+http://175.6.15.36:8080/nn_live.m3u8?id=HNGGMPP360
 #EXTINF:0 tvg-logo="xiaoxiangdianying.png",group-title="湖南本地频道",湖南电影
 http://119.39.49.86:6610/001/2/ch00000090990000001070/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="hunanguoji.png",group-title="湖南本地频道",湖南国际
-http://175.6.15.39:8080/nn_live/nn_x64/aWQ9SE5HSk1QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMTQ4Y2E3YzdiMzczNzNlYWRkMjIzMTUxNDNiNmEwZDQxJm50dGw9MyZuY21zaWQ9MTEwMjQwMTYmbmdzPTU5ZjY4MzkxMDAwMTM0M2Q1NGE4MDZmNGQ5NGFhNTAzJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxOTE4M2Y2NTkwNjA3NjBhMTQzNzU4ZTVhMTZlMDA4YzhhZjdjOGQ5NzYzMDI,/HNGJMPP360.m3u8
+http://175.6.15.36:8080/nn_live.m3u8?id=HNGJMPP360
 #EXTINF:0 tvg-logo="hunanshishang.png",group-title="湖南本地频道",湖南时尚
 http://119.39.49.86:6610/001/2/ch00000090990000001085/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="hunanklg.png",group-title="湖南本地频道",湖南快乐购
-http://175.6.15.9:8080/nn_live/nn_x64/aWQ9S0xHTVBQMzYwJnVybF9jMT0yMDAwJm5uX2FrPTAxNDFmZmU0MTZiODE4ZjkzZjRkNThmZjIzNTI5YTAyMzkmbnR0bD0zJm5jbXNpZD0xMTAyNDAwMiZuZ3M9NTlmNjg1ODcwMDA2MjFjZGI3ZGQxNDBlMmE0NDU2MzAmbm5kPXpnZHguZ3Vhbmdkb25nLnNoZW56aGVuJm5mdD10cyZkZmxvdz0xJm5uX3VzZXJfaWQ9MCZuZGk9MTAmbmR2PTIwMTUwNjA0LjEmbmR0PXBhZCZuYWw9MDE4Nzg1ZjY1OTA2MDdmODU2MTkyNjliOWVlZmZlMjg0NDlmNTRkMDFlNzc3Zg,,/KLGMPP360.m3u8
+http://175.6.15.36:8080/nn_live.m3u8?id=KLGMPP360
 #EXTINF:0 tvg-logo="jingyingjishi.png",group-title="湖南本地频道",金鹰纪实
-http://175.6.15.34:8080/nn_live/nn_x64/aWQ9SllKU01QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMWNjNTI0NWVhY2ZiOWJjZjIyMzNkZDAyNDAxZjZjMzkyJm50dGw9MyZuY21zaWQ9MTEwMjQwMTEmbmdzPTU5ZjY4M2JlMDAwYTkzNmNhNmQyNDY4OWRmOWU3ZWYwJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxYmU4M2Y2NTkwNjA3ZTU5MGI0MGNiNWM2YjBmYTQ2OWQyMjM0ODA1Nzc2OTY,/JYJSMPP360.m3u8
+http://175.6.15.36:8080/nn_live.m3u8?id=JYJSMPP360
 #EXTINF:0 tvg-logo="jingyingkatong.png",group-title="湖南本地频道",金鹰卡通
-http://119.39.49.86:6610/001/2/ch00000090990000001058/index.m3u8?&virtualDomain=001.live_hls.zte.com
+http://175.6.15.36:8080/nn_live.m3u8?id=JYKTMPP360
+#EXTINF:0 tvg-logo="chapindao.png",group-title="湖南本地频道",茶频道
+http://175.6.15.36:8080/nn_live.m3u8?id=CPDMPP360
+#EXTINF:0 tvg-logo="xianfengpingyu.png",group-title="湖南本地频道",先锋乒羽
+http://175.6.15.36:8080/nn_live.m3u8?id=XFPYMPP360
+#EXTINF:0 tvg-logo="changshaxinwen.png",group-title="湖南本地频道",长沙新闻
+http://175.6.15.36:8080/nn_live.m3u8?id=CSXWMPP360
+#EXTINF:0 tvg-logo="changshazhengfa.png",group-title="湖南本地频道",长沙政法
+http://175.6.15.36:8080/nn_live.m3u8?id=CSZFMPP360
+#EXTINF:0 tvg-logo="changshanvxing.png",group-title="湖南本地频道",长沙女性
+http://175.6.15.36:8080/nn_live.m3u8?id=CSNXMPP360
 #EXTINF:0 tvg-logo="CCTV-1a.png",group-title="央视频道",CCTV-1
 http://111.13.42.8/PLTV/88888888/224/3221225851/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-2a.png",group-title="央视频道",CCTV-2
@@ -1012,11 +1022,15 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:0 tvg-logo="tvbfeicui.png",group-title="港台境外",TVB翡翠-源1
 http://acm.gg/jade.m3u8
 #EXTINF:0 tvg-logo="tvbfeicui.png",group-title="港台境外",TVB翡翠-源2
-http://alpull.inke.cn/live/jade.m3u8
+http://api_p.tll888.com/v/jade.php
+#EXTINF:0 tvg-logo="tvbfeicui.png",group-title="港台境外",TVB翡翠-源3
+http://live.alicdn.com/live/1509450917.m3u8
 #EXTINF:0 tvg-logo="tvbj2.png",group-title="港台境外",TVB-J2
 http://acm.gg/j2.m3u8
-#EXTINF:0 tvg-logo="tvbhudongxinwena.png",group-title="港台境外",TVB新闻
+#EXTINF:0 tvg-logo="tvbhudongxinwena.png",group-title="港台境外",TVB新闻-源1
 http://txhls.cdn.zhanqi.tv/zqlive/6098_MfSoS.m3u8
+#EXTINF:0 tvg-logo="tvbhudongxinwena.png",group-title="港台境外",TVB新闻-源2
+p2p://107.167.13.70:6003/5949254f0007c10e148ae74c5cf51ee6&link=hxyaishi
 #EXTINF:0 tvg-logo="tvb8a.png",group-title="港台境外",TVB8
 http://tvb8-i.akamaihd.net/hls/live/224490/C8Live/C8Live-1.m3u8
 #EXTINF:0 tvg-logo="tvbyule.png",group-title="港台境外",TVB娱乐新闻台
@@ -1029,6 +1043,24 @@ http://acm.gg/tvbkf.m3u8
 http://www.onetv.pub/live/lxsh_hk.php?id=TVBXH
 #EXTINF:0 tvg-logo="tianyingpindao.png",group-title="港台境外",天映频道/翡翠台
 http://acm.gg/bili.m3u8?id=4139853
+#EXTINF:0 tvg-logo="taishizonghe.png",group-title="港台境外",台视
+rtmp://wv4.tp33.net/sat/tv071
+#EXTINF:0 tvg-logo="taishizonghe.png",group-title="港台境外",台视HD
+p2p://107.167.13.70:6003/59492562000f2569148b336861641225&link=hxyaishi
+#EXTINF:0 tvg-logo="zhongshi.png",group-title="港台境外",中视
+rtmp://wv4.tp33.net/sat/tv091
+#EXTINF:0 tvg-logo="zhongshi.png",group-title="港台境外",中视HD
+p2p://107.167.13.70:6003/594925630001515a148b33c656a3153d&link=hxyaishi
+#EXTINF:0 tvg-logo="huashi.png",group-title="港台境外",华视
+rtmp://wv4.tp33.net/sat/tv111
+#EXTINF:0 tvg-logo="huashi.png",group-title="港台境外",华视HD
+p2p://107.167.13.70:6003/59492562000e32d6148b33292227554f&link=hxyaishi
+#EXTINF:0 tvg-logo="minshi.png",group-title="港台境外",民视
+rtmp://wv4.tp33.net/sat/tv051
+#EXTINF:0 tvg-logo="minshi.png",group-title="港台境外",民视HD
+p2p://107.167.13.70:6003/5949255d00018e97148b1c651d7654b2&link=hxyaishi
+#EXTINF:0 tvg-logo="gongshi1",group-title="港台境外",公视HD
+p2p://107.167.13.70:6003/59492562000db7dd148b330a0ecf50e3&link=hxyaishi
 #EXTINF:0 tvg-logo="nowxinwen.png",group-title="港台境外",NOW新闻
 http://hktv.ga/now.php?id=2
 #EXTINF:0 tvg-logo="nowzhibo.png",group-title="港台境外",NOW直播
@@ -1088,25 +1120,21 @@ http://live.mastvnet.com/n1rtlHG/500/live.m3u8
 #EXTINF:0 tvg-logo="lianhuaweishi.png",group-title="港台境外",莲花卫视
 http://3xhtut.hls1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:0 tvg-logo="zhongtianxinwena.png",group-title="港台境外",中天新闻
-https://58ada6ee80845.streamlock.net/ios/-ctinews-0832/playlist.m3u8
+p2p://107.167.13.70:6003/594925aa000d3ebe148c4c2b47580c1a&link=hxyaishi
 #EXTINF:0 tvg-logo="tvbsxinwen.png",group-title="港台境外",TVBS新闻
-http://60.199.188.120/HLS/WG_TVBS-N/index.m3u8
+p2p://107.167.13.70:6003/59492596000eac80148bfe6952717dfd&link=hxyaishi
 #EXTINF:0 tvg-logo="dongsengxinwen.png",group-title="港台境外",东森新闻
-http://60.199.188.120/HLS/WG_ETTV-N/index.m3u8
+p2p://107.167.13.70:6003/59492542000a6058148ab52f163a68e1&link=hxyaishi
 #EXTINF:0 tvg-logo="mingshixinwen.png",group-title="港台境外",民视新闻
-https://58ada6ee80845.streamlock.net/ios/-ftvnews-0832/playlist.m3u8
+p2p://107.167.13.70:6003/594925630001cb9b148b33e521985d72&link=hxyaishi
 #EXTINF:0 tvg-logo="feifanxinwen.png",group-title="港台境外",非凡新闻
-http://60.199.188.120/HLS/WG_USTV-N/index.m3u8
+p2p://107.167.13.70:6003/5949255c000a9e2e148b1acf19e356a4&link=hxyaishi
 #EXTINF:0 tvg-logo="huanyuxinwen.png",group-title="港台境外",环宇新闻1
 http://61.219.11.159/origin/live/ch2017091940/hls0/index.m3u8
 #EXTINF:0 tvg-logo="huanyuxinwen.png",group-title="港台境外",环宇新闻2
 http://61.219.11.159/origin/live/ch2017091941/hls0/index.m3u8
-#EXTINF:0 tvg-logo="zhongshi.png",group-title="港台境外",中视频道
-https://58ada6ee80845.streamlock.net/ios/-ctv-0832/playlist.m3u8 
 #EXTINF:0 tvg-logo="taishixinwen.png",group-title="港台境外",台视新闻
 https://58ada6ee80845.streamlock.net/ios/-ttvnews-0832/playlist.m3u8 
-#EXTINF:0 tvg-logo="huashi.png",group-title="港台境外",华视频道
-https://58ada6ee80845.streamlock.net/ios/-cts-0832/playlist.m3u8
 #EXTINF:0 tvg-logo="jingtianzonghe.png",group-title="港台境外",靖天综合
 https://58ada6ee80845.streamlock.net/ios/-goldentvgenner-0832/playlist.m3u8
 #EXTINF:0 tvg-logo="jingtianyule.png",group-title="港台境外",靖天育乐
