@@ -159,6 +159,230 @@ http://183.252.176.40//PLTV/88888888/224/3221225888/index.m3u8
 http://183.252.176.40//PLTV/88888888/224/3221225886/index.m3u8
 #EXTINF:0 tvg-logo="NewTV-mxdp.png",group-title="超清央视卫视",NewTV明星大片
 http://183.252.176.40//PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:0 tvg-logo="hunanweishi.png",group-title="湖南IPTV",湖南卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001079/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="hunanjingshi.png",group-title="湖南IPTV",湖南经视
+http://119.39.133.90:6610/001/2/ch00000090990000001080/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="hunanklcd.png",group-title="湖南IPTV",快乐垂钓
+http://119.39.133.90:6610/001/2/ch00000090990000001060/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="hunandushi.png",group-title="湖南IPTV",湖南都市
+http://119.39.133.90:6610/001/2/ch00000090990000001049/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="hunanyule.png",group-title="湖南IPTV",湖南娱乐
+http://119.39.133.90:6610/001/2/ch00000090990000001013/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="dianshiju.png",group-title="湖南IPTV",湖南电视剧
+http://119.39.133.90:6610/001/2/ch00000090990000001050/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="hunangonggong.png",group-title="湖南IPTV",湖南公共
+http://119.39.133.90:6610/001/2/ch00000090990000001051/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="xiaoxiangdianying.png",group-title="湖南IPTV",湖南电影
+http://119.39.133.90:6610/001/2/ch00000090990000001070/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="hunanguoji.png",group-title="湖南IPTV",湖南国际
+http://119.39.133.90:6610/001/2/ch00000090990000001044/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="hunanshishang.png",group-title="湖南IPTV",湖南时尚
+http://119.39.133.90:6610/001/2/ch00000090990000001085/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="hunanklg.png",group-title="湖南IPTV",湖南快乐购
+http://119.39.133.90:6610/001/2/ch00000090990000001116/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="jingyingjishi.png",group-title="湖南IPTV",金鹰纪实
+http://119.39.133.90:6610/001/2/ch00000090990000001057/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="jingyingkatong.png",group-title="湖南IPTV",金鹰卡通
+http://119.39.133.90:6610/001/2/ch00000090990000001058/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="chapindao.png",group-title="湖南IPTV",茶频道
+http://175.6.15.36:8080/nn_live.m3u8?id=CPDMPP360
+#EXTINF:0 tvg-logo="xianfengpingyu.png",group-title="湖南IPTV",先锋乒羽
+http://119.39.133.90:6610/001/2/ch00000090990000001127/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="changshaxinwen.png",group-title="湖南IPTV",长沙新闻
+http://119.39.133.90:6610/001/2/ch00000090990000001104/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="changshaxinwen.png",group-title="湖南IPTV",长沙新闻
+http://175.6.15.36:8080/nn_live.m3u8?id=CSXWMPP360
+#EXTINF:0 tvg-logo="changshazhengfa.png",group-title="湖南IPTV",长沙政法HD
+http://hls.mlink.tv/mlink/dhiktu17.m3u8
+#EXTINF:0 tvg-logo="changshazhengfa.png",group-title="湖南IPTV",长沙政法
+http://119.39.133.90:6610/001/2/ch00000090990000001107/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="changshazhengfa.png",group-title="湖南IPTV",长沙政法
+http://175.6.15.36:8080/nn_live.m3u8?id=CSZFMPP360
+#EXTINF:0 tvg-logo="changshanvxing.png",group-title="湖南IPTV",长沙女性
+http://119.39.133.90:6610/001/2/ch00000090990000001106/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="changshanvxing.png",group-title="湖南IPTV",长沙女性
+http://175.6.15.36:8080/nn_live.m3u8?id=CSNXMPP360
+#EXTINF:0 tvg-logo="changshajingmao.png",group-title="湖南IPTV",长沙经贸
+http://119.39.133.90:6610/001/2/ch00000090990000001034/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="CCTV-1a.png",group-title="湖南IPTV",CCTV-1
+http://119.39.133.90:6610/001/2/ch00000090990000001075/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="CCTV-2a.png",group-title="湖南IPTV",CCTV-2
+http://119.39.133.90:6610/001/2/ch00000090990000001014/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="CCTV-3a.png",group-title="湖南IPTV",CCTV-3
+http://119.39.133.90:6610/001/2/ch00000090990000001023/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="CCTV-4a.png",group-title="湖南IPTV",CCTV-4
+http://119.39.133.90:6610/001/2/ch00000090990000001015/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="湖南IPTV",CCTV-5
+http://119.39.133.90:6610/001/2/ch00000090990000001016/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="CCTV-5b.png",group-title="湖南IPTV",CCTV-5+
+http://119.39.133.90:6610/001/2/ch00000090990000001074/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="CCTV-6a.png",group-title="湖南IPTV",CCTV-6
+http://119.39.133.90:6610/001/2/ch00000090990000001159/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="CCTV-7a.png",group-title="湖南IPTV",CCTV-7
+http://119.39.133.90:6610/001/2/ch00000090990000001018/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="CCTV-8a.png",group-title="湖南IPTV",CCTV-8
+http://119.39.133.90:6610/001/2/ch00000090990000001160/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="CCTV-9a.png",group-title="湖南IPTV",CCTV-9
+http://119.39.133.90:6610/001/2/ch00000090990000001020/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="CCTV-10a.png",group-title="湖南IPTV",CCTV-10
+http://119.39.133.90:6610/001/2/ch00000090990000001021/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="CCTV-11a.png",group-title="湖南IPTV",CCTV-11
+http://119.39.133.90:6610/001/2/ch00000090990000001027/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="CCTV-12a.png",group-title="湖南IPTV",CCTV-12
+http://119.39.133.90:6610/001/2/ch00000090990000001028/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="CCTV-13a.png",group-title="湖南IPTV",CCTV-13
+http://119.39.133.90:6610/001/2/ch00000090990000001029/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="CCTV-14a.png",group-title="湖南IPTV",CCTV-14
+http://119.39.133.90:6610/001/2/ch00000090990000001030/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="CCTV-15a.png",group-title="湖南IPTV",CCTV-15
+http://119.39.133.90:6610/001/2/ch00000090990000001031/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="doxyuanxian.png",group-title="湖南IPTV",DOX院线
+http://119.39.133.90:6610/001/2/ch00000090990000001100/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="doxyijia.png",group-title="湖南IPTV",DOX怡家
+http://119.39.133.90:6610/001/2/ch00000090990000001101/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="doxyinglun.png",group-title="湖南IPTV",DOX英伦
+http://119.39.133.90:6610/001/2/ch00000090990000001108/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="doxyaqu.png",group-title="湖南IPTV",DOX雅趣
+http://119.39.133.90:6610/001/2/ch00000090990000001151/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="doxxinyi.png",group-title="湖南IPTV",DOX新艺
+http://119.39.133.90:6610/001/2/ch00000090990000001155/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="beijingkaku.png",group-title="湖南IPTV",卡酷少儿
+http://119.39.133.90:6610/001/2/ch00000090990000001059/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="youmankatong.png",group-title="湖南IPTV",优漫卡通
+http://119.39.133.90:6610/001/2/ch00000090990000001071/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="zhejiangweishi.png",group-title="湖南IPTV",浙江卫视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001076/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="beijingweishia.png",group-title="湖南IPTV",北京卫视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001077/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="shenzhenweishi.png",group-title="湖南IPTV",深圳卫视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001078/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="dongfangweishi.png",group-title="湖南IPTV",东方卫视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001081/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="jiangsuweishi.png",group-title="湖南IPTV",江苏卫视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001082/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="shandongweishi.png",group-title="湖南IPTV",山东卫视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001083/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="heilongjiangweishi.png",group-title="湖南IPTV",黑龙江卫视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001084/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="tianjingweishi.png",group-title="湖南IPTV",天津卫视高清
+http://119.39.133.90:6610/001/2/ch00000090990000001135/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="anhuiweishi.png",group-title="湖南IPTV",安徽卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001024/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="chongqingweishi.png",group-title="湖南IPTV",重庆卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001033/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="dongnanweishi.png",group-title="湖南IPTV",东南卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001037/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="guangdongweishi.png",group-title="湖南IPTV",广东卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001042/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="guangxiweishi.png",group-title="湖南IPTV",广西卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001045/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="guizhouweishi.png",group-title="湖南IPTV",贵州卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001046/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="hubeiweishi.png",group-title="湖南IPTV",湖北卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001047/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="jiangxiweishi.png",group-title="湖南IPTV",江西卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001056/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="liaoningweishi.png",group-title="湖南IPTV",辽宁卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001061/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="lvyouweishi.png",group-title="湖南IPTV",旅游卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001062/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="sichuanweishi.png",group-title="湖南IPTV",四川卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001064/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="shandongweishi.png",group-title="湖南IPTV",山东卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001065/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="shanxiweishi.png",group-title="湖南IPTV",陕西卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001067/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="yunnanweishi.png",group-title="湖南IPTV",云南卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001072/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="gansuweishi.png",group-title="湖南IPTV",甘肃卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001109/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="hebeiweishi.png",group-title="湖南IPTV",河北卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001110/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="henanweishi.png",group-title="湖南IPTV",河南卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001111/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="jilinweishi.png",group-title="湖南IPTV",吉林卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001112/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="nanfangweishi.png",group-title="湖南IPTV",南方卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001118/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="neimengguweishi.png",group-title="湖南IPTV",内蒙古卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001119/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="ningxiaweishi.png",group-title="湖南IPTV",宁夏卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001120/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="qinghaiweishi.png",group-title="湖南IPTV",青海卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001121/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="shanxiweishib.png",group-title="湖南IPTV",山西卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001123/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="xinjiangweishi.png",group-title="湖南IPTV",新疆卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001128/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="xizangweishi.png",group-title="湖南IPTV",西藏卫视
+http://119.39.133.90:6610/001/2/ch00000090990000001129/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",优优宝贝
+http://119.39.133.90:6610/001/2/ch00000090990000001131/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",美食天府
+http://119.39.133.90:6610/001/2/ch00000090990000001132/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",证券资讯
+http://119.39.133.90:6610/001/2/ch00000090990000001133/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",休闲指南
+http://119.39.133.90:6610/001/2/ch00000090990000001134/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="liangzhuangpindao.png",group-title="湖南IPTV",靓装频道
+http://119.39.133.90:6610/001/2/ch00000090990000001113/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",家庭理财
+http://119.39.133.90:6610/001/2/ch00000090990000001114/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",快乐宠物
+http://119.39.133.90:6610/001/2/ch00000090990000001115/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",百姓健康
+http://119.39.133.90:6610/001/2/ch00000090990000001102/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="caifutianxia.png",group-title="湖南IPTV",财富天下
+http://119.39.133.90:6610/001/2/ch00000090990000001103/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",经典电影
+http://119.39.133.90:6610/001/2/ch00000090990000001152/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",热播美剧
+http://119.39.133.90:6610/001/2/ch00000090990000001153/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",自然传奇
+http://119.39.133.90:6610/001/2/ch00000090990000001154/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",游戏竞技
+http://119.39.133.90:6610/001/2/ch00000090990000001156/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",人物频道
+http://119.39.133.90:6610/001/2/ch00000090990000001122/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",天元围棋
+http://119.39.133.90:6610/001/2/ch00000090990000001125/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="fyzq.png",group-title="湖南IPTV",风云足球
+http://119.39.133.90:6610/001/2/ch00000090990000001041/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",电子体育
+http://119.39.133.90:6610/001/2/ch00000090990000001038/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="gef.png",group-title="湖南IPTV",高尔夫
+http://119.39.133.90:6610/001/2/ch00000090990000001043/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",四海钓鱼
+http://119.39.133.90:6610/001/2/ch00000090990000001066/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",IPTV经典电影
+http://119.39.133.90:6610/001/2/ch00000090990000001054/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",IPTV热播剧场
+http://119.39.133.90:6610/001/2/ch00000090990000001063/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",IPTV魅力时尚
+http://119.39.133.90:6610/001/2/ch00000090990000001117/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",芒果亲子育儿
+http://119.39.133.90:6610/001/2/ch00000090990000001086/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",芒果铁血军事
+http://119.39.133.90:6610/001/2/ch00000090990000001087/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",芒果热播综艺
+http://119.39.133.90:6610/001/2/ch00000090990000001088/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",芒果TV独播
+http://119.39.133.90:6610/001/2/ch00000090990000001089/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",芒果快乐购
+http://119.39.133.90:6610/001/2/ch00000090990000001090/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",芒果好莱坞片场
+http://119.39.133.90:6610/001/2/ch00000090990000001091/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",芒果古装偶像
+http://119.39.133.90:6610/001/2/ch00000090990000001092/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",芒果宣传
+http://119.39.133.90:6610/001/2/ch00000090990000001094/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",芒果宣传
+http://119.39.133.90:6610/001/2/ch00000090990000001095/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",芒果儿歌精选
+http://119.39.133.90:6610/001/2/ch00000090990000001096/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+#EXTINF:0 tvg-logo="MGTV.png",group-title="湖南IPTV",芒果宣传
+http://119.39.133.90:6610/001/2/ch00000090990000001040/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
 #EXTINF:0 tvg-logo="fenghuangweishihd.png",group-title="移动/联通源",凤凰卫视中文台
 http://221.179.217.94/PLTV/88888888/224/3221225685/index.m3u8
 #EXTINF:0 tvg-logo="fenghuangzixunhd.png",group-title="移动/联通源",凤凰卫视资讯台
@@ -253,32 +477,6 @@ http://221.179.217.94/PLTV/88888888/224/3221225924/index.m3u8
 http://221.179.217.94/PLTV/88888888/224/3221225922/index.m3u8
 #EXTINF:0 tvg-logo="NewTV-mxdp.png",group-title="移动/联通源",NewTV明星大片
 http://221.179.217.94/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:0 tvg-logo="hunanweishi.png",group-title="湖南本地频道",湖南卫视
-http://api_p.tll888.com/v/iptv.php?id=hnwshd
-#EXTINF:0 tvg-logo="hunanjingshi.png",group-title="湖南本地频道",湖南经视
-http://175.6.15.12:8080/nn_live/nn_x64/aWQ9SE5KU01QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMTg3NTI3YjA2OGZhNjFjNjA3NDYwY2RhYTMxOTYxZmVkJm50dGw9MyZuY21zaWQ9MTEwMjQwMDQmbmdzPTU5ZjY4MjgwMDAwYTgyZGExZDAzYzUxMjRkMWEyNGYzJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxODA4MmY2NTkwNjA3MGI3NWMyYTI2ZjI4YTQwODMwYWRmNmE3ZDExMzA1YzM,/HNJSMPP360.m3u8
-#EXTINF:0 tvg-logo="hunanklcd.png",group-title="湖南本地频道",快乐垂钓
-http://175.6.15.39:8080/nn_live/nn_x64/aWQ9S0xDRE1QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMWE2OGNjOTE4NGY0MTA5OTIxMzgxN2M5NDg5YmE1YTI2Jm50dGw9MyZuY21zaWQ9MTEwMjQwMTYmbmdzPTU5ZjY4M2U2MDAwMjc2MDQwNDIyNzBjNGU5ZTNlZWFmJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxZTY4M2Y2NTkwNjA3NDZiZjE5Y2Y2ZDQ1Mzc1OWNlMWRhYjIxOTJlNjk3YWU,/KLCDMPP360.m3u8
-#EXTINF:0 tvg-logo="hunandushi.png",group-title="湖南本地频道",湖南都市
-http://175.6.15.12:8080/nn_live/nn_x64/aWQ9SE5EU01QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMWJhN2IxYzg5OTZlYWIzNmNhOTdjODE3M2E3ZTJlMjI3Jm50dGw9MyZuY21zaWQ9MTEwMjQwMDQmbmdzPTU5ZjY4MzNlMDAwOTYxZGQ4MGM3ZjFjOWMzZmQ3Y2NkJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxM2U4M2Y2NTkwNjA3NWJhZDExZTk5N2VkZmRiYTJiODU4NGQ4NjdlYTljMDM,/HNDSMPP360.m3u8
-#EXTINF:0 tvg-logo="hunanyule.png",group-title="湖南本地频道",湖南娱乐
-http://175.6.15.34:8080/nn_live/nn_x64/aWQ9SE5ZTE1QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMTA3YWIwMDhhMzhlMDJlNWM3MWVmZWExMWU5MTAwMTU3Jm50dGw9MyZuY21zaWQ9MTEwMjQwMTEmbmdzPTU5ZjY4MzBlMDAwMDAzNTNhODY3ZTAzMGM0YjFmMjExJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxMGU4M2Y2NTkwNjA3YmExYWRmNGVlMTQ0NDM2MzljYzYzNmVmYzBiNDI1OGE,/HNYLMPP360.m3u8
-#EXTINF:0 tvg-logo="dianshiju.png",group-title="湖南本地频道",湖南电视剧
-http://175.6.15.35:8080/nn_live/nn_x64/aWQ9SE5EU0pNUFAzNjAmdXJsX2MxPTIwMDAmbm5fYWs9MDE0MjQzZWE3NmQzMDliYTA2YmU0YzE0YjhjNDcxZGFiNiZudHRsPTMmbmNtc2lkPTExMDI0MDEyJm5ncz01OWY2ODM2YzAwMDJmNDM4MWNiNjI2NTg0MjE5YzdjYSZubmQ9emdkeC5ndWFuZ2Rvbmcuc2hlbnpoZW4mbmZ0PXRzJmRmbG93PTEmbm5fdXNlcl9pZD0wJm5kaT0xMCZuZHY9MjAxNTA2MDQuMSZuZHQ9cGFkJm5hbD0wMTZjODNmNjU5MDYwN2IxOTYxYTcyMjVjYzAxZmUzZGUxYTg4MTNhN2YxN2Qz/HNDSJMPP360.m3u8
-#EXTINF:0 tvg-logo="hunangonggong.png",group-title="湖南本地频道",湖南公共
-http://119.39.49.86:6610/001/2/ch00000090990000001051/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="xiaoxiangdianying.png",group-title="湖南本地频道",湖南电影
-http://119.39.49.86:6610/001/2/ch00000090990000001070/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="hunanguoji.png",group-title="湖南本地频道",湖南国际
-http://175.6.15.39:8080/nn_live/nn_x64/aWQ9SE5HSk1QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMTQ4Y2E3YzdiMzczNzNlYWRkMjIzMTUxNDNiNmEwZDQxJm50dGw9MyZuY21zaWQ9MTEwMjQwMTYmbmdzPTU5ZjY4MzkxMDAwMTM0M2Q1NGE4MDZmNGQ5NGFhNTAzJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxOTE4M2Y2NTkwNjA3NjBhMTQzNzU4ZTVhMTZlMDA4YzhhZjdjOGQ5NzYzMDI,/HNGJMPP360.m3u8
-#EXTINF:0 tvg-logo="hunanshishang.png",group-title="湖南本地频道",湖南时尚
-http://119.39.49.86:6610/001/2/ch00000090990000001085/index.m3u8?&virtualDomain=001.live_hls.zte.com
-#EXTINF:0 tvg-logo="hunanklg.png",group-title="湖南本地频道",湖南快乐购
-http://175.6.15.9:8080/nn_live/nn_x64/aWQ9S0xHTVBQMzYwJnVybF9jMT0yMDAwJm5uX2FrPTAxNDFmZmU0MTZiODE4ZjkzZjRkNThmZjIzNTI5YTAyMzkmbnR0bD0zJm5jbXNpZD0xMTAyNDAwMiZuZ3M9NTlmNjg1ODcwMDA2MjFjZGI3ZGQxNDBlMmE0NDU2MzAmbm5kPXpnZHguZ3Vhbmdkb25nLnNoZW56aGVuJm5mdD10cyZkZmxvdz0xJm5uX3VzZXJfaWQ9MCZuZGk9MTAmbmR2PTIwMTUwNjA0LjEmbmR0PXBhZCZuYWw9MDE4Nzg1ZjY1OTA2MDdmODU2MTkyNjliOWVlZmZlMjg0NDlmNTRkMDFlNzc3Zg,,/KLGMPP360.m3u8
-#EXTINF:0 tvg-logo="jingyingjishi.png",group-title="湖南本地频道",金鹰纪实
-http://175.6.15.34:8080/nn_live/nn_x64/aWQ9SllKU01QUDM2MCZ1cmxfYzE9MjAwMCZubl9haz0wMWNjNTI0NWVhY2ZiOWJjZjIyMzNkZDAyNDAxZjZjMzkyJm50dGw9MyZuY21zaWQ9MTEwMjQwMTEmbmdzPTU5ZjY4M2JlMDAwYTkzNmNhNmQyNDY4OWRmOWU3ZWYwJm5uZD16Z2R4Lmd1YW5nZG9uZy5zaGVuemhlbiZuZnQ9dHMmZGZsb3c9MSZubl91c2VyX2lkPTAmbmRpPTEwJm5kdj0yMDE1MDYwNC4xJm5kdD1wYWQmbmFsPTAxYmU4M2Y2NTkwNjA3ZTU5MGI0MGNiNWM2YjBmYTQ2OWQyMjM0ODA1Nzc2OTY,/JYJSMPP360.m3u8
-#EXTINF:0 tvg-logo="jingyingkatong.png",group-title="湖南本地频道",金鹰卡通
-http://119.39.49.86:6610/001/2/ch00000090990000001058/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="CCTV-1a.png",group-title="央视频道",CCTV-1HD
 http://111.13.42.8/PLTV/88888888/224/3221225851/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-2a.png",group-title="央视频道",CCTV-2HD
@@ -787,48 +985,28 @@ http://cdn-src2.waaarp.wscdns.com/live-transcode/_definst_/smil:daai/tv01.smil/c
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:0 tvg-logo="fashiontv.png",group-title="港台境外",法国时装
 http://origina.streaming.sk/liveedge/tvfashion/chunklist_w1323605783.m3u8
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171022期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=C81D9354731E25896DA7D0984B9AEE42&file=/internettv/c1/2017/10/22/C81D9354731E25896DA7D0984B9AEE42.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171021期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=BC5C7148C0E61FE940025E7E694C756C&file=/internettv/c1/2017/10/21/BC5C7148C0E61FE940025E7E694C756C.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171020期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=61DA3CB856AEA37C077C2319401E4851&file=/internettv/c1/2017/10/20/61DA3CB856AEA37C077C2319401E4851.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171019期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=553405A8FDFCD596F4B66FEFA2C5034E&file=/internettv/c1/2017/10/19/553405A8FDFCD596F4B66FEFA2C5034E.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171018期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=76E348F54813EBC4FD9282EE7C9DD452&file=/internettv/c1/2017/10/18/76E348F54813EBC4FD9282EE7C9DD452.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171017期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=61AFD3529FC0C108A24E48BACDB1C274&file=/internettv/c1/2017/10/17/61AFD3529FC0C108A24E48BACDB1C274.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171016期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0F119ACED15F5E6B944FB3E133199E45&file=/internettv/c1/2017/10/16/0F119ACED15F5E6B944FB3E133199E45.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171015期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=23738009116EB048B1C6AF2D4DAE7035&file=/internettv/c1/2017/10/15/23738009116EB048B1C6AF2D4DAE7035.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171014期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=7683B75A3D9B0E0B3C85502B652DFE40&file=/internettv/c1/2017/10/14/7683B75A3D9B0E0B3C85502B652DFE40.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171013期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=F9B836D64C9504BBF61E90295F4B5903&file=/internettv/c1/2017/10/13/F9B836D64C9504BBF61E90295F4B5903.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171012期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=932AA79721C6B3A721EF9A578522612B&file=/internettv/c1/2017/10/12/932AA79721C6B3A721EF9A578522612B.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171011期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E13B801F81A7AD2F2DBE3A8D3C3477A0&file=/internettv/c1/2017/10/11/E13B801F81A7AD2F2DBE3A8D3C3477A0.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171010期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=C28872B3564F20139493D850ED88DD26&file=/internettv/c1/2017/10/10/C28872B3564F20139493D850ED88DD26.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171009期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=EA71D422BB263DC5BB8DDEC79F23ABBF&file=/internettv/c1/2017/10/09/EA71D422BB263DC5BB8DDEC79F23ABBF.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171008期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=241F3F9B953A1933CCD56369317FA137&file=/internettv/c1/2017/10/08/241F3F9B953A1933CCD56369317FA137.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171007期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=86B6A1AB13CA6CE711D919F699894454&file=/internettv/c1/2017/10/07/86B6A1AB13CA6CE711D919F699894454.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171006期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=FE0F1098E2CB18927BA91A59D0443F50&file=/internettv/c1/2017/10/06/FE0F1098E2CB18927BA91A59D0443F50.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171005期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=F035511EA63F6DF05870294C2DCF7886&file=/internettv/c1/2017/10/05/F035511EA63F6DF05870294C2DCF7886.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171004期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=203F2A98C9DB7D80422437661221B019&file=/internettv/c1/2017/10/04/203F2A98C9DB7D80422437661221B019.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171003期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=5378BC53086F2BFCC5D1DC81B5B776E9&file=/internettv/c1/2017/10/03/5378BC53086F2BFCC5D1DC81B5B776E9.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171002期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=58F3FBD61D5971F4F37AC60D00EED07E&file=/internettv/c1/2017/10/02/58F3FBD61D5971F4F37AC60D00EED07E.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171001期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=DD04512827BF8D5641079C8CE12017E5&file=/internettv/c1/2017/10/01/DD04512827BF8D5641079C8CE12017E5.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",极盗车神
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=1936E46551E121FCA9D7E86599FF586B&file=/internettv/c1/2017/10/23/1936E46551E121FCA9D7E86599FF586B.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",神偷奶爸3
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=19E651CD648161CF5698EEAB23522032&file=/internettv/c1/2017/10/07/19E651CD648161CF5698EEAB23522032.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",三生三世十里桃花
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=4460C3F6114AD4E4321C16D609F0846B&file=/internettv/c1/2017/09/01/4460C3F6114AD4E4321C16D609F0846B.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",建军大业
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0E81974AC5EB82EB96C5D99E69EFEB1F&file=/internettv/c1/2017/10/01/0E81974AC5EB82EB96C5D99E69EFEB1F.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",明月几时有
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=6A739470D33AB142B240EE723F9AAE69&file=/internettv/c1/2017/09/15/6A739470D33AB142B240EE723F9AAE69.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",破·局
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=42DCBF815D8A35165A248E7AE81567B4&file=/internettv/c1/2017/09/29/42DCBF815D8A35165A248E7AE81567B4.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",记忆大师
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=FB329558FB12FD9A72ECC93466798A9F&file=/internettv/c1/2017/07/24/FB329558FB12FD9A72ECC93466798A9F.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",速度与激情8
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=21110E2C0D7C2BFA5CEBD6A69E8C73BA&file=/internettv/c1/2017/08/08/21110E2C0D7C2BFA5CEBD6A69E8C73BA.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",加勒比海盗5-死无对证
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=38A47B078578BF4F03931EDF61D22E26&file=/internettv/c1/2017/09/06/38A47B078578BF4F03931EDF61D22E26.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",绝世高手
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=3357712FA1189A2CB949E8265C1CF8B4&file=/internettv/c1/2017/08/08/3357712FA1189A2CB949E8265C1CF8B4.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",超凡蜘蛛侠2
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=F7F30ACAC2D080CE4744BE09171548E5&file=/internettv/c1/2017/07/13/F7F30ACAC2D080CE4744BE09171548E5.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",疯狂动物城
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=DBC04661DF806EDFFB686040EEBA7EDC&file=/internettv/c1/2017/07/14/DBC04661DF806EDFFB686040EEBA7EDC.ts
 
