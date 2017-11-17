@@ -12,7 +12,7 @@ http://183.252.176.40//PLTV/88888888/224/3221225924/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-3a.png",group-title="超清央视卫视",CCTV3_1080P-4M
 http://183.252.176.40//PLTV/88888888/224/3221225801/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-4a.png",group-title="超清央视卫视",CCTV4_720P-2M
-http://api_p.tll888.com/v/iptv.php?id=cctv4hd
+http://61.166.153.32:1180/play/playback/90000001000000050000000000000199/live100001.m3u8
 #EXTINF:0 tvg-logo="CCTV-5a.png",group-title="超清央视卫视",CCTV5_1080P-8M
 http://183.252.176.40//PLTV/88888888/224/3221225925/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-5a.png",group-title="超清央视卫视",CCTV5_1080P-4M
@@ -160,31 +160,33 @@ http://183.252.176.40//PLTV/88888888/224/3221225886/index.m3u8
 #EXTINF:0 tvg-logo="NewTV-mxdp.png",group-title="超清央视卫视",NewTV明星大片
 http://183.252.176.40//PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:0 tvg-logo="hunanweishi.png",group-title="湖南IPTV",湖南卫视
-http://119.39.133.90:6610/001/2/ch00000090990000001079/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+http://111.12.130.67/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:0 tvg-logo="hunanjingshi.png",group-title="湖南IPTV",湖南经视
-http://119.39.133.90:6610/001/2/ch00000090990000001080/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+http://175.6.15.36:8080/nn_live.m3u8?id=HNJSMPP360
 #EXTINF:0 tvg-logo="hunanklcd.png",group-title="湖南IPTV",快乐垂钓
-http://119.39.133.90:6610/001/2/ch00000090990000001060/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+http://175.6.15.36:8080/nn_live.m3u8?id=KLCDMPP360
 #EXTINF:0 tvg-logo="hunandushi.png",group-title="湖南IPTV",湖南都市
-http://119.39.133.90:6610/001/2/ch00000090990000001049/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+http://175.6.15.36:8080/nn_live.m3u8?id=HNDSMPP360
 #EXTINF:0 tvg-logo="hunanyule.png",group-title="湖南IPTV",湖南娱乐
-http://119.39.133.90:6610/001/2/ch00000090990000001013/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+http://175.6.15.36:8080/nn_live.m3u8?id=HNYLMPP360
 #EXTINF:0 tvg-logo="dianshiju.png",group-title="湖南IPTV",湖南电视剧
-http://119.39.133.90:6610/001/2/ch00000090990000001050/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+http://175.6.15.36:8080/nn_live.m3u8?id=HNDSJMPP360
 #EXTINF:0 tvg-logo="hunangonggong.png",group-title="湖南IPTV",湖南公共
-http://119.39.133.90:6610/001/2/ch00000090990000001051/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+http://175.6.15.36:8080/nn_live.m3u8?id=HNGGMPP360
 #EXTINF:0 tvg-logo="xiaoxiangdianying.png",group-title="湖南IPTV",湖南电影
 http://119.39.133.90:6610/001/2/ch00000090990000001070/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
 #EXTINF:0 tvg-logo="hunanguoji.png",group-title="湖南IPTV",湖南国际
-http://119.39.133.90:6610/001/2/ch00000090990000001044/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+http://175.6.15.36:8080/nn_live.m3u8?id=HNGJMPP360
 #EXTINF:0 tvg-logo="hunanshishang.png",group-title="湖南IPTV",湖南时尚
 http://119.39.133.90:6610/001/2/ch00000090990000001085/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
 #EXTINF:0 tvg-logo="hunanklg.png",group-title="湖南IPTV",湖南快乐购
 http://119.39.133.90:6610/001/2/ch00000090990000001116/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
 #EXTINF:0 tvg-logo="jingyingjishi.png",group-title="湖南IPTV",金鹰纪实
-http://119.39.133.90:6610/001/2/ch00000090990000001057/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+http://175.6.15.36:8080/nn_live.m3u8?id=JYJSMPP360
+#EXTINF:0 tvg-logo="jingyingjishi.png",group-title="湖南IPTV",金鹰纪实HD
+http://183.58.12.83:30001/PLTV/88888905/224/3221227916/10000100000000060000000006078790_0.smil
 #EXTINF:0 tvg-logo="jingyingkatong.png",group-title="湖南IPTV",金鹰卡通
-http://119.39.133.90:6610/001/2/ch00000090990000001058/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
+http://175.6.15.36:8080/nn_live.m3u8?id=JYKTMPP360
 #EXTINF:0 tvg-logo="chapindao.png",group-title="湖南IPTV",茶频道
 http://175.6.15.36:8080/nn_live.m3u8?id=CPDMPP360
 #EXTINF:0 tvg-logo="xianfengpingyu.png",group-title="湖南IPTV",先锋乒羽
@@ -409,37 +411,33 @@ http://221.179.217.94/PLTV/88888888/224/3221225894/index.m3u8
 http://221.179.217.94/PLTV/88888888/224/3221225897/index.m3u8
 #EXTINF:0 tvg-logo="tianjingweishi.png",group-title="移动/联通源",天津卫视
 http://221.179.217.94/PLTV/88888888/224/3221225899/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-1a.png",group-title="移动/联通源",CCTV-1
-http://183.251.61.207/PLTV/88888888/224/3221225922/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-1a.png",group-title="移动/联通源",CCTV-1高清
+http://183.251.61.207/PLTV/88888888/224/3221225922/index.m3u8
+#EXTINF:0 tvg-logo="CCTV-1a.png",group-title="移动/联通源",CCTV-1
 http://221.179.217.94/PLTV/88888888/224/3221225851/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-2a.png",group-title="移动/联通源",CCTV-2
+#EXTINF:0 tvg-logo="CCTV-2a.png",group-title="移动/联通源",CCTV-2高清
 http://183.251.61.207/PLTV/88888888/224/3221225923/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-3a.png",group-title="移动/联通源",CCTV-3高清
 http://221.179.217.94/PLTV/88888888/224/3221225935/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-3a.png",group-title="移动/联通源",CCTV-3
+#EXTINF:0 tvg-logo="CCTV-3a.png",group-title="移动/联通源",CCTV-3高清
 http://183.251.61.207/PLTV/88888888/224/3221225924/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="移动/联通源",CCTV-5
+#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="移动/联通源",CCTV-5高清
 http://183.251.61.207/PLTV/88888888/224/3221225925/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-5b.png",group-title="移动/联通源",CCTV-5+
+#EXTINF:0 tvg-logo="CCTV-5b.png",group-title="移动/联通源",CCTV-5+高清
 http://183.251.61.207/PLTV/88888888/224/3221225939/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-6a.png",group-title="移动/联通源",CCTV-6
-http://183.251.61.207/PLTV/88888888/224/3221225926/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-6a.png",group-title="移动/联通源",CCTV-6高清
-http://221.179.217.94/PLTV/88888888/224/3221225939/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-7a.png",group-title="移动/联通源",CCTV-7
+http://183.251.61.207/PLTV/88888888/224/3221225926/index.m3u8
+#EXTINF:0 tvg-logo="CCTV-7a.png",group-title="移动/联通源",CCTV-7高清
 http://183.251.61.207/PLTV/88888888/224/3221225927/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-8a.png",group-title="移动/联通源",CCTV-8
-http://183.251.61.207/PLTV/88888888/224/3221225928/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-8a.png",group-title="移动/联通源",CCTV-8高清
-http://221.179.217.94/PLTV/88888888/224/3221225864/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-9a.png",group-title="移动/联通源",CCTV-9
+http://183.251.61.207/PLTV/88888888/224/3221225928/index.m3u8
+#EXTINF:0 tvg-logo="CCTV-9a.png",group-title="移动/联通源",CCTV-9高清
 http://183.251.61.207/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-10a.png",group-title="移动/联通源",CCTV-10
+#EXTINF:0 tvg-logo="CCTV-10a.png",group-title="移动/联通源",CCTV-10高清
 http://183.251.61.207/PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-12a.png",group-title="移动/联通源",CCTV-12
+#EXTINF:0 tvg-logo="CCTV-12a.png",group-title="移动/联通源",CCTV-12高清
 http://183.251.61.207/PLTV/88888888/224/3221225932/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-14a.png",group-title="移动/联通源",CCTV-14
+#EXTINF:0 tvg-logo="CCTV-14a.png",group-title="移动/联通源",CCTV-14高清
 http://183.251.61.207/PLTV/88888888/224/3221225933/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-dyjc.png",group-title="移动/联通源",CCTV第一剧场
 http://221.179.217.94/PLTV/88888888/224/3221226076/index.m3u8
