@@ -163,6 +163,132 @@ http://183.252.176.40//PLTV/88888888/224/3221225888/index.m3u8
 http://183.252.176.40//PLTV/88888888/224/3221225886/index.m3u8
 #EXTINF:0 tvg-logo="NewTV-mxdp.png",group-title="超清央视卫视",NewTV明星大片
 http://183.252.176.40//PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:0 tvg-logo="CCTV-1a.png",group-title="广东联通IPTV",CCTV-1 FHD
+http://112.89.38.22/PLTV/88888894/224/3221225489/1.m3u8
+#EXTINF:0 tvg-logo="CCTV-1a.png",group-title="广东联通IPTV",CCTV-1 HD
+http://112.89.38.22/PLTV/88888894/224/3221225489/2.m3u8
+#EXTINF:0 tvg-logo="CCTV-2a.png",group-title="广东联通IPTV",CCTV-2 FHD
+http://112.89.38.21/PLTV/88888894/224/3221225490/1.m3u8
+#EXTINF:0 tvg-logo="CCTV-2a.png",group-title="广东联通IPTV",CCTV-2 HD
+http://112.89.38.21/PLTV/88888894/224/3221225490/2.m3u8
+#EXTINF:0 tvg-logo="CCTV-3a.png",group-title="广东联通IPTV",CCTV-3 FHD
+http://112.89.38.28/PLTV/88888894/224/3221225484/1.m3u8
+#EXTINF:0 tvg-logo="CCTV-3a.png",group-title="广东联通IPTV",CCTV-3 HD
+http://112.89.38.28/PLTV/88888894/224/3221225484/2.m3u8
+#EXTINF:0 tvg-logo="CCTV-4a.png",group-title="广东联通IPTV",CCTV-4 FHD
+http://112.89.38.26/PLTV/88888894/224/3221225485/1.m3u8
+#EXTINF:0 tvg-logo="CCTV-4a.png",group-title="广东联通IPTV",CCTV-4 HD
+http://112.89.38.26/PLTV/88888894/224/3221225485/2.m3u8
+#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="广东联通IPTV",CCTV-5 FHD
+http://112.89.38.21/PLTV/88888894/224/3221225502/1.m3u8
+#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="广东联通IPTV",CCTV-5 HD
+http://112.89.38.21/PLTV/88888894/224/3221225502/2.m3u8
+#EXTINF:0 tvg-logo="CCTV-5b.png",group-title="广东联通IPTV",CCTV-5+ FHD
+http://112.89.38.24/PLTV/88888894/224/3221225503/1.m3u8
+#EXTINF:0 tvg-logo="CCTV-5b.png",group-title="广东联通IPTV",CCTV-5+ HD
+http://112.89.38.24/PLTV/88888894/224/3221225503/2.m3u8
+#EXTINF:0 tvg-logo="CCTV-6a.png",group-title="广东联通IPTV",CCTV-6 FHD
+http://112.89.38.29/PLTV/88888894/224/3221225491/1.m3u8
+#EXTINF:0 tvg-logo="CCTV-6a.png",group-title="广东联通IPTV",CCTV-6 HD
+http://112.89.38.29/PLTV/88888894/224/3221225491/2.m3u8
+#EXTINF:0 tvg-logo="CCTV-7a.png",group-title="广东联通IPTV",CCTV-7 FHD
+http://112.89.38.24/PLTV/88888894/224/3221225492/1.m3u8
+#EXTINF:0 tvg-logo="CCTV-7a.png",group-title="广东联通IPTV",CCTV-7 HD
+http://112.89.38.24/PLTV/88888894/224/3221225492/2.m3u8
+#EXTINF:0 tvg-logo="CCTV-8a.png",group-title="广东联通IPTV",CCTV-8 FHD
+http://112.89.38.26/PLTV/88888894/224/3221225493/1.m3u8
+#EXTINF:0 tvg-logo="CCTV-8a.png",group-title="广东联通IPTV",CCTV-8 HD
+http://112.89.38.26/PLTV/88888894/224/3221225493/2.m3u8
+#EXTINF:0 tvg-logo="CCTV-9a.png",group-title="广东联通IPTV",CCTV-9 FHD
+http://112.89.38.22/PLTV/88888894/224/3221225494/1.m3u8
+#EXTINF:0 tvg-logo="CCTV-9a.png",group-title="广东联通IPTV",CCTV-9 HD
+http://112.89.38.22/PLTV/88888894/224/3221225494/2.m3u8
+#EXTINF:0 tvg-logo="CCTV-10a.png",group-title="广东联通IPTV",CCTV-10 FHD
+http://112.89.38.23/PLTV/88888894/224/3221225495/1.m3u8
+#EXTINF:0 tvg-logo="CCTV-10a.png",group-title="广东联通IPTV",CCTV-10 HD
+http://112.89.38.23/PLTV/88888894/224/3221225495/2.m3u8
+#EXTINF:0 tvg-logo="CCTV-11a.png",group-title="广东联通IPTV",CCTV-11
+http://112.89.38.21/PLTV/88888894/224/3221225496/1.m3u8
+#EXTINF:0 tvg-logo="CCTV-12a.png",group-title="广东联通IPTV",CCTV-12 FHD
+http://112.89.38.21/PLTV/88888894/224/3221225497/1.m3u8
+#EXTINF:0 tvg-logo="CCTV-12a.png",group-title="广东联通IPTV",CCTV-12 HD
+http://112.89.38.21/PLTV/88888894/224/3221225497/2.m3u8
+#EXTINF:0 tvg-logo="CCTV-13a.png",group-title="广东联通IPTV",CCTV-13
+http://112.89.38.21/PLTV/88888894/224/3221225498/1.m3u8
+#EXTINF:0 tvg-logo="CCTV-14a.png",group-title="广东联通IPTV",CCTV-14 FHD
+http://112.89.38.21/PLTV/88888894/224/3221225499/1.m3u8
+#EXTINF:0 tvg-logo="CCTV-14a.png",group-title="广东联通IPTV",CCTV-14 HD
+http://112.89.38.21/PLTV/88888894/224/3221225499/2.m3u8
+#EXTINF:0 tvg-logo="zhejiangweishi.png",group-title="广东联通IPTV",浙江卫视FHD
+http://112.89.38.25/PLTV/88888894/224/3221225487/1.m3u8
+#EXTINF:0 tvg-logo="zhejiangweishi.png",group-title="广东联通IPTV",浙江卫视HD
+http://112.89.38.25/PLTV/88888894/224/3221225487/2.m3u8
+#EXTINF:0 tvg-logo="jiangsuweishi.png",group-title="广东联通IPTV",江苏卫视FHD
+http://112.89.38.22/PLTV/88888894/224/3221225488/1.m3u8
+#EXTINF:0 tvg-logo="jiangsuweishi.png",group-title="广东联通IPTV",江苏卫视HD
+http://112.89.38.22/PLTV/88888894/224/3221225488/2.m3u8
+#EXTINF:0 tvg-logo="dongfangweishi.png",group-title="广东联通IPTV",东方卫视FHD
+http://112.89.38.25/PLTV/88888894/224/3221225508/1.m3u8
+#EXTINF:0 tvg-logo="dongfangweishi.png",group-title="广东联通IPTV",东方卫视HD
+http://112.89.38.25/PLTV/88888894/224/3221225508/2.m3u8
+#EXTINF:0 tvg-logo="hunanweishi.png",group-title="广东联通IPTV",湖南卫视FHD
+http://112.89.38.21/PLTV/88888894/224/3221225486/1.m3u8
+#EXTINF:0 tvg-logo="hunanweishi.png",group-title="广东联通IPTV",湖南卫视HD
+http://112.89.38.21/PLTV/88888894/224/3221225486/2.m3u8
+#EXTINF:0 tvg-logo="shenzhenweishi.png",group-title="广东联通IPTV",深圳卫视FHD
+http://112.89.38.21/PLTV/88888894/224/3221225521/1.m3u8
+#EXTINF:0 tvg-logo="shenzhenweishi.png",group-title="广东联通IPTV",深圳卫视HD
+http://112.89.38.21/PLTV/88888894/224/3221225521/2.m3u8
+#EXTINF:0 tvg-logo="beijingweishi.png",group-title="广东联通IPTV",北京卫视FHD
+http://112.89.38.22/PLTV/88888894/224/3221225531/1.m3u8
+#EXTINF:0 tvg-logo="beijingweishi.png",group-title="广东联通IPTV",北京卫视HD
+http://112.89.38.22/PLTV/88888894/224/3221225531/2.m3u8
+#EXTINF:0 tvg-logo="liaoningweishi.png",group-title="广东联通IPTV",辽宁卫视FHD
+http://112.89.38.25/PLTV/88888894/224/3221225529/1.m3u8
+#EXTINF:0 tvg-logo="liaoningweishi.png",group-title="广东联通IPTV",辽宁卫视HD
+http://112.89.38.25/PLTV/88888894/224/3221225529/2.m3u8
+#EXTINF:0 tvg-logo="heilongjiangweishi.png",group-title="广东联通IPTV",黑龙江卫视FHD
+http://112.89.38.26/PLTV/88888894/224/3221225525/1.m3u8
+#EXTINF:0 tvg-logo="heilongjiangweishi.png",group-title="广东联通IPTV",黑龙江卫视HD
+http://112.89.38.26/PLTV/88888894/224/3221225525/2.m3u8
+#EXTINF:0 tvg-logo="shandongweishi.png",group-title="广东联通IPTV",山东卫视FHD
+http://112.89.38.23/PLTV/88888894/224/3221225528/1.m3u8
+#EXTINF:0 tvg-logo="shandongweishi.png",group-title="广东联通IPTV",山东卫视HD
+http://112.89.38.23/PLTV/88888894/224/3221225528/2.m3u8
+#EXTINF:0 tvg-logo="guangdongweishi.png",group-title="广东联通IPTV",广东卫视FHD
+http://112.89.38.24/PLTV/88888894/224/3221225519/1.m3u8
+#EXTINF:0 tvg-logo="guangdongweishi.png",group-title="广东联通IPTV",广东卫视HD
+http://112.89.38.24/PLTV/88888894/224/3221225519/2.m3u8
+#EXTINF:0 tvg-logo="tianjinweishi.png",group-title="广东联通IPTV",天津卫视FHD
+http://112.89.38.23/PLTV/88888894/224/3221225530/1.m3u8
+#EXTINF:0 tvg-logo="tianjinweishi.png",group-title="广东联通IPTV",天津卫视HD
+http://112.89.38.23/PLTV/88888894/224/3221225530/2.m3u8
+#EXTINF:0 tvg-logo="anhuiweishi.png",group-title="广东联通IPTV",安徽卫视FHD
+http://112.89.38.27/PLTV/88888894/224/3221225504/1.m3u8
+#EXTINF:0 tvg-logo="anhuiweishi.png",group-title="广东联通IPTV",安徽卫视HD
+http://112.89.38.27/PLTV/88888894/224/3221225504/2.m3u8
+#EXTINF:0 tvg-logo="hubeiweishi.png",group-title="广东联通IPTV",湖北卫视FHD
+http://112.89.38.21/PLTV/88888894/224/3221225509/1.m3u8
+#EXTINF:0 tvg-logo="hubeiweishi.png",group-title="广东联通IPTV",湖北卫视HD
+http://112.89.38.21/PLTV/88888894/224/3221225509/2.m3u8
+#EXTINF:0 tvg-logo="sichuanweishi.png",group-title="广东联通IPTV",四川卫视FHD
+http://112.89.38.21/PLTV/88888894/224/3221225825/1.m3u8
+#EXTINF:0 tvg-logo="sichuanweishi.png",group-title="广东联通IPTV",四川卫视HD
+http://112.89.38.21/PLTV/88888894/224/3221225825/2.m3u8
+#EXTINF:0 tvg-logo="chongqingweishi.png",group-title="广东联通IPTV",重庆卫视FHD
+http://112.89.38.22/PLTV/88888894/224/3221225507/1.m3u8
+#EXTINF:0 tvg-logo="chongqingweishi.png",group-title="广东联通IPTV",重庆卫视HD
+http://112.89.38.22/PLTV/88888894/224/3221225507/2.m3u8
+#EXTINF:0 tvg-logo="guizhouweishi.png",group-title="广东联通IPTV",贵州卫视FHD
+http://112.89.38.21/PLTV/88888894/224/3221225830/1.m3u8
+#EXTINF:0 tvg-logo="guizhouweishi.png",group-title="广东联通IPTV",贵州卫视HD
+http://112.89.38.21/PLTV/88888894/224/3221225830/2.m3u8
+#EXTINF:0 tvg-logo="jiangxiweishi.png",group-title="广东联通IPTV",江西卫视
+http://112.89.38.28/PLTV/88888894/224/3221225852/1.m3u8
+#EXTINF:0 tvg-logo="jingyingkatong.png",group-title="广东联通IPTV",金鹰卡通
+http://112.89.38.25/PLTV/88888894/224/3221225505/1.m3u8
+#EXTINF:0 tvg-logo="beijingkaku.png",group-title="广东联通IPTV",卡酷少儿
+http://112.89.38.25/PLTV/88888894/224/3221225506/1.m3u8
 #EXTINF:0 tvg-logo="hunanweishi.png",group-title="湖南IPTV",湖南卫视
 http://111.12.130.67/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:0 tvg-logo="hunanjingshi.png",group-title="湖南IPTV",湖南经视
@@ -985,6 +1111,40 @@ http://cdn-src2.waaarp.wscdns.com/live-transcode/_definst_/smil:daai/tv01.smil/c
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:0 tvg-logo="fashiontv.png",group-title="港台境外",法国时装
 http://origina.streaming.sk/liveedge/tvfashion/chunklist_w1323605783.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",香港电影
+http://rotation.vod.zlive.cc/channel/1086.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",广场舞
+http://rotation.vod.zlive.cc/channel/1107.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",经典电影
+http://rotation.vod.zlive.cc/channel/1200.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",最新电影
+http://rotation.vod.zlive.cc/channel/1201.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",电影
+http://rotation.vod.zlive.cc/channel/1202.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",抗战剧场
+http://rotation.vod.zlive.cc/channel/1215.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",电影
+http://rotation.vod.zlive.cc/channel/1218.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",演唱会
+http://rotation.vod.zlive.cc/channel/1226.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",韩剧
+http://rotation.vod.zlive.cc/channel/1240.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",电视剧
+http://rotation.vod.zlive.cc/channel/1256.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",电影
+http://rotation.vod.zlive.cc/channel/1258.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",成龙电影
+http://rotation.vod.zlive.cc/channel/1259.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",周星驰电影
+http://rotation.vod.zlive.cc/channel/1260.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",电视剧
+http://rotation.vod.zlive.cc/channel/1647.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",寻情记
+http://rotation.vod.zlive.cc/channel/1652.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",电视剧
+http://rotation.vod.zlive.cc/channel/1653.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",MV
+http://rotation.vod.zlive.cc/channel/1654.m3u8
 #EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",极盗车神
 http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=1936E46551E121FCA9D7E86599FF586B&file=/internettv/c1/2017/10/23/1936E46551E121FCA9D7E86599FF586B.ts
 #EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",神偷奶爸3
