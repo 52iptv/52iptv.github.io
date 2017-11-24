@@ -1535,6 +1535,8 @@ http://rotation.vod.zlive.cc/channel/1652.m3u8
 http://rotation.vod.zlive.cc/channel/1653.m3u8
 #EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",MV
 http://rotation.vod.zlive.cc/channel/1654.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",星际特工：千星之城
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=81FBCAA57F3839DE70618C7E89F925EE&file=/internettv/c1/2017/11/23/81FBCAA57F3839DE70618C7E89F925EE.ts
 #EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",空天猎
 http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=AB97CCEF846DD4FFD7C2687C0E6C0651&file=/internettv/c1/2017/11/21/AB97CCEF846DD4FFD7C2687C0E6C0651.ts
 #EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",悟空传
