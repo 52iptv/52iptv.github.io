@@ -1535,6 +1535,26 @@ http://rotation.vod.zlive.cc/channel/1652.m3u8
 http://rotation.vod.zlive.cc/channel/1653.m3u8
 #EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",MV
 http://rotation.vod.zlive.cc/channel/1654.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",空天猎
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=AB97CCEF846DD4FFD7C2687C0E6C0651&file=/internettv/c1/2017/11/21/AB97CCEF846DD4FFD7C2687C0E6C0651.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",悟空传
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E950092A6953D88D9744486136F93472&file=/internettv/c1/2017/08/19/E950092A6953D88D9744486136F93472.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",原谅他77次
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=8A4E8E9E0D780F1B24C5892E502410DD&file=/internettv/c1/2017/08/16/8A4E8E9E0D780F1B24C5892E502410DD.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",因为爱情
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=D529CD46CB74ABAE93C9E9E67F730147&file=/internettv/c1/2017/11/13/D529CD46CB74ABAE93C9E9E67F730147.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",绝世高手
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=3357712FA1189A2CB949E8265C1CF8B4&file=/internettv/c1/2017/08/08/3357712FA1189A2CB949E8265C1CF8B4.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",蜘蛛侠：英雄归来
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E73E99B2D553FB91FF5982C6A6DEE9CE&file=/internettv/c1/2017/11/06/E73E99B2D553FB91FF5982C6A6DEE9CE.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",独角戏
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0817EACC121D1159913146615F5D7815&file=/internettv/c1/2017/11/24/0817EACC121D1159913146615F5D7815.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",八星抱喜
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=86C87E82899BAE42321F61349010D348&file=/internettv/c1/2017/09/20/86C87E82899BAE42321F61349010D348.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",何以笙箫默
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=4F4EB8195886F92D62CA94350045D183&file=/internettv/c1/2017/03/31/4F4EB8195886F92D62CA94350045D183.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",钢铁侠3
+http://disp.titan.mgtv.com/vod.do?fmt=4&pno=2010&fid=0F6EF0D95665569EC55561930AC4371C&file=/c1/2017/05/27_0/0F6EF0D95665569EC55561930AC4371C_20170527_1_1_739.mp4
 #EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",极盗车神
 http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=1936E46551E121FCA9D7E86599FF586B&file=/internettv/c1/2017/10/23/1936E46551E121FCA9D7E86599FF586B.ts
 #EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",神偷奶爸3
@@ -1559,56 +1579,470 @@ http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=3357712FA1189A2CB949E8265C1CF8B
 http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=F7F30ACAC2D080CE4744BE09171548E5&file=/internettv/c1/2017/07/13/F7F30ACAC2D080CE4744BE09171548E5.ts
 #EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",疯狂动物城
 http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=DBC04661DF806EDFFB686040EEBA7EDC&file=/internettv/c1/2017/07/14/DBC04661DF806EDFFB686040EEBA7EDC.ts
-#EXTINF:0 tvg-logo="dianbo.png",group-title="综艺点播",让世界听见20171029
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=550A4EEC9940AAD7C1C156D21D39E936&file=/internettv/c1/2017/10/29/550A4EEC9940AAD7C1C156D21D39E936.ts
-#EXTINF:0 tvg-logo="dianbo.png",group-title="综艺点播",亲爱的客栈20171028
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0134355C73B0952EA75CDE5B7821E6D6&file=/internettv/c1/2017/10/29/0134355C73B0952EA75CDE5B7821E6D6.ts
-#EXTINF:0 tvg-logo="dianbo.png",group-title="综艺点播",快乐大本营20171028
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20171118期：胡歌再现“郑秋冬式口才” 胡兵挑战RAP老歌
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=D66B18960CEFF29824C344B19638E731&file=/internettv/c1/2017/11/18/D66B18960CEFF29824C344B19638E731.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20171111期：吴尊杜江上演“父子秀” TF家族首秀元气满满正能量爆表
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=881A957C5265484DF3582F01C6F87DE4&file=/internettv/c1/2017/11/11/881A957C5265484DF3582F01C6F87DE4.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20171104期：王珂现身送“惊喜”刘涛飙泪 王祖蓝李亚男秀恩爱甜到齁
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=1CEA337196E6758DC9DFA1D75820438D&file=/internettv/c1/2017/11/04/1CEA337196E6758DC9DFA1D75820438D.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20171028期：马思纯朋友圈密友大公开 潘玮柏吴昕合体发糖超甜蜜
 http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=B3346A1485E764E382A665204E257C06&file=/internettv/c1/2017/10/28/B3346A1485E764E382A665204E257C06.ts
-#EXTINF:0 tvg-logo="dianbo.png",group-title="综艺点播",天天向上20171027
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20171021期：“白云夫妇”合体默契迸发 张碧晨周笔畅互飙歌技
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=9DBA7BCD7DC23E973ECA3A19722E65C5&file=/internettv/c1/2017/10/21/9DBA7BCD7DC23E973ECA3A19722E65C5.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20171014期：张若昀熊梓淇大秀独门画技 侯明昊施展奇招隔空点灯泡
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E7C337B5E484F9B214D576D84DF5CCD6&file=/internettv/c1/2017/10/14/E7C337B5E484F9B214D576D84DF5CCD6.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20171007期：外国学霸组团来挑战 赵薇徐峥同台烧脑对决
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=FE7E0F1E5086464CCE0585D6373AE47C&file=/internettv/c1/2017/10/07/FE7E0F1E5086464CCE0585D6373AE47C.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170930期：范冰冰李晨国庆热血合体 魏大勋全方位被怼求放过
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=12E93E9656A0560C86E31BE0BAEB11D8&file=/internettv/c1/2017/09/30/12E93E9656A0560C86E31BE0BAEB11D8.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170923期：陈赫包贝尔大鹏上演颜值之争 乔杉吉他弹唱同框娜扎？
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=6EDADF80883D3429080723FB7D4E8F16&file=/internettv/c1/2017/09/23/6EDADF80883D3429080723FB7D4E8F16.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170916期：黄轩童子功强势pk苗苗舞蹈功底 熊梓淇精分新技能爆笑首秀
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0D92293DE6F7A96995A68A6360B2EEF4&file=/internettv/c1/2017/09/16/0D92293DE6F7A96995A68A6360B2EEF4.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170909期：“何尔萌”合体默契值突破天际 吴磊李现上演“继承人”争夺战
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=EC5EB93E5B5FE21F56CA8BC22B2CDB8F&file=/internettv/c1/2017/09/09/EC5EB93E5B5FE21F56CA8BC22B2CDB8F.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170902期：吴亦凡现场diss杜海涛 “嘻哈七侠”演绎花式滑坡秀
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=F7DBE8EB77BF76C0CE8E6CD2D902BDE9&file=/internettv/c1/2017/09/02/F7DBE8EB77BF76C0CE8E6CD2D902BDE9.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170826期：赵薇黄晓明领衔“餐厅保卫战” 陈乔恩佟大为鬼马讲故事
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=6F0887A95A3771A273905A952FC1BA27&file=/internettv/c1/2017/08/26/6F0887A95A3771A273905A952FC1BA27.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170819期：李健罗志祥带队PK继续“团战” 陈粒吴昕上演东北式互怼
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=1691C4BEF9391C71A5329C80EDA7B2DC&file=/internettv/c1/2017/08/19/1691C4BEF9391C71A5329C80EDA7B2DC.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170812期：宋茜唐禹哲火辣热舞 TFBOYS变摇滚乐队
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=05F77937FFBA4F18CFE6A39B9638FF39&file=/internettv/c1/2017/08/12/05F77937FFBA4F18CFE6A39B9638FF39.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170805期：李宇春“回娘家”送祝福 唐国强跨界合作MC天佑
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=D3FAF64A0337E767283FA6094F11E75A&file=/internettv/c1/2017/08/05/D3FAF64A0337E767283FA6094F11E75A.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170729期：TFBOYS献唱快本最新主题曲 七月与安生同台飙演技
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=844CDF62484B28DC57EB004CBEDF7E39&file=/internettv/c1/2017/09/30/844CDF62484B28DC57EB004CBEDF7E39.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170722期：范爷胡歌送祝福惹哭何老师 包贝尔神cos毁三观
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=46ED7F9E878D4330747C8746175F8153&file=/internettv/c1/2017/07/22/46ED7F9E878D4330747C8746175F8153.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170715期：Angelababy嗨玩双截棍 张艺兴蜜汁喊麦
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=4B577BE05F0459E196C5145F7CF3F13E&file=/internettv/c1/2017/07/15/4B577BE05F0459E196C5145F7CF3F13E.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170708期：陈伟霆摸头杀尬舞女皇 赵丽颖圆梦观众正能量爆棚
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=B96382EDF7E1E8E71CFBA1EAFF081FFA&file=/internettv/c1/2017/07/08/B96382EDF7E1E8E71CFBA1EAFF081FFA.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170701期：致敬香港回归20周年！刘恺威魏大勋COS偶像演绎金曲串烧
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=413E0F4D0066AA406501216DACB6921E&file=/internettv/c1/2017/07/01/413E0F4D0066AA406501216DACB6921E.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170624期：徐璐情史遭阮经天曝光 宋茜变身“最美主妇”现场尬舞
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=8EC872A789A2664B0200264D692803B9&file=/internettv/c1/2017/06/24/8EC872A789A2664B0200264D692803B9.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170617期：唐艺昕韩东君情歌对唱 胡彦斌泪谈前任
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=2FF1AB82DFC509650DC786940EFFFC69&file=/internettv/c1/2017/06/17/2FF1AB82DFC509650DC786940EFFFC69.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170610期：王源秒变“百万富翁”进军金融界 邓伦魏晨秀舞技荷尔蒙爆棚
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=1DF410C4FFE5ACA1FCA0335469008241&file=/internettv/c1/2017/06/10/1DF410C4FFE5ACA1FCA0335469008241.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170603期：王源化身小天鹅演绎最In穿搭 张碧晨受压激发“神算子”潜能
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=84807E8467203D426734614AF2B2528E&file=/internettv/c1/2017/06/03/84807E8467203D426734614AF2B2528E.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170527期：杨紫秦俊杰合体撒狗粮 任嘉伦变“小伦女”表白遭秒拒
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=7E4FC58E66D02FAF1C45C1FC6A855630&file=/internettv/c1/2017/05/27/7E4FC58E66D02FAF1C45C1FC6A855630.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170520期：马思纯“搞事”鹿晗无辜被怼 娜扎狂甩“女神”包袱霸气侧漏
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0C9F8F9F96C8C4707D4E2A0D88CDE6A9&file=/internettv/c1/2017/05/20/0C9F8F9F96C8C4707D4E2A0D88CDE6A9.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170513期：韩庚放飞自我惊现最贴切自画像 姜潮徐海乔当选最心水时尚KING
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=6385548322C02DF1EB96DD597D8DDCC2&file=/internettv/c1/2017/06/26/6385548322C02DF1EB96DD597D8DDCC2.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170506期：易烊千玺首唱《离骚》狂飙海豚音 与马可现场尬舞萌比剪刀手
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=75CE5B8469CDC817AA9B810C5BFD8180&file=/internettv/c1/2017/05/12/75CE5B8469CDC817AA9B810C5BFD8180.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170429期：娜扎江疏影变“互怼姐妹花” 井柏然与花少团互揭老底爆猛料
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=6E20390987686289F548F2961F4C47C8&file=/internettv/c1/2017/06/26/6E20390987686289F548F2961F4C47C8.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170422期：余文乐杨千嬅同框互嫌 志明春娇桥段重现戳泪点
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=D2EDDE2516206B83CEC39C1F7FF7EF10&file=/internettv/c1/2017/06/26/D2EDDE2516206B83CEC39C1F7FF7EF10.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170415期：孙怡版“司音”遭邓伦实力拆台 代超吴优“虐恋CP”首秀献声
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=F572E2DBD91F7EBC793EFE7FBE99A85B&file=/internettv/c1/2017/06/26/F572E2DBD91F7EBC793EFE7FBE99A85B.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170408期：“东凤CP”发糖遭张云龙强拆 迪丽热巴大展吃货属性
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=084D430393BDEC85947126EBF9309554&file=/internettv/c1/2017/06/26/084D430393BDEC85947126EBF9309554.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170401期：陈晓现场告白“小星星” 谢娜十周年情书示爱张杰
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=65CFD8EC783B06FB5EA171E1BAF71A05&file=/internettv/c1/2017/06/26/65CFD8EC783B06FB5EA171E1BAF71A05.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170325期：宋茜公开“示爱”杜海涛？ 苏有朋重演小虎队经典
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=600E82C25C683FFDE6EAFA4CD3A679B8&file=/internettv/c1/2017/06/26/600E82C25C683FFDE6EAFA4CD3A679B8.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170318期：迪玛希连升4个key！霍建华智斗张艺兴大玩“湿身”诱惑
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E704D69DA8254A0D296782E9B0F605F0&file=/internettv/c1/2017/06/26/E704D69DA8254A0D296782E9B0F605F0.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170311期：易烊千玺大秀逆天腹肌 任嘉伦综艺首秀花式撩妹
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=8DAB926F9CE35CB8E889A11EF98ABD6B&file=/internettv/c1/2017/06/26/8DAB926F9CE35CB8E889A11EF98ABD6B.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170304期：“阿离”惊喜现身萌翻全场 蘑菇屋“H4”再唱神曲《心火烧》
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0DAE6EF8EA796F36AD899FB791DACF48&file=/internettv/c1/2017/06/26/0DAE6EF8EA796F36AD899FB791DACF48.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170225期：羽泉凤凰传奇经典歌曲实力PK 潘玮柏小宇宙大爆发全面失控
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=9AF2AF0F35649EA6C3DA96989EC295A7&file=/internettv/c1/2017/06/26/9AF2AF0F35649EA6C3DA96989EC295A7.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170218期：迪丽热巴杜海涛性感热舞惊艳Max X玖少年团综艺首秀魅力齐出动
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=C2A8B7F0262B523D60F5CA864CF72ED8&file=/internettv/c1/2017/06/26/C2A8B7F0262B523D60F5CA864CF72ED8.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170204期：钟汉良贾乃亮王者争霸花式斗舞 马丽秒变女汉子公主抱何炅
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=A2611084E99410C4288A1CE1B9331DE3&file=/internettv/c1/2017/06/26/A2611084E99410C4288A1CE1B9331DE3.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170128期：唐嫣领衔四大美人鸡年拜大年 张翰谢霆锋率文臣武将齐助阵
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=FB8326CF0D885DCD1A2118F4EA13805C&file=/internettv/c1/2017/06/26/FB8326CF0D885DCD1A2118F4EA13805C.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170121期：包贝尔逗比现身获恩宠 吴亦凡秒变“女儿奴”
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=A2808F8FEED7BCC45531FCA777680169&file=/internettv/c1/2017/06/26/A2808F8FEED7BCC45531FCA777680169.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170114期：邓超彭于晏上演“新年才艺秀” 携手谢娜纸片秀狂送表情包
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=5F0F0A7FE1B457ECDA1DFD6271DBB698&file=/internettv/c1/2017/06/26/5F0F0A7FE1B457ECDA1DFD6271DBB698.ts
+#EXTINF:0 tvg-logo="kuialedabenying.png",group-title="快乐大本营",20170107期：王宝强小岳岳演技感人遭吐槽 王祖蓝谢娜神还原张杰《逆战》
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=7357C5D7E45AB39A00ABD17BA6D82192&file=/internettv/c1/2017/06/26/7357C5D7E45AB39A00ABD17BA6D82192.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20171117期：纪凌尘阚清子深情拥吻甜蜜发酵 “单身狗”陈翔自曝择偶标准
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=B7852823B3AD442F192938D8666C1A1D&file=/internettv/c1/2017/11/17/B7852823B3AD442F192938D8666C1A1D.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20171110期：毛不易亮相惊艳原创惹众人痴迷 天才舞童尬舞挑战王一博
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=C20479F6D0F93F2A6CCC8204BCC5EBDA&file=/internettv/c1/2017/11/10/C20479F6D0F93F2A6CCC8204BCC5EBDA.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20171103期：韩雪变美厨娘展“摊饼”绝技 潘粤明实力尬舞自带反差萌
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=4D27662E4DFBD289E6FC04A502FA5770&file=/internettv/c1/2017/11/03/4D27662E4DFBD289E6FC04A502FA5770.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20171027期：最帅快男团化身美食学长登场 魏巡养鸡组队品创意菜
 http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=542DD73CACD6AF43D5790F805D016E5A&file=/internettv/c1/2017/10/27/542DD73CACD6AF43D5790F805D016E5A.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171022期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=C81D9354731E25896DA7D0984B9AEE42&file=/internettv/c1/2017/10/22/C81D9354731E25896DA7D0984B9AEE42.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171021期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=BC5C7148C0E61FE940025E7E694C756C&file=/internettv/c1/2017/10/21/BC5C7148C0E61FE940025E7E694C756C.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171020期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=61DA3CB856AEA37C077C2319401E4851&file=/internettv/c1/2017/10/20/61DA3CB856AEA37C077C2319401E4851.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171019期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=553405A8FDFCD596F4B66FEFA2C5034E&file=/internettv/c1/2017/10/19/553405A8FDFCD596F4B66FEFA2C5034E.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171018期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=76E348F54813EBC4FD9282EE7C9DD452&file=/internettv/c1/2017/10/18/76E348F54813EBC4FD9282EE7C9DD452.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171017期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=61AFD3529FC0C108A24E48BACDB1C274&file=/internettv/c1/2017/10/17/61AFD3529FC0C108A24E48BACDB1C274.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171016期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0F119ACED15F5E6B944FB3E133199E45&file=/internettv/c1/2017/10/16/0F119ACED15F5E6B944FB3E133199E45.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171015期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=23738009116EB048B1C6AF2D4DAE7035&file=/internettv/c1/2017/10/15/23738009116EB048B1C6AF2D4DAE7035.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171014期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=7683B75A3D9B0E0B3C85502B652DFE40&file=/internettv/c1/2017/10/14/7683B75A3D9B0E0B3C85502B652DFE40.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171013期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=F9B836D64C9504BBF61E90295F4B5903&file=/internettv/c1/2017/10/13/F9B836D64C9504BBF61E90295F4B5903.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171012期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=932AA79721C6B3A721EF9A578522612B&file=/internettv/c1/2017/10/12/932AA79721C6B3A721EF9A578522612B.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171011期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E13B801F81A7AD2F2DBE3A8D3C3477A0&file=/internettv/c1/2017/10/11/E13B801F81A7AD2F2DBE3A8D3C3477A0.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171010期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=C28872B3564F20139493D850ED88DD26&file=/internettv/c1/2017/10/10/C28872B3564F20139493D850ED88DD26.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171009期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=EA71D422BB263DC5BB8DDEC79F23ABBF&file=/internettv/c1/2017/10/09/EA71D422BB263DC5BB8DDEC79F23ABBF.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171008期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=241F3F9B953A1933CCD56369317FA137&file=/internettv/c1/2017/10/08/241F3F9B953A1933CCD56369317FA137.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171007期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=86B6A1AB13CA6CE711D919F699894454&file=/internettv/c1/2017/10/07/86B6A1AB13CA6CE711D919F699894454.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171006期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=FE0F1098E2CB18927BA91A59D0443F50&file=/internettv/c1/2017/10/06/FE0F1098E2CB18927BA91A59D0443F50.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171005期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=F035511EA63F6DF05870294C2DCF7886&file=/internettv/c1/2017/10/05/F035511EA63F6DF05870294C2DCF7886.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171004期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=203F2A98C9DB7D80422437661221B019&file=/internettv/c1/2017/10/04/203F2A98C9DB7D80422437661221B019.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171003期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=5378BC53086F2BFCC5D1DC81B5B776E9&file=/internettv/c1/2017/10/03/5378BC53086F2BFCC5D1DC81B5B776E9.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171002期
-http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=58F3FBD61D5971F4F37AC60D00EED07E&file=/internettv/c1/2017/10/02/58F3FBD61D5971F4F37AC60D00EED07E.ts
-#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="新闻点播",经视焦点20171001期
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20171020期：安以轩金晨化身“秋宝宝”花式品蟹 柳岩分享另类吃货心得
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=950F06BC3BFEBEA4F026D1E84AF5CA58&file=/internettv/c1/2017/10/20/950F06BC3BFEBEA4F026D1E84AF5CA58.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20171013期：易烊千玺关晓彤同框 王鸥娄艺潇告白天天兄弟
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=83368A7F1D9CEE9259BD86BDDE6BDE5A&file=/internettv/c1/2017/10/16/83368A7F1D9CEE9259BD86BDDE6BDE5A.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20171006期：配音大咖震撼来袭 毛晓彤Mike即兴上演《甄嬛传》
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=BD19C3167EA999138E932142308C618E&file=/internettv/c1/2017/10/06/BD19C3167EA999138E932142308C618E.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170929期：《辉煌中国》主创讲述幕后故事 世界青年才俊解读中国
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0BA994AF3CD0C007E69A1792C0704CE4&file=/internettv/c1/2017/09/29/0BA994AF3CD0C007E69A1792C0704CE4.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170922期：消防精英上演现实版《烈火雄心》 天天兄弟变学员体验消防实战
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0211F34AE9008A1A63B157BB69130E8D&file=/internettv/c1/2017/10/13/0211F34AE9008A1A63B157BB69130E8D.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170915期：卢靖姗曝《战狼2》惊险幕后 维和医疗队讲述生死救援故事
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=726AD254D284FB1699CB7BB642151F07&file=/internettv/c1/2017/09/15/726AD254D284FB1699CB7BB642151F07.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170908期：嘻哈老师鬼卞RAP秀嗨翻全场 王子璇综艺首秀甜美歌声谢师恩
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=CDF2B8CCC1C9AB19EE752D698C7F4230&file=/internettv/c1/2017/10/13/CDF2B8CCC1C9AB19EE752D698C7F4230.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170901期：唐艺昕曝与张若昀的甜蜜恋爱史 牛骏峰宁静分享驾车经历
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=01F8CF6E253E7A5F0F9998A8388BA6A3&file=/internettv/c1/2017/09/01/01F8CF6E253E7A5F0F9998A8388BA6A3.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170825期：高颜值警察齐聚一堂 欧阳超向王一博发起freestyle挑战
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=18C4451D8646FA8DF87A1D5488FD7561&file=/internettv/c1/2017/08/25/18C4451D8646FA8DF87A1D5488FD7561.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170818期：环保大使周迅传递“绿色能量” 护林老兵感人故事暖心催泪
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=07B7258BFE4AE2F7EC45852B58B6774F&file=/internettv/c1/2017/08/18/07B7258BFE4AE2F7EC45852B58B6774F.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170811期：张若昀为长沙美食打call 袁姗姗难抵美食诱惑变身“袁拌饭”
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=D91FC546C3752439BEDD54EA3E0F6378&file=/internettv/c1/2017/08/11/D91FC546C3752439BEDD54EA3E0F6378.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170804期：谭松韵熊梓淇超粉红互喂 王鸥王一博组姐弟CP
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=A601B386C59FC51F4DED8CE5214F77C7&file=/internettv/c1/2017/08/04/A601B386C59FC51F4DED8CE5214F77C7.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170728期：黄奕康复后首秀尽显吃货本色 王彦霖分享《楚乔传》拍摄趣事
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=7AB29FBC1EBA508AAB787CD060FA2799&file=/internettv/c1/2017/07/28/7AB29FBC1EBA508AAB787CD060FA2799.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170721期：流口水的夜市美食季来啦！张歆艺王鸥娄艺潇吃不停
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=EE95A6578F0EC1D6D5170BFEEEE21B9B&file=/internettv/c1/2017/07/21/EE95A6578F0EC1D6D5170BFEEEE21B9B.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170714期：胡可迟帅续前缘引爆“回忆杀” 张雪迎王一博浪漫共舞
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=928F837063D92DBBC988136D7EAA3331&file=/internettv/c1/2017/07/15/928F837063D92DBBC988136D7EAA3331.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170707期：范冰冰李晨秀恩爱疯狂撒糖 最帅出租车司机撞脸霍建华
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=B938429523CC7008C53EC5380C6486C8&file=/internettv/c1/2017/09/30/B938429523CC7008C53EC5380C6486C8.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170630期：张智霖香港街头变最帅导游 周笔畅爆发洪荒之力抢唱《Monica》
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=F56183E4274A620E55E82E4C9C607B9E&file=/internettv/c1/2017/06/30/F56183E4274A620E55E82E4C9C607B9E.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170623期：三大精英企业玩转团建新花样 天天兄弟游戏秒杀全场
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=EEBEC216223A9EED308A3C42F1642BB6&file=/internettv/c1/2017/06/23/EEBEC216223A9EED308A3C42F1642BB6.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170616期：张碧晨发际线被吐槽怒怼网友 张大大传授独家修图技巧
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=D49793A55AE71AC2C5B9FB259B4893F9&file=/internettv/c1/2017/06/16/D49793A55AE71AC2C5B9FB259B4893F9.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170609期：天天兄弟拜师学京剧 圈9领衔校园红人青春来袭
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=4B53B675B004383C1B357083438A13B5&file=/internettv/c1/2017/06/09/4B53B675B004383C1B357083438A13B5.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170602期：张大大长高只服增高鞋垫 杨云“揭短”老妈的心灵鸡汤
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=177D583C56A76FE8868543E13B2A4611&file=/internettv/c1/2017/06/02/177D583C56A76FE8868543E13B2A4611.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170526期：张馨予畅谈外卖趣事 最帅送餐小哥撞脸黄晓明
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=B54C65C2E6AB2550D422FDF3024AD42C&file=/internettv/c1/2017/05/26/B54C65C2E6AB2550D422FDF3024AD42C.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170519期：刘芸马可大送端午节福利 艺术家爆改设计惊呆汪涵
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=060683253DA571273D3CB9B987C838CD&file=/internettv/c1/2017/05/19/060683253DA571273D3CB9B987C838CD.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170512期：何猷君陈碧舸结缘天天书屋 张泉灵汪涵畅聊育儿经
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=A06966C232160C5E4FFE42B6578D3947&file=/internettv/c1/2017/06/27/A06966C232160C5E4FFE42B6578D3947.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170505期：“青年文明号”献礼五四青年节 呆萌检疫犬圈粉无数
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=27D3AD183371E60DB5859B911CBD2025&file=/internettv/c1/2017/05/15/27D3AD183371E60DB5859B911CBD2025.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170428期：迪玛希暖心献花周冬雨 关晓彤王一博花式撒狗粮
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=AAB1049870737A28788168ED4D4679E2&file=/internettv/c1/2017/06/27/AAB1049870737A28788168ED4D4679E2.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170421期：杨千嬅隔空喊话余文乐 “侣行夫妇”环球冒险奇遇记
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=876DA2474FB46D9AD1C6CE84C7A62B86&file=/internettv/c1/2017/06/27/876DA2474FB46D9AD1C6CE84C7A62B86.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170414期：董子健大开“坑妈模式”曝囧料 梅婷狂撒狗粮分享与老公旅行趣事
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=DF9F26638E2A121FDDA3B9A479F08678&file=/internettv/c1/2017/06/27/DF9F26638E2A121FDDA3B9A479F08678.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170407期：宋祖儿“祥林嫂模式”吐槽王一博 吃货王鸥介绍家乡美食盛宴
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=D8E6E36940705006EE6C32619F48D833&file=/internettv/c1/2017/06/27/D8E6E36940705006EE6C32619F48D833.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170331期：娄艺潇甜蜜携手钱枫约会桃花谷 “青岛大姨”与韩红表情包大PK
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=9C3FBC881356CD286911687260C39E40&file=/internettv/c1/2017/06/27/9C3FBC881356CD286911687260C39E40.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170324期：王一博大张伟踏春萌态十足 陈赫前妻许婧首登荧幕分享巴西奇遇
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=7640987996455E9AEE12D16C13EBD4B2&file=/internettv/c1/2017/06/27/7640987996455E9AEE12D16C13EBD4B2.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170317期：徐静蕾黄立行甜蜜撒狗粮 明道爆笑上演“菜鸟求职记”
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=80A6BC406B1610F83DA93EF9CC807D35&file=/internettv/c1/2017/06/27/80A6BC406B1610F83DA93EF9CC807D35.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170310期：杨迪白凯南组团搞事情 孙怡“一阳指”弹懵钱枫  
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=28E1BAD7EC7E1D01CBE2CCB84A420318&file=/internettv/c1/2017/06/27/28E1BAD7EC7E1D01CBE2CCB84A420318.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170303期：李玟王一博“姐弟组合”激情热舞 董明珠扬言挖走天天兄弟
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=AF93F8709F08F90CBA387246FCE5ADBD&file=/internettv/c1/2017/06/27/AF93F8709F08F90CBA387246FCE5ADBD.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170224期：王一博董力上演“花美男击剑赛” 颖儿自曝减肥神器竟是老干妈
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=A53B36B4D49CF824389A5D98EEE1E1AD&file=/internettv/c1/2017/06/27/A53B36B4D49CF824389A5D98EEE1E1AD.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170217期：王一博关晓彤贴身热舞甜蜜发糖 任素汐汪涵畅谈戏剧相见恨晚
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=3812E797ECA0EFF23CAC6A572D1B973F&file=/internettv/c1/2017/06/27/3812E797ECA0EFF23CAC6A572D1B973F.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170210期：白客模仿易中天嗨唱大张伟神曲 易烊千玺师弟大跳炫酷街舞
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=FE8AAAB2E2DB5216A9F3801C16294A0A&file=/internettv/c1/2017/06/27/FE8AAAB2E2DB5216A9F3801C16294A0A.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170120期：大张伟钱枫玩转舞龙 魏晨阿雅变福星新年献花
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E4DCC6C0E06DA8B45154E33C368C9B3A&file=/internettv/c1/2017/06/27/E4DCC6C0E06DA8B45154E33C368C9B3A.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170113期：周笔畅新歌首秀热力开嗓 大张伟潘石屹花式PK俯卧撑
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=836EE5DDF1B22BE9AE7BE1220D7018AC&file=/internettv/c1/2017/06/27/836EE5DDF1B22BE9AE7BE1220D7018AC.ts
+#EXTINF:0 tvg-logo="tiantianxiangshang.png",group-title="天天向上",20170106期：维密天使奚梦瑶变身豆皮超模 黄嘉千妙招应对夏天
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=3E5C9A4ECFFAE89680BDC76DA05C0A55&file=/internettv/c1/2017/06/27/3E5C9A4ECFFAE89680BDC76DA05C0A55.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171101期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=80BF5A059C89B19DD30E4820D1B0B641&file=/internettv/c1/2017/11/01/80BF5A059C89B19DD30E4820D1B0B641.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171102期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=B5ED3E94691F5CDD29C71D3AAE2AA2C1&file=/internettv/c1/2017/11/02/B5ED3E94691F5CDD29C71D3AAE2AA2C1.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171103期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=6F3BB5896D96552C8C5A5C2A6E30469A&file=/internettv/c1/2017/11/03/6F3BB5896D96552C8C5A5C2A6E30469A.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171104期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E3BB46BE6540511F427C657993CF38CF&file=/internettv/c1/2017/11/04/E3BB46BE6540511F427C657993CF38CF.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171105期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=59C4F7C0C0145181ECF8C4B98370C2A7&file=/internettv/c1/2017/11/05/59C4F7C0C0145181ECF8C4B98370C2A7.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171106期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=7AB370A74BEFBDC06E10B7F9221D945B&file=/internettv/c1/2017/11/06/7AB370A74BEFBDC06E10B7F9221D945B.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171107期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=8AC08AC3B88DCC7DE3DB9FA5C8C339CE&file=/internettv/c1/2017/11/07/8AC08AC3B88DCC7DE3DB9FA5C8C339CE.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171108期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=693D7A270D5718AD4B26BAF15E280094&file=/internettv/c1/2017/11/08/693D7A270D5718AD4B26BAF15E280094.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171109期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=820E5673AF40B01CF7EFD8D706D77505&file=/internettv/c1/2017/11/09/820E5673AF40B01CF7EFD8D706D77505.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171110期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=250242605AB32EB66C343C8AD152159B&file=/internettv/c1/2017/11/10/250242605AB32EB66C343C8AD152159B.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171111期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=641B4F1FE63DC99640AD3309B7C6AA8F&file=/internettv/c1/2017/11/11/641B4F1FE63DC99640AD3309B7C6AA8F.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171112期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=57F3E0830BFFD4D6CF0BCF515AEC36D2&file=/internettv/c1/2017/11/12/57F3E0830BFFD4D6CF0BCF515AEC36D2.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171113期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=B18E9E31C2C44937C31FB120D97CE4D8&file=/internettv/c1/2017/11/13/B18E9E31C2C44937C31FB120D97CE4D8.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171114期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=94FDCBEFD8FF0DAAE1F9569FE156EA14&file=/internettv/c1/2017/11/15/94FDCBEFD8FF0DAAE1F9569FE156EA14.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171115期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E6BF6C8FC7D7E65244248AC4F709E15A&file=/internettv/c1/2017/11/15/E6BF6C8FC7D7E65244248AC4F709E15A.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171116期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=30BD38649DC1544D76C462E616F480A2&file=/internettv/c1/2017/11/16/30BD38649DC1544D76C462E616F480A2.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171117期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=B3D7D06A163C679BCBA9879FC87587F9&file=/internettv/c1/2017/11/17/B3D7D06A163C679BCBA9879FC87587F9.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171118期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=94C8B0000BE9149F6284933242A576ED&file=/internettv/c1/2017/11/18/94C8B0000BE9149F6284933242A576ED.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171119期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=494CFF83CD123FEDE3881EC83364A6DC&file=/internettv/c1/2017/11/19/494CFF83CD123FEDE3881EC83364A6DC.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171120期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E3D0A2F1F085DD439DA7F0DFF8B25A1D&file=/internettv/c1/2017/11/22/E3D0A2F1F085DD439DA7F0DFF8B25A1D.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171121期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=DC00FD5A5D5C87A1957EC87FDCCEE2B4&file=/internettv/c1/2017/11/22/DC00FD5A5D5C87A1957EC87FDCCEE2B4.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171122期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=31532490EAEA11176A55F55A088985DE&file=/internettv/c1/2017/11/22/31532490EAEA11176A55F55A088985DE.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171123期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=7D95E600781A2515B48B749D1C9CB7FE&file=/internettv/c1/2017/11/23/7D95E600781A2515B48B749D1C9CB7FE.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171001期
 http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=DD04512827BF8D5641079C8CE12017E5&file=/internettv/c1/2017/10/01/DD04512827BF8D5641079C8CE12017E5.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171002期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=58F3FBD61D5971F4F37AC60D00EED07E&file=/internettv/c1/2017/10/02/58F3FBD61D5971F4F37AC60D00EED07E.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171003期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=5378BC53086F2BFCC5D1DC81B5B776E9&file=/internettv/c1/2017/10/03/5378BC53086F2BFCC5D1DC81B5B776E9.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171004期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=203F2A98C9DB7D80422437661221B019&file=/internettv/c1/2017/10/04/203F2A98C9DB7D80422437661221B019.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171005期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=F035511EA63F6DF05870294C2DCF7886&file=/internettv/c1/2017/10/05/F035511EA63F6DF05870294C2DCF7886.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171006期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=FE0F1098E2CB18927BA91A59D0443F50&file=/internettv/c1/2017/10/06/FE0F1098E2CB18927BA91A59D0443F50.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171007期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=86B6A1AB13CA6CE711D919F699894454&file=/internettv/c1/2017/10/07/86B6A1AB13CA6CE711D919F699894454.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171008期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=241F3F9B953A1933CCD56369317FA137&file=/internettv/c1/2017/10/08/241F3F9B953A1933CCD56369317FA137.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171009期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=EA71D422BB263DC5BB8DDEC79F23ABBF&file=/internettv/c1/2017/10/09/EA71D422BB263DC5BB8DDEC79F23ABBF.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171010期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=C28872B3564F20139493D850ED88DD26&file=/internettv/c1/2017/10/10/C28872B3564F20139493D850ED88DD26.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171011期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E13B801F81A7AD2F2DBE3A8D3C3477A0&file=/internettv/c1/2017/10/11/E13B801F81A7AD2F2DBE3A8D3C3477A0.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171012期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=932AA79721C6B3A721EF9A578522612B&file=/internettv/c1/2017/10/12/932AA79721C6B3A721EF9A578522612B.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171013期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=F9B836D64C9504BBF61E90295F4B5903&file=/internettv/c1/2017/10/13/F9B836D64C9504BBF61E90295F4B5903.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171014期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=7683B75A3D9B0E0B3C85502B652DFE40&file=/internettv/c1/2017/10/14/7683B75A3D9B0E0B3C85502B652DFE40.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171015期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=23738009116EB048B1C6AF2D4DAE7035&file=/internettv/c1/2017/10/15/23738009116EB048B1C6AF2D4DAE7035.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171016期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0F119ACED15F5E6B944FB3E133199E45&file=/internettv/c1/2017/10/16/0F119ACED15F5E6B944FB3E133199E45.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171017期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=61AFD3529FC0C108A24E48BACDB1C274&file=/internettv/c1/2017/10/17/61AFD3529FC0C108A24E48BACDB1C274.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171018期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=76E348F54813EBC4FD9282EE7C9DD452&file=/internettv/c1/2017/10/18/76E348F54813EBC4FD9282EE7C9DD452.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171019期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=553405A8FDFCD596F4B66FEFA2C5034E&file=/internettv/c1/2017/10/19/553405A8FDFCD596F4B66FEFA2C5034E.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171020期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=61DA3CB856AEA37C077C2319401E4851&file=/internettv/c1/2017/10/20/61DA3CB856AEA37C077C2319401E4851.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171021期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=BC5C7148C0E61FE940025E7E694C756C&file=/internettv/c1/2017/10/21/BC5C7148C0E61FE940025E7E694C756C.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171022期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=C81D9354731E25896DA7D0984B9AEE42&file=/internettv/c1/2017/10/22/C81D9354731E25896DA7D0984B9AEE42.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171023期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E5591820DFE331C6F7357A9345AD6EDC&file=/internettv/c1/2017/10/23/E5591820DFE331C6F7357A9345AD6EDC.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171024期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=FC9080A2F11224F37831952F0B696D7C&file=/internettv/c1/2017/10/24/FC9080A2F11224F37831952F0B696D7C.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171025期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=9CC145CB121FC0F6DC0B987C737863A5&file=/internettv/c1/2017/10/25/9CC145CB121FC0F6DC0B987C737863A5.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171026期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=FE95DA980F916D2C0F0B8CE0B9E6A99B&file=/internettv/c1/2017/10/26/FE95DA980F916D2C0F0B8CE0B9E6A99B.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171027期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=8E343C7D89C4638253863C8CD76543FA&file=/internettv/c1/2017/10/27/8E343C7D89C4638253863C8CD76543FA.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171028期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=3FA945C3A1600F8EC84CED7C4B2F0612&file=/internettv/c1/2017/10/28/3FA945C3A1600F8EC84CED7C4B2F0612.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171029期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=1B2AF9EB479816BD8747943D3901F877&file=/internettv/c1/2017/10/29/1B2AF9EB479816BD8747943D3901F877.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171030期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=43F090BF73FFCC904DB3BBA94E586EC2&file=/internettv/c1/2017/10/30/43F090BF73FFCC904DB3BBA94E586EC2.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20171031期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=2A7666C07EE2BD8DCC9A3E5A1155F116&file=/internettv/c1/2017/10/31/2A7666C07EE2BD8DCC9A3E5A1155F116.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170901期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=DC6D62CB348F9DFC6FC66EABBF81F09E&file=/internettv/c1/2017/09/01/DC6D62CB348F9DFC6FC66EABBF81F09E.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170902期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=AAC7513696B3F2423D6D231CB131B960&file=/internettv/c1/2017/09/02/AAC7513696B3F2423D6D231CB131B960.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170903期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E8566C41E1DA6A9F1F725CFCA2830160&file=/internettv/c1/2017/09/03/E8566C41E1DA6A9F1F725CFCA2830160.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170904期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=EDC2CA8F3BED411D92B3E740FB00079A&file=/internettv/c1/2017/09/04/EDC2CA8F3BED411D92B3E740FB00079A.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170905期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=D8C8A4F1CEE3E2694A09CBBD60917B46&file=/internettv/c1/2017/09/05/D8C8A4F1CEE3E2694A09CBBD60917B46.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170906期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=ADC9A1B77D774E46ACDAB68E9523E79D&file=/internettv/c1/2017/09/06/ADC9A1B77D774E46ACDAB68E9523E79D.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170907期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0F8EECDB012B10D26B901EE6FD367CF0&file=/internettv/c1/2017/09/07/0F8EECDB012B10D26B901EE6FD367CF0.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170908期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=10C4F4925E637FF222F823C8EF9C7AB9&file=/internettv/c1/2017/09/08/10C4F4925E637FF222F823C8EF9C7AB9.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170909期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0B876816B852E595F8469DA74F5EC499&file=/internettv/c1/2017/09/09/0B876816B852E595F8469DA74F5EC499.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170910期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=B29FA08EDCF27E6B81DB9B23BCBCB085&file=/internettv/c1/2017/09/10/B29FA08EDCF27E6B81DB9B23BCBCB085.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170911期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=F2768D62EFC441FC0FD38DF98E798940&file=/internettv/c1/2017/09/11/F2768D62EFC441FC0FD38DF98E798940.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170912期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=F411654EBEEA3D6B605C1F064723E4AA&file=/internettv/c1/2017/09/12/F411654EBEEA3D6B605C1F064723E4AA.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170913期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=26F2E67D095401723C778DAECC8D9305&file=/internettv/c1/2017/09/13/26F2E67D095401723C778DAECC8D9305.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170914期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=3EACCA70F13832F9256357106CDA3B85&file=/internettv/c1/2017/09/14/3EACCA70F13832F9256357106CDA3B85.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170915期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=7ECEDA286E9A0DCB8974D41EBF6BDFDA&file=/internettv/c1/2017/09/15/7ECEDA286E9A0DCB8974D41EBF6BDFDA.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170916期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=ABD0105A2FA5B4E98DC5F847DE751268&file=/internettv/c1/2017/09/20/ABD0105A2FA5B4E98DC5F847DE751268.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170917期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=18610685440473BF3DFDB8DBEE9BBFAA&file=/internettv/c1/2017/09/20/18610685440473BF3DFDB8DBEE9BBFAA.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170918期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=28AB51249FD11274DFC0983C239DB24A&file=/internettv/c1/2017/09/18/28AB51249FD11274DFC0983C239DB24A.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170919期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=1BF5D09260C5DBDB54FC972BB87E162A&file=/internettv/c1/2017/09/19/1BF5D09260C5DBDB54FC972BB87E162A.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170920期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=022EC7A598C864605FE0A42319D1DF70&file=/internettv/c1/2017/09/20/022EC7A598C864605FE0A42319D1DF70.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170921期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=155D6C90386FB2CB0BE451C3025168E9&file=/internettv/c1/2017/09/21/155D6C90386FB2CB0BE451C3025168E9.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170922期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E7136A13AAF8F05F1FC0E0CA89027490&file=/internettv/c1/2017/09/22/E7136A13AAF8F05F1FC0E0CA89027490.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170923期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=46CB1907BE7D233A9830D122782068AD&file=/internettv/c1/2017/09/23/46CB1907BE7D233A9830D122782068AD.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170924期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=B73C12B3ACBFD80D75723F46919A0ED7&file=/internettv/c1/2017/09/24/B73C12B3ACBFD80D75723F46919A0ED7.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170925期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0FCD0B97BA3C7FBB8BDCA481DA2B4D96&file=/internettv/c1/2017/09/25/0FCD0B97BA3C7FBB8BDCA481DA2B4D96.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170928期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=65C078E68041A2D1A91B48AF30F53AAC&file=/internettv/c1/2017/09/28/65C078E68041A2D1A91B48AF30F53AAC.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170929期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=CEE75521D94DFE1911C478E1B03421CA&file=/internettv/c1/2017/09/29/CEE75521D94DFE1911C478E1B03421CA.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170930期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=4210233B29044490424CEF8E352D6A2A&file=/internettv/c1/2017/09/30/4210233B29044490424CEF8E352D6A2A.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170801期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E24F90C07F165BB508F2AA27204399E8&file=/internettv/c1/2017/08/01/E24F90C07F165BB508F2AA27204399E8.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170802期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=2D4F22339F3775817734A06F0A1DBE38&file=/internettv/c1/2017/08/02/2D4F22339F3775817734A06F0A1DBE38.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170803期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=F7936DDAA74257E22F4089C55B40BAFC&file=/internettv/c1/2017/08/03/F7936DDAA74257E22F4089C55B40BAFC.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170804期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=5AFE4BE9BFF9133DB4189DD75787260D&file=/internettv/c1/2017/08/06/5AFE4BE9BFF9133DB4189DD75787260D.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170805期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=4E77650272C1D564FA036271ECA41C35&file=/internettv/c1/2017/08/05/4E77650272C1D564FA036271ECA41C35.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170806期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E482FA673C44EFCDE7BCDF22BA834C7B&file=/internettv/c1/2017/08/06/E482FA673C44EFCDE7BCDF22BA834C7B.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170807期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=BB3E30821416F1722BAA0E106F24FCAB&file=/internettv/c1/2017/08/07/BB3E30821416F1722BAA0E106F24FCAB.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170808期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=3674CBAB5DE06643DDD8EDEB4D4858F8&file=/internettv/c1/2017/08/08/3674CBAB5DE06643DDD8EDEB4D4858F8.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170809期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=3ADF68C75CECFD25ADBD5E2A7199649A&file=/internettv/c1/2017/08/09/3ADF68C75CECFD25ADBD5E2A7199649A.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170810期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=EA25D2819B235BEDE6577A8ED5F3D550&file=/internettv/c1/2017/08/11/EA25D2819B235BEDE6577A8ED5F3D550.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170811期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=8C40AFDF71600ADCDF2378A09DA3E6EF&file=/internettv/c1/2017/08/11/8C40AFDF71600ADCDF2378A09DA3E6EF.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170812期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=DEBA33A83FAFDD519E7C355BF671DD4A&file=/internettv/c1/2017/08/12/DEBA33A83FAFDD519E7C355BF671DD4A.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170813期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=C48B7FBF616712FD335288C2D8082725&file=/internettv/c1/2017/08/13/C48B7FBF616712FD335288C2D8082725.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170814期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=069D465C4D4796508740BF5D3A6D3628&file=/internettv/c1/2017/08/14/069D465C4D4796508740BF5D3A6D3628.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170815期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0D40FD14DEB56400B748FDF1049B5401&file=/internettv/c1/2017/08/16/0D40FD14DEB56400B748FDF1049B5401.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170816期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=D477CD122B931E84891E6C0022147012&file=/internettv/c1/2017/08/16/D477CD122B931E84891E6C0022147012.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170817期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=C66CB3582AD63667ADE0CEB4752F77EF&file=/internettv/c1/2017/08/18/C66CB3582AD63667ADE0CEB4752F77EF.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170818期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=3FBA689F8C94B623FC7FC48C8F0D8CA4&file=/internettv/c1/2017/08/18/3FBA689F8C94B623FC7FC48C8F0D8CA4.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170819期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=D77AA82C5B6F483573F6ED76EB787B0D&file=/internettv/c1/2017/08/19/D77AA82C5B6F483573F6ED76EB787B0D.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170820期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=C698C1FF291B3F274751545E0A747267&file=/internettv/c1/2017/08/20/C698C1FF291B3F274751545E0A747267.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170821期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=8B52642220C7F51440728EA45D1C2740&file=/internettv/c1/2017/08/21/8B52642220C7F51440728EA45D1C2740.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170822期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=4F74828707B43BBE070201D6BB0BFFC8&file=/internettv/c1/2017/08/23/4F74828707B43BBE070201D6BB0BFFC8.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170823期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E076A16206C54BE0E05B0D5DA9708491&file=/internettv/c1/2017/08/23/E076A16206C54BE0E05B0D5DA9708491.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170824期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E859513D3CE66768D54BD3CA72C0BAF2&file=/internettv/c1/2017/08/24/E859513D3CE66768D54BD3CA72C0BAF2.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170825期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=EF244E31545989501941CAD05954C181&file=/internettv/c1/2017/08/25/EF244E31545989501941CAD05954C181.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170826期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=7E16FC7A97B3A2612730A8761FBCCAA8&file=/internettv/c1/2017/08/26/7E16FC7A97B3A2612730A8761FBCCAA8.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170827期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=4BEBFD23248261A5B113B4C13C8DE0F4&file=/internettv/c1/2017/08/27/4BEBFD23248261A5B113B4C13C8DE0F4.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170828期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=BDD13BFECD6D9B235EEE62A8BBEBAC36&file=/internettv/c1/2017/08/28/BDD13BFECD6D9B235EEE62A8BBEBAC36.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170829期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=F94B4462A3DAF470722132391D611730&file=/internettv/c1/2017/08/29/F94B4462A3DAF470722132391D611730.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170830期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=99DB6A6F19765FA88C365ECED6E2FCD6&file=/internettv/c1/2017/08/30/99DB6A6F19765FA88C365ECED6E2FCD6.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170831期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=5893796329FEABAA34888E3019900F44&file=/internettv/c1/2017/08/31/5893796329FEABAA34888E3019900F44.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170701期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=2FA098E8711DE798C7A1B19280F91C67&file=/internettv/c1/2017/07/01/2FA098E8711DE798C7A1B19280F91C67.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170702期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=07708DD177DC4CBC56C696A161E18D4E&file=/internettv/c1/2017/07/02/07708DD177DC4CBC56C696A161E18D4E.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170703期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=523F183378C0A58987A6D41616BEBEF4&file=/internettv/c1/2017/07/03/523F183378C0A58987A6D41616BEBEF4.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170704期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=E568BEABF0B4CCC4EB533212E97D7D14&file=/internettv/c1/2017/07/04/E568BEABF0B4CCC4EB533212E97D7D14.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170705期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=30FF78BA07F3AA7BD5AA6168F6DACD3B&file=/internettv/c1/2017/07/05/30FF78BA07F3AA7BD5AA6168F6DACD3B.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170706期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=50B595AE6D30A66F3A94F10D071830FA&file=/internettv/c1/2017/07/06/50B595AE6D30A66F3A94F10D071830FA.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170707期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=A490C7BDFF31FC85E4E64C9BF6645928&file=/internettv/c1/2017/07/07/A490C7BDFF31FC85E4E64C9BF6645928.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170708期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=9220FA9D7686157D13B89E36053CEBD3&file=/internettv/c1/2017/07/08/9220FA9D7686157D13B89E36053CEBD3.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170709期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=3CC6B60734C41E2F598F6E072F8A4E6C&file=/internettv/c1/2017/07/09/3CC6B60734C41E2F598F6E072F8A4E6C.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170710期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=BE746CE53D37FC805CE5386BDBE84883&file=/internettv/c1/2017/07/10/BE746CE53D37FC805CE5386BDBE84883.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170711期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=1BC62F9A9E75FF70D41AD12C98D6EFBC&file=/internettv/c1/2017/07/11/1BC62F9A9E75FF70D41AD12C98D6EFBC.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170712期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=145A979F3FD1FC1DED2C30F8AA563937&file=/internettv/c1/2017/07/12/145A979F3FD1FC1DED2C30F8AA563937.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170713期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=357CC3469E44A8439727BD311022D2A6&file=/internettv/c1/2017/07/13/357CC3469E44A8439727BD311022D2A6.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170714期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=B06D558E8F7D9F15435D9649A39AA522&file=/internettv/c1/2017/07/14/B06D558E8F7D9F15435D9649A39AA522.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170715期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=883C06F3E99BF21B9C37D1590E84D409&file=/internettv/c1/2017/07/15/883C06F3E99BF21B9C37D1590E84D409.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170716期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=8DE6DDFA975738DB91249C2587317897&file=/internettv/c1/2017/07/17/8DE6DDFA975738DB91249C2587317897.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170717期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=3BB6808F5577AA87145A873C479DA20D&file=/internettv/c1/2017/07/17/3BB6808F5577AA87145A873C479DA20D.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170718期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=268838358C57E4F6CA2936578AEAC682&file=/internettv/c1/2017/07/18/268838358C57E4F6CA2936578AEAC682.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170719期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=891B7A3DDCC275C6EB078B49D4D08675&file=/internettv/c1/2017/07/20/891B7A3DDCC275C6EB078B49D4D08675.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170720期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=1F3456BD584C6E984C4BFF0862DEC138&file=/internettv/c1/2017/07/20/1F3456BD584C6E984C4BFF0862DEC138.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170721期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=D21383D45B50E95FD33789BD4AD0939D&file=/internettv/c1/2017/07/21/D21383D45B50E95FD33789BD4AD0939D.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170722期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=423CE2794B7A46A994F307E167431024&file=/internettv/c1/2017/07/22/423CE2794B7A46A994F307E167431024.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170723期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=F7A3FBEE301C41C1BFD0DDC9F2ADD203&file=/internettv/c1/2017/07/25/F7A3FBEE301C41C1BFD0DDC9F2ADD203.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170724期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=582FB5CB66EC09D81503DDC57CF6C721&file=/internettv/c1/2017/07/24/582FB5CB66EC09D81503DDC57CF6C721.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170725期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=945CDC8691F8A2108E9E9EB918396190&file=/internettv/c1/2017/07/25/945CDC8691F8A2108E9E9EB918396190.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170726期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=6D6D7395F81D964F6F808544252BF83D&file=/internettv/c1/2017/07/26/6D6D7395F81D964F6F808544252BF83D.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170727期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=DA973F3102E46319D2963B3F3E63ED87&file=/internettv/c1/2017/07/27/DA973F3102E46319D2963B3F3E63ED87.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170728期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=9718E38C3951A3DF861F748C1FAD4F98&file=/internettv/c1/2017/07/28/9718E38C3951A3DF861F748C1FAD4F98.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170729期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=C52E8208F92AA79DADF09C9892032389&file=/internettv/c1/2017/07/29/C52E8208F92AA79DADF09C9892032389.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170730期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=09400F1BA66C8960DEC26540085459D4&file=/internettv/c1/2017/07/30/09400F1BA66C8960DEC26540085459D4.ts
+#EXTINF:0 tvg-logo="jingshijiaodiana.png",group-title="经视焦点",经视焦点20170731期
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=68C7C281A97F9BE9E3E761988DD63A53&file=/internettv/c1/2017/07/31/68C7C281A97F9BE9E3E761988DD63A53.ts
 
