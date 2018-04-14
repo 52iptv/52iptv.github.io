@@ -175,6 +175,12 @@ http://acm.gg/jade.m3u8
 http://tvbilive17-i.akamaihd.net/hls/live/624328/CJMandarin5/CJMandarin5-02.m3u8
 #EXTINF:0 tvg-logo="tvbhudongxinwena.png",group-title="港台境外",无线新闻台
 http://live.alicdn.com/live/hellotv-inews.m3u8
+#EXTINF:0 tvg-logo="fenghuangweishihd.png",group-title="港台境外",凤凰卫视
+http://223.82.250.72/ysten-bussiness/live/fhchinese/1.m3u8
+#EXTINF:0 tvg-logo="fenghuangzixunhd.png",group-title="港台境外",凤凰资讯
+http://223.82.250.72/ysten-bussiness/live/fhzixun/1.m3u8
+#EXTINF:0 tvg-logo="fenghuangzixunhd.png",group-title="港台境外",凤凰香港
+http://223.82.250.72/ysten-bussiness/live/fhhongkong/1.m3u8
 #EXTINF:-1,星空卫视
 http://slave.pygdzhcs.com:13164/playurl?playtype=live&accesstoken=R59B64E0CU30817066K7735C7CBI267C417CPBM30487C2WDB06148B4C1&programid=4200000124&playtoken=ABCDEFGH
 #EXTINF:-1,华娱卫视
