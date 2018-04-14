@@ -133,6 +133,8 @@ http://119.39.133.90:6610/001/2/ch00000090990000001127/index.m3u8?IASHttpSession
 http://175.6.15.36:8080/nn_live.m3u8?id=KLCDMPP360
 #EXTINF:0 tvg-logo="changshaxinwen.png",group-title="湖南IPTV",长沙新闻
 http://ottlivetimeal.mgtv.com/nn_live/nn_x64/mgtvlive/CSXW.ts
+#EXTINF:0 tvg-logo="xinshijue.png",group-title="地方频道",新视觉
+http://222.37.8.76:13164/playurl?playtype=live&protocol=http&accesstoken=G214BC3E7V11307D1TC05A0AJBD5302ABM7867DF14I9F9DD772&&playtoken=ABCDEFGH&programid=4200000150
 #EXTINF:0 tvg-logo="dianbo.png",group-title="地方频道",娄底综合高清测试
 http://mms.ldntv.cn:1935/live/zonghe/chunklist_w830301348.m3u8
 #EXTINF:0 tvg-logo="dianbo.png",group-title="地方频道",娄底公共高清测试
@@ -197,251 +199,251 @@ http://slave.pygdzhcs.com:13164/playurl?playtype=live&accesstoken=R59B64E0CU3081
 http://slave.pygdzhcs.com:13164/playurl?playtype=live&accesstoken=R59B64E0CU30817066K7735C7CBI267C417CPBM30487C2WDB06148B4C1&programid=4200000123&playtoken=ABCDEFGH
 #EXTINF:0 tvg-logo="tvbyule.png",group-title="港台境外",娱乐新闻台
 http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",天天向上
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",天天向上
 http://47.95.172.168/channel/1083.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",快乐大本营
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",快乐大本营
 http://47.95.172.168/channel/1084.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",喜羊羊
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",喜羊羊
 http://47.95.172.168/channel/1088.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",猪猪侠
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",猪猪侠
 http://47.95.172.168/channel/1089.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",哆啦A梦
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",哆啦A梦
 http://47.95.172.168/channel/1092.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",蜡笔小新
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",蜡笔小新
 http://47.95.172.168/channel/1093.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",影视原声
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",影视原声
 http://47.95.172.168/channel/1095.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",明星潮流
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",明星潮流
 http://47.95.172.168/channel/1105.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",英雄联盟
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",英雄联盟
 http://47.95.172.168/channel/1106.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",日韩动漫
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",日韩动漫
 http://47.95.172.168/channel/1184.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",欧美动漫
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",欧美动漫
 http://47.95.172.168/channel/1185.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",古装宫斗
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",古装宫斗
 http://47.95.172.168/channel/1190.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",轻松喜剧
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",轻松喜剧
 http://47.95.172.168/channel/1200.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",悬疑犯罪
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",悬疑犯罪
 http://47.95.172.168/channel/1201.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",动作电影
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",动作电影
 http://47.95.172.168/channel/1202.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",谍战剧
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",谍战剧
 http://47.95.172.168/channel/1215.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",国漫专区
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",国漫专区
 http://47.95.172.168/channel/1216.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",仙侠剧场
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",仙侠剧场
 http://47.95.172.168/channel/1221.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",休闲垂钓
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",休闲垂钓
 http://47.95.172.168/channel/1225.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",汽车视界
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",汽车视界
 http://47.95.172.168/channel/1227.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",美课美妆
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",美课美妆
 http://47.95.172.168/channel/1230.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",湖南卫视
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",湖南卫视
 http://47.95.172.168/channel/1233.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",芒果TV自制
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",芒果TV自制
 http://47.95.172.168/channel/1234.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",热播综艺
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",热播综艺
 http://47.95.172.168/channel/1242.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",熊出没
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",熊出没
 http://47.95.172.168/channel/1243.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",快乐购
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",快乐购
 http://47.95.172.168/channel/1244.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",新剧速递
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",新剧速递
 http://47.95.172.168/channel/1256.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",最新院线
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",最新院线
 http://47.95.172.168/channel/1258.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",成龙电影全集
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",成龙电影全集
 http://47.95.172.168/channel/1259.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",周星驰电影全集
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",周星驰电影全集
 http://47.95.172.168/channel/1260.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",超级飞侠
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",超级飞侠
 http://47.95.172.168/channel/1262.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",新番连载
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",新番连载
 http://47.95.172.168/channel/1266.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",快手早餐
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",快手早餐
 http://47.95.172.168/channel/1426.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",50款爆好吃的面
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",50款爆好吃的面
 http://47.95.172.168/channel/1428.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",樱桃小丸子
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",樱桃小丸子
 http://47.95.172.168/channel/1466.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",宝宝巴士儿歌
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",宝宝巴士儿歌
 http://47.95.172.168/channel/1524.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",爆笑虫子
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",爆笑虫子
 http://47.95.172.168/channel/1525.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",小猪佩奇
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",小猪佩奇
 http://47.95.172.168/channel/1526.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",明星大侦探
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",明星大侦探
 http://47.95.172.168/channel/1546.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",向往的生活
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",向往的生活
 http://47.95.172.168/channel/1552.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",《我是歌手》纯享版
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",《我是歌手》纯享版
 http://47.95.172.168/channel/1565.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",新还珠格格
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",新还珠格格
 http://47.95.172.168/channel/1569.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",称霸广场舞必备神曲
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",称霸广场舞必备神曲
 http://47.95.172.168/channel/1576.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",宋小宝
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",宋小宝
 http://47.95.172.168/channel/1578.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",春晚小品集锦
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",春晚小品集锦
 http://47.95.172.168/channel/1611.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",极限挑战
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",极限挑战
 http://47.95.172.168/channel/1612.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",凤凰传奇
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",凤凰传奇
 http://47.95.172.168/channel/1616.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",汪汪队立大功
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",汪汪队立大功
 http://47.95.172.168/channel/1617.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",寻情记
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",寻情记
 http://47.95.172.168/channel/1652.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",因为遇见你
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",因为遇见你
 http://47.95.172.168/channel/1653.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",有一种情歌叫薛之谦
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",有一种情歌叫薛之谦
 http://47.95.172.168/channel/1654.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",人民的名义
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",人民的名义
 http://47.95.172.168/channel/1741.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",花儿与少年
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",花儿与少年
 http://47.95.172.168/channel/1795.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",贾玲
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",贾玲
 http://47.95.172.168/channel/1804.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",速度与激情全系列
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",速度与激情全系列
 http://47.95.172.168/channel/1811.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",2017变形计
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",2017变形计
 http://47.95.172.168/channel/1812.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",贝瓦儿歌
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",贝瓦儿歌
 http://47.95.172.168/channel/1820.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",兔小贝儿歌
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",兔小贝儿歌
 http://47.95.172.168/channel/1821.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",花千骨
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",花千骨
 http://47.95.172.168/channel/1838.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",一人一首经典歌曲
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",一人一首经典歌曲
 http://47.95.172.168/channel/1843.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",本周流行菜谱
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",本周流行菜谱
 http://47.95.172.168/channel/1846.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",我想和你唱
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",我想和你唱
 http://47.95.172.168/channel/1860.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",王者荣耀
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",王者荣耀
 http://47.95.172.168/channel/1869.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",芭比公主系列
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",芭比公主系列
 http://47.95.172.168/channel/1880.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",熊熊乐园
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",熊熊乐园
 http://47.95.172.168/channel/1901.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",儿歌300首
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",儿歌300首
 http://47.95.172.168/channel/1911.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",楚乔传
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",楚乔传
 http://47.95.172.168/channel/1913.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",恐怖电影
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",恐怖电影
 http://47.95.172.168/channel/1918.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",岳云鹏
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",岳云鹏
 http://47.95.172.168/channel/1926.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",徐老师的粉丝看这里
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",徐老师的粉丝看这里
 http://47.95.172.168/channel/1935.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",Here！乐高世界入口
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",Here！乐高世界入口
 http://47.95.172.168/channel/1936.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",疯狂的麦咭
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",疯狂的麦咭
 http://47.95.172.168/channel/1937.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",狐妖小红娘
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",狐妖小红娘
 http://47.95.172.168/channel/1938.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",七十二层奇楼
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",七十二层奇楼
 http://47.95.172.168/channel/1940.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",特种兵之火凤凰
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",特种兵之火凤凰
 http://47.95.172.168/channel/1951.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",哇！这里有好多玩具
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",哇！这里有好多玩具
 http://47.95.172.168/channel/1952.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",我的世界
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",我的世界
 http://47.95.172.168/channel/1993.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",美少女带你打怪兽
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",美少女带你打怪兽
 http://47.95.172.168/channel/1995.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",你不知道的中国美食
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",你不知道的中国美食
 http://47.95.172.168/channel/2008.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",中餐厅
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",中餐厅
 http://47.95.172.168/channel/2020.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",青春校园剧
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",青春校园剧
 http://47.95.172.168/channel/2023.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",我们来了 第二季
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",我们来了 第二季
 http://47.95.172.168/channel/2046.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",惊喜价到
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",惊喜价到
 http://47.95.172.168/channel/2050.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",办公室小野
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",办公室小野
 http://47.95.172.168/channel/2057.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",浪花一朵朵
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",浪花一朵朵
 http://47.95.172.168/channel/2063.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",空中超市
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",空中超市
 http://47.95.172.168/channel/2081.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",经典特工电影
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",经典特工电影
 http://47.95.172.168/channel/2085.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",爸爸去哪儿第五季
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",爸爸去哪儿第五季
 http://47.95.172.168/channel/2118.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",热血军旅剧
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",热血军旅剧
 http://47.95.172.168/channel/2154.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",画江湖系列
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",画江湖系列
 http://47.95.172.168/channel/2158.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",中国惊奇先生
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",中国惊奇先生
 http://47.95.172.168/channel/2159.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",十部高评分动漫大电影
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",十部高评分动漫大电影
 http://47.95.172.168/channel/2174.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",亲爱的客栈
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",亲爱的客栈
 http://47.95.172.168/channel/2180.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",大话西游
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",大话西游
 http://47.95.172.168/channel/2181.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",今日必看资讯
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",今日必看资讯
 http://47.95.172.168/channel/2182.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",社会热点
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",社会热点
 http://47.95.172.168/channel/2183.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",微在涨姿势
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",微在涨姿势
 http://47.95.172.168/channel/2190.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",家装指南
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",家装指南
 http://47.95.172.168/channel/2211.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",麻辣变形计
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",麻辣变形计
 http://47.95.172.168/channel/2215.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",蒙面唱将金曲捞
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",蒙面唱将金曲捞
 http://47.95.172.168/channel/2221.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",十五部超搞笑动漫
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",十五部超搞笑动漫
 http://47.95.172.168/channel/2223.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",启蒙音乐剧
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",启蒙音乐剧
 http://47.95.172.168/channel/2230.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",奇兵神犬
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",奇兵神犬
 http://47.95.172.168/channel/2244.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",香港经典动作片
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",香港经典动作片
 http://47.95.172.168/channel/2259.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",50道惹味川菜
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",50道惹味川菜
 http://47.95.172.168/channel/2263.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",喜剧总动员
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",喜剧总动员
 http://47.95.172.168/channel/2270.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",天籁之战
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",天籁之战
 http://47.95.172.168/channel/2272.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",贝乐虎儿歌
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",贝乐虎儿歌
 http://47.95.172.168/channel/2274.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",开心剧乐部
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",开心剧乐部
 http://47.95.172.168/channel/2275.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",大胃美少女合集
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",大胃美少女合集
 http://47.95.172.168/channel/2277.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",Papi酱团队创意视频
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",Papi酱团队创意视频
 http://47.95.172.168/channel/2278.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",校园动漫大全
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",校园动漫大全
 http://47.95.172.168/channel/2280.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",哄娃必备动画
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",哄娃必备动画
 http://47.95.172.168/channel/2281.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",科幻电影
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",科幻电影
 http://47.95.172.168/channel/2284.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",反腐纪录片揭落马细节
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",反腐纪录片揭落马细节
 http://47.95.172.168/channel/2285.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",一分钟性知识
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",一分钟性知识
 http://47.95.172.168/channel/2288.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",全球最性感女人
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",全球最性感女人
 http://47.95.172.168/channel/2289.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",日食记
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",日食记
 http://47.95.172.168/channel/2296.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",早教必备儿歌
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",早教必备儿歌
 http://47.95.172.168/channel/2301.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",超萌！适合1-4岁宝宝的动漫
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",超萌！适合1-4岁宝宝的动漫
 http://47.95.172.168/channel/2302.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",极光之恋
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",极光之恋
 http://47.95.172.168/channel/2331.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",倩女幽魂系列
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",倩女幽魂系列
 http://47.95.172.168/channel/2335.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",爆笑恶作剧
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",爆笑恶作剧
 http://47.95.172.168/channel/2345.m3u8
-#EXTINF:0 tvg-logo="dianbo.png",group-title="MGTV点播",萌仔萌萌宅
+#EXTINF:0 tvg-logo="dianbo.png",group-title="精彩点播",萌仔萌萌宅
 http://47.95.172.168/channel/2361.m3u8
